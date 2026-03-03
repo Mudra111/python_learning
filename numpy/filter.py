@@ -20,7 +20,12 @@ print(y)
 print(arr[y])
 
 # Using numpy shortcut
-filter = arr > 6 
+filter1 = (arr > 6) & (arr < 10)
 print(arr)
-print(filter)
-print(arr[filter])
+print(filter1)
+print(arr[filter1])
+
+filter2 = arr > 6
+print(arr)
+print(filter2)
+print(arr[filter2])
