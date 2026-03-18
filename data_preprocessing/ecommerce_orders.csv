@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,city,product_category,price,quantity,discount_percent,payment_method,order_status,customer_rating
+ORD10000,CUST1654,2024-11-01,Surat,Electronics,1935.25,4,10.0,Credit Card,Shipped,2.0
+ORD10001,CUST1114,2024-01-02,Hyderabad,Beauty,,3,0.0,UPI,Delivered,4.0
+ORD10002,CUST1025,2024-05-21,Bangalore,Clothing,3686.77,3,20.0,Credit Card,Cancelled,1.0
+ORD10003,CUST1759,2024-03-15,Bangalore,Electronics,3033.43,3,,Net Banking,Returned,2.0
+ORD10004,CUST1281,2024-03-07,Hyderabad,Home,864.49,4,10.0,Cash on Delivery,Delivered,5.0
+ORD10005,CUST1250,2024-10-03,Mumbai,Home,864.37,2,5.0,Net Banking,Returned,
+ORD10006,CUST1228,2024-05-08,Delhi,Beauty,384.61,4,10.0,Debit Card,Shipped,2.0
+ORD10007,CUST1142,2024-03-30,Delhi,Home,4344.26,2,10.0,Net Banking,Returned,4.0
+ORD10008,CUST1754,2024-02-26,Ahmedabad,Books,3045.46,4,5.0,Credit Card,Shipped,
+ORD10009,CUST1104,2024-12-04,Bangalore,Books,3569.56,4,15.0,Net Banking,Delivered,2.0
+ORD10010,CUST1692,2024-01-14,Surat,Home,200.86,2,15.0,Net Banking,Delivered,1.0
+ORD10011,CUST1758,2024-03-08,Mumbai,Beauty,4852.56,3,0.0,UPI,Cancelled,1.0
+ORD10012,CUST1913,2024-01-08,Ahmedabad,Electronics,4178.97,2,0.0,Cash on Delivery,Shipped,5.0
+ORD10013,CUST1558,2024-07-02,Surat,Electronics,1140.46,1,15.0,Net Banking,Cancelled,3.0
+ORD10014,CUST1089,2024-05-01,Mumbai,Clothing,990.94,1,,Debit Card,Delivered,
+ORD10015,CUST1604,2024-10-28,Ahmedabad,Sports,998.68,2,20.0,Net Banking,Shipped,4.0
+ORD10016,CUST1432,2024-06-14,Surat,Clothing,1590.79,4,10.0,Cash on Delivery,Cancelled,4.0
+ORD10017,CUST1032,2024-01-09,Mumbai,Beauty,2671.31,1,20.0,Cash on Delivery,Returned,3.0
+ORD10018,CUST1030,2024-03-30,Bangalore,Beauty,2216.53,1,10.0,Cash on Delivery,Returned,1.0
+ORD10019,CUST1095,2024-05-15,Surat,Beauty,1527.02,4,15.0,Cash on Delivery,Delivered,1.0
+ORD10020,CUST1223,2024-01-27,Delhi,Sports,3098.08,4,0.0,Cash on Delivery,Delivered,2.0
+ORD10021,CUST1238,2024-03-05,Pune,Electronics,783.52,3,,UPI,Cancelled,5.0
+ORD10022,CUST1517,2024-08-03,Pune,Home,1531.51,4,0.0,Cash on Delivery,Cancelled,
+ORD10023,CUST1616,2024-09-26,Delhi,Books,1895.17,2,20.0,UPI,Cancelled,5.0
+ORD10024,CUST1027,2024-02-28,Surat,Clothing,2334.74,2,0.0,Net Banking,Shipped,5.0
+ORD10025,CUST1574,2024-02-02,Delhi,Clothing,3947.36,3,15.0,Net Banking,Returned,2.0
+ORD10026,CUST1203,2024-08-31,Pune,Electronics,1078.4,1,,UPI,Shipped,5.0
+ORD10027,CUST1733,2024-08-17,Pune,Sports,2619.75,1,20.0,Credit Card,Shipped,3.0
+ORD10028,CUST1665,2024-07-04,Surat,Clothing,3002.83,4,,Cash on Delivery,Cancelled,2.0
+ORD10029,CUST1718,2024-09-19,Pune,Sports,327.61,2,10.0,Cash on Delivery,Returned,3.0
+ORD10030,CUST1558,2024-10-30,Bangalore,Clothing,3076.97,1,0.0,Net Banking,Cancelled,2.0
+ORD10031,CUST1429,2024-02-25,Delhi,Beauty,935.57,3,,UPI,Returned,5.0
+ORD10032,CUST1225,2024-08-19,Bangalore,Home,418.75,3,5.0,Cash on Delivery,Returned,3.0
+ORD10033,CUST1459,2024-09-14,Bangalore,Electronics,4749.54,2,0.0,Net Banking,Cancelled,3.0
+ORD10034,CUST1603,2024-04-23,Surat,Sports,4831.6,3,10.0,Cash on Delivery,Delivered,3.0
+ORD10035,CUST1284,2024-11-10,Delhi,Electronics,4061.15,3,,UPI,Shipped,2.0
+ORD10036,CUST1828,2024-01-23,Surat,Beauty,1592.61,2,20.0,Credit Card,Returned,4.0
+ORD10037,CUST1890,2024-12-03,Pune,Beauty,578.59,4,10.0,Debit Card,Cancelled,5.0
+ORD10038,CUST1006,2024-09-23,Mumbai,Books,3452.74,4,5.0,Net Banking,Shipped,3.0
+ORD10039,CUST1777,2024-06-03,Surat,Electronics,2256.75,3,,Net Banking,Shipped,
+ORD10040,CUST1825,2024-08-22,Surat,Sports,697.99,4,15.0,Debit Card,Cancelled,4.0
+ORD10041,CUST1163,2024-11-25,Mumbai,Sports,2526.37,4,0.0,Debit Card,Delivered,
+ORD10042,CUST1714,2024-01-16,Hyderabad,Beauty,,3,20.0,Net Banking,Delivered,5.0
+ORD10043,CUST1432,2024-02-01,Pune,Books,4555.67,4,15.0,Credit Card,Cancelled,5.0
+ORD10044,CUST1348,2024-09-02,Delhi,Books,1368.02,3,,Net Banking,Delivered,3.0
+ORD10045,CUST1284,2024-07-24,Ahmedabad,Clothing,3346.36,1,,Debit Card,Shipped,3.0
+ORD10046,CUST1159,2024-08-06,Hyderabad,Sports,1627.38,2,10.0,Cash on Delivery,Cancelled,2.0
+ORD10047,CUST1220,2024-12-17,Mumbai,Electronics,2648.33,2,,UPI,Returned,4.0
+ORD10048,CUST1980,2024-02-25,Ahmedabad,Books,2778.88,4,20.0,Cash on Delivery,Cancelled,4.0
+ORD10049,CUST1781,2024-09-08,Pune,Beauty,1005.79,4,15.0,Credit Card,Delivered,3.0
+ORD10050,CUST1344,2024-12-30,Surat,Electronics,4850.96,4,20.0,Net Banking,Shipped,5.0
+ORD10051,CUST1104,2024-08-15,Surat,Books,3898.15,2,5.0,Net Banking,Shipped,3.0
+ORD10052,CUST1094,2024-02-07,Hyderabad,Sports,4703.54,1,5.0,UPI,Returned,5.0
+ORD10053,CUST1389,2024-02-11,Pune,Books,4484.65,1,0.0,Cash on Delivery,Cancelled,5.0
+ORD10054,CUST1099,2024-06-13,Delhi,Sports,3029.71,2,0.0,UPI,Delivered,3.0
+ORD10055,CUST1367,2024-11-07,Delhi,Books,4617.18,1,5.0,Credit Card,Returned,1.0
+ORD10056,CUST1867,2024-03-16,Bangalore,Clothing,533.61,2,,Cash on Delivery,Cancelled,4.0
+ORD10057,CUST1352,2024-02-03,Pune,Beauty,1060.32,1,20.0,Cash on Delivery,Delivered,
+ORD10058,CUST1618,2024-03-05,Pune,Books,321.61,3,5.0,Credit Card,Delivered,5.0
+ORD10059,CUST1270,2024-05-20,Bangalore,Clothing,1694.12,3,0.0,Net Banking,Shipped,5.0
+ORD10060,CUST1826,2024-11-15,Pune,Beauty,2004.52,2,5.0,Net Banking,Shipped,1.0
+ORD10061,CUST1044,2024-11-20,Pune,Clothing,1429.61,1,,Debit Card,Shipped,
+ORD10062,CUST1747,2024-10-26,Bangalore,Electronics,4160.81,4,5.0,Net Banking,Delivered,2.0
+ORD10063,CUST1470,2024-10-07,Hyderabad,Sports,1848.09,1,20.0,UPI,Cancelled,1.0
+ORD10064,CUST1549,2024-12-30,Pune,Beauty,1476.58,3,15.0,Credit Card,Cancelled,
+ORD10065,CUST1127,2024-06-15,Pune,Books,2759.21,3,,Net Banking,Cancelled,1.0
+ORD10066,CUST1996,2024-07-14,Surat,Books,790.53,1,0.0,Cash on Delivery,Returned,5.0
+ORD10067,CUST1944,2024-11-01,Ahmedabad,Home,4030.77,1,20.0,Credit Card,Returned,4.0
+ORD10068,CUST1387,2024-09-28,Delhi,Books,465.3,4,5.0,Net Banking,Shipped,1.0
+ORD10069,CUST1080,2024-05-30,Ahmedabad,Sports,4935.75,4,5.0,UPI,Shipped,2.0
+ORD10070,CUST1565,2024-08-20,Hyderabad,Sports,3884.0,1,15.0,Debit Card,Cancelled,3.0
+ORD10071,CUST1300,2024-09-15,Hyderabad,Books,1073.71,1,0.0,Debit Card,Shipped,
+ORD10072,CUST1849,2024-11-05,Surat,Beauty,127.06,1,0.0,Credit Card,Cancelled,1.0
+ORD10073,CUST1643,2024-08-08,Mumbai,Clothing,4095.76,1,10.0,UPI,Cancelled,1.0
+ORD10074,CUST1633,2024-02-20,Ahmedabad,Home,3563.6,2,0.0,UPI,Returned,2.0
+ORD10075,CUST1906,2024-12-25,Mumbai,Sports,3672.14,1,15.0,UPI,Cancelled,4.0
+ORD10076,CUST1882,2024-02-28,Surat,Home,3879.22,4,10.0,Net Banking,Shipped,1.0
+ORD10077,CUST1370,2024-12-01,Delhi,Home,462.82,3,10.0,Debit Card,Cancelled,1.0
+ORD10078,CUST1591,2024-11-29,Mumbai,Sports,1856.48,2,5.0,UPI,Shipped,4.0
+ORD10079,CUST1196,2024-10-09,Surat,Clothing,667.76,1,5.0,Cash on Delivery,Cancelled,2.0
+ORD10080,CUST1721,2024-04-20,Hyderabad,Clothing,4329.21,3,0.0,Net Banking,Delivered,
+ORD10081,CUST1071,2024-08-08,Pune,Sports,3154.16,2,10.0,Cash on Delivery,Returned,
+ORD10082,CUST1046,2024-08-19,Delhi,Books,1721.4,3,5.0,Cash on Delivery,Returned,1.0
+ORD10083,CUST1677,2024-04-26,Bangalore,Beauty,411.44,1,15.0,Credit Card,Cancelled,4.0
+ORD10084,CUST1233,2024-07-30,Hyderabad,Beauty,1623.81,1,5.0,Net Banking,Shipped,1.0
+ORD10085,CUST1791,2024-06-22,Hyderabad,Books,1693.4,4,,Cash on Delivery,Cancelled,3.0
+ORD10086,CUST1296,2024-08-20,Pune,Home,3675.07,1,,Net Banking,Returned,
+ORD10087,CUST1081,2024-07-23,Delhi,Beauty,3224.03,1,5.0,UPI,Shipped,5.0
+ORD10088,CUST1875,2024-07-31,Delhi,Books,4447.34,2,10.0,Credit Card,Delivered,3.0
+ORD10089,CUST1238,2024-02-18,Ahmedabad,Home,2413.85,4,10.0,Debit Card,Delivered,1.0
+ORD10090,CUST1887,2024-06-09,Delhi,Beauty,686.01,2,20.0,Cash on Delivery,Shipped,2.0
+ORD10091,CUST1103,2024-08-06,Ahmedabad,Beauty,3594.9,3,,Credit Card,Cancelled,
+ORD10092,CUST1389,2024-06-09,Mumbai,Books,3827.85,1,15.0,Credit Card,Returned,5.0
+ORD10093,CUST1284,2024-12-06,Hyderabad,Beauty,2850.26,3,10.0,Credit Card,Shipped,3.0
+ORD10094,CUST1464,2024-05-10,Delhi,Clothing,3877.74,2,0.0,Credit Card,Cancelled,
+ORD10095,CUST1650,2024-07-10,Hyderabad,Clothing,2519.6,1,,UPI,Shipped,4.0
+ORD10096,CUST1854,2024-03-19,,Clothing,2661.39,1,15.0,Net Banking,Shipped,2.0
+ORD10097,CUST1373,2024-12-17,Delhi,Books,2194.95,2,15.0,Debit Card,Returned,3.0
+ORD10098,CUST1166,2024-08-30,Hyderabad,Beauty,224.55,2,10.0,Debit Card,Delivered,4.0
+ORD10099,CUST1379,2024-02-04,Hyderabad,Home,628.67,2,15.0,Net Banking,Delivered,1.0
+ORD10100,CUST1363,2024-02-16,Ahmedabad,Beauty,254.0,2,10.0,Debit Card,Delivered,4.0
+ORD10101,CUST1214,2024-02-13,Hyderabad,Home,3218.41,2,5.0,Credit Card,Delivered,3.0
+ORD10102,CUST1686,2024-02-17,Bangalore,Beauty,1640.34,1,,UPI,Returned,3.0
+ORD10103,CUST1273,2024-08-09,Pune,Clothing,2592.0,2,20.0,Credit Card,Cancelled,1.0
+ORD10104,CUST1718,2024-02-19,Delhi,Beauty,4547.08,1,5.0,Credit Card,Shipped,4.0
+ORD10105,CUST1959,2024-07-09,Surat,Beauty,1321.53,1,,UPI,Returned,4.0
+ORD10106,CUST1699,2024-03-07,Pune,Clothing,2110.88,2,10.0,Cash on Delivery,Delivered,1.0
+ORD10107,CUST1663,2024-10-11,Ahmedabad,Books,3802.2,2,,Debit Card,Delivered,4.0
+ORD10108,CUST1073,2024-01-31,Bangalore,Books,1221.11,4,10.0,UPI,Returned,
+ORD10109,CUST1623,2024-10-27,Hyderabad,Beauty,477.2,1,5.0,Net Banking,Shipped,1.0
+ORD10110,CUST1650,2024-10-14,Bangalore,Beauty,1519.78,2,0.0,Net Banking,Returned,2.0
+ORD10111,CUST1175,2024-10-14,Hyderabad,Home,889.98,2,0.0,Net Banking,Shipped,3.0
+ORD10112,CUST1546,2024-06-17,Surat,Beauty,4655.52,2,,Cash on Delivery,Returned,2.0
+ORD10113,CUST1746,2024-12-09,Mumbai,Electronics,4059.79,4,0.0,UPI,Cancelled,
+ORD10114,CUST1250,2024-03-03,Hyderabad,Home,3203.68,4,10.0,Cash on Delivery,Delivered,
+ORD10115,CUST1167,2024-07-29,Ahmedabad,Books,4370.16,3,15.0,Net Banking,Cancelled,5.0
+ORD10116,CUST1473,2024-06-30,Pune,Sports,4037.99,1,10.0,Credit Card,Returned,5.0
+ORD10117,CUST1388,2024-12-06,Mumbai,Books,1014.19,3,15.0,Credit Card,Cancelled,5.0
+ORD10118,CUST1276,2024-08-04,Mumbai,Books,4473.54,2,5.0,Cash on Delivery,Shipped,1.0
+ORD10119,CUST1947,2024-01-27,Hyderabad,Beauty,2742.78,4,20.0,Net Banking,Returned,4.0
+ORD10120,CUST1655,2024-05-27,Hyderabad,Beauty,4056.46,4,15.0,Net Banking,Shipped,
+ORD10121,CUST1704,2024-11-03,Ahmedabad,Sports,4490.85,3,0.0,Net Banking,Cancelled,2.0
+ORD10122,CUST1570,2024-06-08,Pune,Beauty,1658.22,4,10.0,Net Banking,Delivered,2.0
+ORD10123,CUST1224,2024-06-29,Hyderabad,Beauty,639.25,2,5.0,UPI,Returned,2.0
+ORD10124,CUST1701,2024-02-23,Ahmedabad,Books,1216.88,4,0.0,Cash on Delivery,Shipped,2.0
+ORD10125,CUST1332,2024-10-22,Hyderabad,Home,2192.83,3,5.0,Cash on Delivery,Cancelled,5.0
+ORD10126,CUST1863,2024-09-16,Hyderabad,Sports,4108.27,2,20.0,UPI,Returned,2.0
+ORD10127,CUST1786,2024-04-18,Surat,Electronics,4317.58,3,10.0,Credit Card,Delivered,4.0
+ORD10128,CUST1794,2024-03-20,Surat,Books,134.07,4,,Cash on Delivery,Returned,5.0
+ORD10129,CUST1057,2024-12-02,Hyderabad,Electronics,2602.66,3,10.0,Debit Card,Delivered,2.0
+ORD10130,CUST1234,2024-09-03,Bangalore,Electronics,2145.31,3,20.0,Cash on Delivery,Cancelled,1.0
+ORD10131,CUST1841,2024-04-24,Delhi,Sports,1188.33,1,10.0,Cash on Delivery,Shipped,3.0
+ORD10132,CUST1032,2024-02-25,Bangalore,Clothing,687.34,4,,Credit Card,Returned,3.0
+ORD10133,CUST1824,2024-06-28,Mumbai,Electronics,1754.31,4,15.0,UPI,Returned,3.0
+ORD10134,CUST1323,2024-10-11,,Beauty,4720.26,3,5.0,Credit Card,Shipped,5.0
+ORD10135,CUST1410,2024-07-07,Bangalore,Electronics,1683.69,1,,Credit Card,Returned,2.0
+ORD10136,CUST1274,2024-02-28,Delhi,Clothing,2642.07,4,0.0,UPI,Returned,
+ORD10137,CUST1067,2024-05-22,Bangalore,Home,3544.79,2,20.0,Debit Card,Returned,
+ORD10138,CUST1216,2024-10-20,Pune,Clothing,1881.79,3,15.0,UPI,Returned,
+ORD10139,CUST1935,2024-04-25,Surat,Home,4861.73,4,0.0,Credit Card,Shipped,5.0
+ORD10140,CUST1965,2024-08-07,Delhi,Beauty,4815.99,2,0.0,UPI,Cancelled,4.0
+ORD10141,CUST1580,2024-10-14,Surat,Home,1333.73,4,20.0,Cash on Delivery,Returned,1.0
+ORD10142,CUST1897,2024-11-14,Hyderabad,Clothing,2536.52,2,15.0,Cash on Delivery,Shipped,1.0
+ORD10143,CUST1735,2024-11-10,Surat,Electronics,1574.3,3,0.0,Debit Card,Cancelled,3.0
+ORD10144,CUST1322,2024-12-11,Hyderabad,Beauty,1495.72,4,0.0,Debit Card,Shipped,3.0
+ORD10145,CUST1217,2024-11-25,Surat,Home,280.75,4,15.0,UPI,Delivered,
+ORD10146,CUST1671,2024-10-12,Hyderabad,Clothing,3086.87,1,10.0,UPI,Cancelled,
+ORD10147,CUST1511,2024-01-14,Ahmedabad,Books,2563.13,3,0.0,UPI,Cancelled,3.0
+ORD10148,CUST1405,2024-11-07,Delhi,Electronics,352.25,2,5.0,Net Banking,Delivered,2.0
+ORD10149,CUST1905,2024-12-02,Mumbai,Home,1465.37,4,15.0,Credit Card,Cancelled,4.0
+ORD10150,CUST1936,2024-12-21,Delhi,Sports,4550.5,4,0.0,Credit Card,Cancelled,4.0
+ORD10151,CUST1658,2024-05-16,Mumbai,Electronics,1273.85,2,20.0,Debit Card,Delivered,4.0
+ORD10152,CUST1469,2024-01-15,Delhi,Books,809.98,3,,Cash on Delivery,Shipped,4.0
+ORD10153,CUST1146,2024-04-02,Delhi,Beauty,2498.32,1,5.0,Cash on Delivery,Returned,3.0
+ORD10154,CUST1271,2024-05-19,Surat,Beauty,4929.69,1,,Cash on Delivery,Cancelled,1.0
+ORD10155,CUST1142,2024-12-25,Mumbai,Books,1286.07,4,,Cash on Delivery,Shipped,3.0
+ORD10156,CUST1252,2024-06-07,Bangalore,Clothing,3393.46,2,0.0,Credit Card,Shipped,4.0
+ORD10157,CUST1762,2024-06-22,Mumbai,Beauty,3831.94,4,5.0,Net Banking,Delivered,3.0
+ORD10158,CUST1574,2024-06-28,Mumbai,Beauty,1264.42,2,5.0,Cash on Delivery,Shipped,4.0
+ORD10159,CUST1551,2024-01-04,Delhi,Books,3668.26,1,10.0,Debit Card,Delivered,5.0
+ORD10160,CUST1269,2024-04-02,Mumbai,Sports,1902.14,3,,UPI,Shipped,
+ORD10161,CUST1764,2024-03-14,Hyderabad,Clothing,3198.3,2,5.0,UPI,Returned,1.0
+ORD10162,CUST1598,2024-10-16,Delhi,Books,3204.3,1,10.0,Debit Card,Shipped,5.0
+ORD10163,CUST1438,2024-12-02,Bangalore,Beauty,2725.3,4,15.0,Debit Card,Shipped,2.0
+ORD10164,CUST1919,2024-07-24,Hyderabad,Home,542.42,2,10.0,Debit Card,Shipped,3.0
+ORD10165,CUST1597,2024-02-05,Ahmedabad,Beauty,4192.98,3,20.0,Net Banking,Delivered,2.0
+ORD10166,CUST1408,2024-03-13,Surat,Beauty,1671.82,4,0.0,UPI,Cancelled,3.0
+ORD10167,CUST1370,2024-11-20,Hyderabad,Electronics,1013.94,4,15.0,Net Banking,Delivered,
+ORD10168,CUST1224,2024-01-16,Hyderabad,Sports,299.8,1,15.0,Cash on Delivery,Returned,5.0
+ORD10169,CUST1141,2024-02-16,Pune,Sports,2995.38,2,20.0,UPI,Delivered,
+ORD10170,CUST1521,2024-09-28,Ahmedabad,Sports,3420.07,4,10.0,Debit Card,Cancelled,4.0
+ORD10171,CUST1505,2024-04-20,Mumbai,Beauty,181.28,3,0.0,Net Banking,Returned,
+ORD10172,CUST1093,2024-07-11,Hyderabad,Home,2609.26,2,10.0,Credit Card,Cancelled,
+ORD10173,CUST1773,2024-08-02,Bangalore,Books,1209.83,3,5.0,UPI,Cancelled,4.0
+ORD10174,CUST1048,2024-08-20,Surat,Electronics,3261.35,4,10.0,Debit Card,Returned,3.0
+ORD10175,CUST1881,2024-06-23,Bangalore,Electronics,954.4,3,15.0,Debit Card,Cancelled,4.0
+ORD10176,CUST1112,2024-03-21,Hyderabad,Beauty,3485.59,1,0.0,Cash on Delivery,Delivered,5.0
+ORD10177,CUST1156,2024-07-08,Surat,Home,1995.0,3,10.0,Net Banking,Cancelled,
+ORD10178,CUST1642,2024-06-08,Surat,Clothing,4689.98,2,0.0,Cash on Delivery,Shipped,4.0
+ORD10179,CUST1163,2024-06-15,Surat,Books,773.85,3,0.0,Credit Card,Delivered,
+ORD10180,CUST1811,2024-10-17,Bangalore,Sports,1771.23,3,5.0,Credit Card,Cancelled,5.0
+ORD10181,CUST1696,2024-11-01,Mumbai,Clothing,656.02,1,5.0,Cash on Delivery,Shipped,2.0
+ORD10182,CUST1432,2024-02-13,Hyderabad,Beauty,4631.0,3,15.0,UPI,Delivered,5.0
+ORD10183,CUST1610,2024-01-27,Surat,Beauty,4398.96,3,20.0,UPI,Returned,1.0
+ORD10184,CUST1065,2024-03-20,Hyderabad,Beauty,1363.91,4,0.0,Cash on Delivery,Delivered,1.0
+ORD10185,CUST1394,2024-03-21,Hyderabad,Beauty,3333.92,4,20.0,Cash on Delivery,Returned,1.0
+ORD10186,CUST1390,2024-11-12,Bangalore,Home,4104.39,2,15.0,UPI,Delivered,
+ORD10187,CUST1610,2024-01-26,Pune,Books,2820.48,4,0.0,Net Banking,Shipped,3.0
+ORD10188,CUST1479,2024-12-11,Pune,Books,2695.29,4,0.0,Cash on Delivery,Returned,3.0
+ORD10189,CUST1541,2024-02-11,Surat,Beauty,1285.08,4,,Debit Card,Delivered,3.0
+ORD10190,CUST1257,2024-05-19,Delhi,Books,556.2,4,20.0,Net Banking,Returned,
+ORD10191,CUST1994,2024-08-14,Bangalore,Clothing,4496.36,1,10.0,Cash on Delivery,Cancelled,5.0
+ORD10192,CUST1566,2024-12-04,Mumbai,Beauty,4512.05,4,5.0,Debit Card,Delivered,3.0
+ORD10193,CUST1881,2024-08-05,Bangalore,Clothing,3202.2,1,10.0,Debit Card,Delivered,2.0
+ORD10194,CUST1965,2024-09-05,Pune,Home,1761.25,1,20.0,Cash on Delivery,Shipped,1.0
+ORD10195,CUST1011,2024-11-06,Pune,Sports,1811.13,4,5.0,Cash on Delivery,Shipped,5.0
+ORD10196,CUST1696,2024-08-14,Pune,Clothing,3657.18,3,10.0,Cash on Delivery,Shipped,1.0
+ORD10197,CUST1738,2024-07-31,Ahmedabad,Beauty,4495.84,1,,Debit Card,Returned,3.0
+ORD10198,CUST1117,2024-05-19,Bangalore,Electronics,4446.72,3,5.0,Credit Card,Delivered,5.0
+ORD10199,CUST1698,2024-04-20,Hyderabad,Clothing,3921.39,3,0.0,Cash on Delivery,Returned,4.0
+ORD10200,CUST1906,2024-09-19,Hyderabad,Clothing,3245.96,4,10.0,Cash on Delivery,Delivered,2.0
+ORD10201,CUST1549,2024-02-28,Ahmedabad,Beauty,512.29,2,5.0,Net Banking,Shipped,3.0
+ORD10202,CUST1768,2024-06-25,Pune,Books,891.98,4,,Cash on Delivery,Returned,3.0
+ORD10203,CUST1273,2024-08-08,Delhi,Electronics,4502.92,2,5.0,Net Banking,Cancelled,2.0
+ORD10204,CUST1787,2024-02-26,Bangalore,Sports,3071.5,2,5.0,Net Banking,Cancelled,2.0
+ORD10205,CUST1656,2024-05-25,Mumbai,Electronics,145.07,4,,Credit Card,Delivered,4.0
+ORD10206,CUST1348,2024-12-13,Bangalore,Sports,597.21,4,10.0,Cash on Delivery,Returned,3.0
+ORD10207,CUST1114,2024-12-13,Mumbai,Home,3351.16,2,15.0,Credit Card,Returned,
+ORD10208,CUST1300,2024-10-30,Pune,Books,124.8,4,10.0,Debit Card,Delivered,3.0
+ORD10209,CUST1445,2024-09-06,Pune,Home,887.96,2,20.0,Credit Card,Delivered,1.0
+ORD10210,CUST1161,2024-09-26,Mumbai,Clothing,2788.8,3,,UPI,Shipped,5.0
+ORD10211,CUST1464,2024-12-07,Delhi,Clothing,3490.29,4,10.0,UPI,Delivered,5.0
+ORD10212,CUST1003,2024-06-06,Ahmedabad,Books,3294.61,3,5.0,UPI,Shipped,1.0
+ORD10213,CUST1976,2024-01-24,Hyderabad,Home,1198.92,1,,Net Banking,Returned,5.0
+ORD10214,CUST1739,2024-04-22,Hyderabad,Electronics,3589.68,3,0.0,UPI,Cancelled,2.0
+ORD10215,CUST1896,2024-07-21,Hyderabad,Home,1262.52,3,10.0,Credit Card,Cancelled,5.0
+ORD10216,CUST1736,2024-11-02,Bangalore,Sports,1694.46,2,,Cash on Delivery,Shipped,5.0
+ORD10217,CUST1269,2024-01-29,Ahmedabad,Beauty,3757.81,3,10.0,Net Banking,Delivered,1.0
+ORD10218,CUST1995,2024-01-04,Bangalore,Clothing,3283.2,4,,Net Banking,Delivered,4.0
+ORD10219,CUST1512,2024-04-14,Pune,Electronics,4261.19,2,5.0,UPI,Cancelled,5.0
+ORD10220,CUST1780,2024-06-03,Bangalore,Clothing,3322.3,1,0.0,Debit Card,Cancelled,
+ORD10221,CUST1182,2024-04-18,Bangalore,Home,2884.71,4,0.0,Debit Card,Shipped,5.0
+ORD10222,CUST1519,2024-03-11,Bangalore,Books,559.01,1,20.0,Cash on Delivery,Shipped,4.0
+ORD10223,CUST1934,2024-05-10,Mumbai,Electronics,1901.81,3,,Credit Card,Returned,1.0
+ORD10224,CUST1108,2024-05-28,Hyderabad,Beauty,1399.49,4,10.0,UPI,Cancelled,4.0
+ORD10225,CUST1891,2024-06-16,Ahmedabad,Books,1295.55,4,0.0,Credit Card,Delivered,1.0
+ORD10226,CUST1640,2024-03-02,Hyderabad,Beauty,4867.75,1,0.0,Debit Card,Returned,2.0
+ORD10227,CUST1305,2024-01-04,Delhi,Home,2026.18,4,15.0,Debit Card,Shipped,1.0
+ORD10228,CUST1861,2024-09-11,Pune,Sports,4471.03,4,15.0,UPI,Shipped,2.0
+ORD10229,CUST1654,2024-08-08,Surat,Books,3192.58,4,0.0,Debit Card,Returned,2.0
+ORD10230,CUST1519,2024-03-30,Pune,Books,3994.58,3,,Debit Card,Cancelled,1.0
+ORD10231,CUST1623,2024-03-07,Hyderabad,Home,2562.92,1,20.0,Cash on Delivery,Returned,
+ORD10232,CUST1203,2024-07-13,Surat,Electronics,2926.83,4,0.0,Cash on Delivery,Delivered,3.0
+ORD10233,CUST1156,2024-09-29,Pune,Beauty,2513.34,2,5.0,Debit Card,Returned,1.0
+ORD10234,CUST1382,2024-12-26,Mumbai,Home,1056.69,2,10.0,UPI,Cancelled,5.0
+ORD10235,CUST1780,2024-04-27,Mumbai,Books,3640.02,2,20.0,UPI,Shipped,
+ORD10236,CUST1165,2024-09-13,Hyderabad,Clothing,1475.78,2,5.0,Debit Card,Shipped,
+ORD10237,CUST1552,2024-10-13,Mumbai,Clothing,,3,20.0,Debit Card,Shipped,5.0
+ORD10238,CUST1976,2024-12-08,Mumbai,Books,3262.81,4,5.0,Net Banking,Shipped,3.0
+ORD10239,CUST1797,2024-06-30,Delhi,Electronics,967.84,1,10.0,Cash on Delivery,Returned,
+ORD10240,CUST1944,2024-02-06,Delhi,Books,4708.25,4,10.0,Cash on Delivery,Shipped,2.0
+ORD10241,CUST1543,2024-07-22,Surat,Clothing,4774.25,3,15.0,UPI,Delivered,3.0
+ORD10242,CUST1940,2024-01-22,Delhi,Sports,4582.84,2,,Credit Card,Shipped,5.0
+ORD10243,CUST1000,2024-08-11,Hyderabad,Books,1913.78,3,5.0,Credit Card,Returned,3.0
+ORD10244,CUST1613,2024-01-10,Pune,Books,175.74,4,15.0,Debit Card,Cancelled,1.0
+ORD10245,CUST1331,2024-08-23,Hyderabad,Sports,4648.76,1,5.0,Debit Card,Shipped,3.0
+ORD10246,CUST1500,2024-02-09,Mumbai,Electronics,2198.1,3,15.0,Net Banking,Shipped,2.0
+ORD10247,CUST1019,2024-06-09,Bangalore,Home,4836.61,1,10.0,Net Banking,Delivered,1.0
+ORD10248,CUST1114,2024-10-21,Hyderabad,Clothing,4821.74,3,20.0,UPI,Delivered,4.0
+ORD10249,CUST1951,2024-08-07,Ahmedabad,Clothing,4279.75,1,15.0,Credit Card,Returned,5.0
+ORD10250,CUST1371,2024-10-20,Ahmedabad,Beauty,1542.8,1,5.0,Net Banking,Shipped,5.0
+ORD10251,CUST1899,2024-07-26,,Home,1986.98,2,5.0,Credit Card,Cancelled,3.0
+ORD10252,CUST1851,2024-12-29,Bangalore,Home,4270.57,1,,Net Banking,Cancelled,
+ORD10253,CUST1826,2024-11-23,Hyderabad,Home,1652.92,2,10.0,Cash on Delivery,Shipped,1.0
+ORD10254,CUST1314,2024-08-01,Hyderabad,Home,930.51,4,5.0,Debit Card,Delivered,4.0
+ORD10255,CUST1245,2024-05-28,Pune,Clothing,2828.33,4,0.0,Net Banking,Returned,1.0
+ORD10256,CUST1059,2024-02-28,Ahmedabad,Books,4687.16,2,20.0,Net Banking,Shipped,5.0
+ORD10257,CUST1246,2024-07-26,Ahmedabad,Books,3510.55,2,15.0,UPI,Shipped,1.0
+ORD10258,CUST1899,2024-01-11,Hyderabad,Sports,2893.3,3,,Cash on Delivery,Delivered,4.0
+ORD10259,CUST1580,2024-06-15,Surat,Books,576.16,3,20.0,Debit Card,Shipped,
+ORD10260,CUST1969,2024-03-28,Pune,Beauty,3113.54,3,10.0,Cash on Delivery,Returned,3.0
+ORD10261,CUST1080,2024-11-12,Pune,Electronics,4951.26,4,,Debit Card,Cancelled,2.0
+ORD10262,CUST1087,2024-08-23,Ahmedabad,Electronics,786.41,3,15.0,Cash on Delivery,Cancelled,1.0
+ORD10263,CUST1749,2024-12-19,Pune,Beauty,2639.82,1,15.0,Cash on Delivery,Returned,2.0
+ORD10264,CUST1497,2024-07-04,Surat,Home,4399.13,1,0.0,UPI,Cancelled,5.0
+ORD10265,CUST1835,2024-02-15,Bangalore,Sports,3729.77,3,10.0,Credit Card,Shipped,3.0
+ORD10266,CUST1070,2024-08-11,Surat,Clothing,3515.38,1,,Cash on Delivery,Returned,3.0
+ORD10267,CUST1778,2024-02-24,Bangalore,Beauty,3542.17,4,,Debit Card,Delivered,1.0
+ORD10268,CUST1545,2024-05-04,Mumbai,Books,1861.51,1,5.0,Debit Card,Delivered,
+ORD10269,CUST1784,2024-08-11,Surat,Books,,4,0.0,UPI,Delivered,3.0
+ORD10270,CUST1128,2024-10-28,Hyderabad,Clothing,4065.87,2,0.0,Credit Card,Delivered,1.0
+ORD10271,CUST1131,2024-07-24,Mumbai,Electronics,4069.56,2,,Debit Card,Shipped,1.0
+ORD10272,CUST1675,2024-09-25,Ahmedabad,Beauty,4348.65,2,,UPI,Shipped,2.0
+ORD10273,CUST1486,2024-02-10,Bangalore,Home,4574.88,2,20.0,Debit Card,Delivered,3.0
+ORD10274,CUST1969,2024-07-21,Mumbai,Sports,2605.58,1,20.0,Net Banking,Shipped,1.0
+ORD10275,CUST1562,2024-06-07,Mumbai,Electronics,2557.43,3,20.0,Cash on Delivery,Returned,2.0
+ORD10276,CUST1169,2024-06-22,Ahmedabad,Sports,4011.65,1,0.0,Credit Card,Returned,4.0
+ORD10277,CUST1271,2024-04-23,Mumbai,Home,3284.82,4,5.0,Cash on Delivery,Returned,2.0
+ORD10278,CUST1540,2024-06-19,Bangalore,Books,3539.64,1,15.0,Cash on Delivery,Delivered,2.0
+ORD10279,CUST1893,2024-03-27,Bangalore,Beauty,3999.38,1,20.0,Net Banking,Delivered,1.0
+ORD10280,CUST1621,2024-02-09,Surat,Home,4461.03,4,5.0,Credit Card,Delivered,5.0
+ORD10281,CUST1433,2024-09-18,Ahmedabad,Electronics,1756.18,2,10.0,Cash on Delivery,Shipped,5.0
+ORD10282,CUST1987,2024-11-20,Pune,Books,1940.36,2,20.0,UPI,Cancelled,
+ORD10283,CUST1216,2024-02-28,Bangalore,Home,560.51,2,15.0,Debit Card,Cancelled,5.0
+ORD10284,CUST1951,2024-09-28,Mumbai,Books,2933.57,3,10.0,Debit Card,Shipped,2.0
+ORD10285,CUST1552,2024-09-18,Bangalore,Books,276.12,4,10.0,UPI,Delivered,
+ORD10286,CUST1773,2024-04-09,Bangalore,Sports,2381.43,4,15.0,Debit Card,Delivered,1.0
+ORD10287,CUST1747,2024-06-27,Hyderabad,Sports,2758.96,1,20.0,Net Banking,Shipped,3.0
+ORD10288,CUST1706,2024-06-28,Surat,Electronics,1504.05,3,0.0,UPI,Returned,2.0
+ORD10289,CUST1205,2024-11-26,Pune,Home,2995.08,2,15.0,Net Banking,Returned,2.0
+ORD10290,CUST1730,2024-03-16,Bangalore,Beauty,249.45,3,15.0,Credit Card,Shipped,
+ORD10291,CUST1319,2024-04-30,Ahmedabad,Clothing,283.01,4,15.0,Debit Card,Shipped,1.0
+ORD10292,CUST1408,2024-02-22,Bangalore,Home,4130.74,4,10.0,Net Banking,Returned,4.0
+ORD10293,CUST1687,2024-03-15,Ahmedabad,Books,1864.93,1,5.0,Debit Card,Returned,2.0
+ORD10294,CUST1665,2024-05-11,Ahmedabad,Electronics,722.6,1,0.0,Credit Card,Cancelled,4.0
+ORD10295,CUST1382,2024-04-11,Surat,Electronics,2658.99,4,20.0,Cash on Delivery,Cancelled,4.0
+ORD10296,CUST1448,2024-03-29,Pune,Clothing,3872.97,2,20.0,Debit Card,Cancelled,5.0
+ORD10297,CUST1921,2024-11-04,Ahmedabad,Books,1157.52,2,5.0,Credit Card,Delivered,1.0
+ORD10298,CUST1529,2024-03-19,Surat,Books,3152.16,3,15.0,UPI,Returned,4.0
+ORD10299,CUST1462,2024-12-01,,Electronics,518.2,4,0.0,Debit Card,Delivered,1.0
+ORD10300,CUST1123,2024-02-08,Surat,Beauty,353.24,4,20.0,UPI,Shipped,5.0
+ORD10301,CUST1253,2024-03-31,Delhi,Electronics,2703.64,2,,Credit Card,Delivered,1.0
+ORD10302,CUST1230,2024-11-17,Bangalore,Clothing,2749.11,2,20.0,UPI,Delivered,2.0
+ORD10303,CUST1065,2024-09-09,Pune,Beauty,3223.41,4,15.0,Net Banking,Shipped,4.0
+ORD10304,CUST1346,2024-08-25,Ahmedabad,Beauty,,1,,Cash on Delivery,Delivered,1.0
+ORD10305,CUST1021,2024-10-15,Ahmedabad,Clothing,4881.68,4,5.0,UPI,Delivered,3.0
+ORD10306,CUST1602,2024-10-23,Bangalore,Beauty,2629.87,4,0.0,Net Banking,Cancelled,1.0
+ORD10307,CUST1567,2024-08-17,Mumbai,Sports,1682.49,2,5.0,Cash on Delivery,Shipped,4.0
+ORD10308,CUST1235,2024-12-14,Hyderabad,Electronics,3996.41,2,5.0,Credit Card,Shipped,5.0
+ORD10309,CUST1602,2024-10-16,Ahmedabad,Clothing,1427.08,1,0.0,Credit Card,Shipped,5.0
+ORD10310,CUST1225,2024-11-25,Hyderabad,Books,2250.96,1,0.0,Debit Card,Shipped,4.0
+ORD10311,CUST1007,2024-11-21,Pune,Beauty,484.44,3,20.0,Net Banking,Returned,2.0
+ORD10312,CUST1072,2024-11-15,Bangalore,Beauty,224.22,4,20.0,Cash on Delivery,Returned,2.0
+ORD10313,CUST1724,2024-06-14,Surat,Sports,4816.98,2,0.0,Debit Card,Shipped,5.0
+ORD10314,CUST1646,2024-11-17,Pune,Beauty,4196.3,1,,Debit Card,Returned,5.0
+ORD10315,CUST1060,2024-06-10,Ahmedabad,Electronics,3510.27,3,10.0,Credit Card,Delivered,4.0
+ORD10316,CUST1234,2024-03-18,Surat,Beauty,2103.87,3,20.0,UPI,Cancelled,2.0
+ORD10317,CUST1069,2024-08-13,Pune,Beauty,949.14,2,10.0,Cash on Delivery,Cancelled,5.0
+ORD10318,CUST1927,2024-02-04,Ahmedabad,Clothing,866.54,2,,Credit Card,Delivered,2.0
+ORD10319,CUST1032,2024-08-28,Bangalore,Electronics,1326.19,3,0.0,Credit Card,Cancelled,5.0
+ORD10320,CUST1880,2024-08-14,Hyderabad,Sports,2791.21,1,,UPI,Delivered,1.0
+ORD10321,CUST1338,2024-11-19,Ahmedabad,Beauty,3601.52,3,20.0,Net Banking,Delivered,3.0
+ORD10322,CUST1072,2024-06-04,Ahmedabad,Home,3334.97,4,5.0,Net Banking,Cancelled,
+ORD10323,CUST1526,2024-05-20,Mumbai,Electronics,1471.68,4,0.0,Cash on Delivery,Delivered,1.0
+ORD10324,CUST1243,2024-10-29,Mumbai,Electronics,4778.84,2,15.0,UPI,Cancelled,
+ORD10325,CUST1285,2024-01-29,Mumbai,Electronics,3715.69,1,10.0,UPI,Shipped,5.0
+ORD10326,CUST1685,2024-06-29,Surat,Electronics,2816.33,1,,Debit Card,Cancelled,3.0
+ORD10327,CUST1497,2024-09-16,Pune,Clothing,3097.43,4,0.0,UPI,Cancelled,3.0
+ORD10328,CUST1219,2024-02-07,Hyderabad,Home,2156.04,3,,Cash on Delivery,Shipped,5.0
+ORD10329,CUST1552,2024-06-07,Hyderabad,Books,1313.88,2,0.0,UPI,Cancelled,5.0
+ORD10330,CUST1135,2024-08-24,Hyderabad,Electronics,1844.27,3,20.0,Debit Card,Delivered,2.0
+ORD10331,CUST1740,2024-08-19,Hyderabad,Books,3813.45,3,20.0,Net Banking,Returned,5.0
+ORD10332,CUST1957,2024-01-20,Surat,Clothing,170.53,3,20.0,UPI,Shipped,4.0
+ORD10333,CUST1903,2024-01-30,Bangalore,Home,668.76,1,,UPI,Cancelled,5.0
+ORD10334,CUST1584,2024-07-07,Bangalore,Sports,325.41,4,15.0,Cash on Delivery,Shipped,4.0
+ORD10335,CUST1590,2024-05-26,Surat,Sports,299.57,1,20.0,Debit Card,Shipped,5.0
+ORD10336,CUST1484,2024-02-09,Ahmedabad,Sports,4291.76,4,0.0,UPI,Delivered,2.0
+ORD10337,CUST1248,2024-11-26,Delhi,Beauty,3547.92,2,20.0,Cash on Delivery,Delivered,4.0
+ORD10338,CUST1803,2024-02-16,Delhi,Sports,2423.45,2,5.0,Debit Card,Cancelled,1.0
+ORD10339,CUST1484,2024-11-10,Ahmedabad,Sports,579.39,3,20.0,Credit Card,Cancelled,4.0
+ORD10340,CUST1826,2024-10-31,Delhi,Home,2508.92,4,,Debit Card,Shipped,2.0
+ORD10341,CUST1416,2024-09-16,Bangalore,Electronics,2420.01,4,15.0,Credit Card,Shipped,
+ORD10342,CUST1194,2024-07-15,Surat,Sports,948.69,4,5.0,Credit Card,Shipped,4.0
+ORD10343,CUST1096,2024-08-24,Pune,Beauty,2225.87,3,,Debit Card,Delivered,5.0
+ORD10344,CUST1099,2024-10-24,Mumbai,Electronics,2052.67,3,,Debit Card,Shipped,5.0
+ORD10345,CUST1674,2024-10-10,Bangalore,Books,3117.67,2,,Cash on Delivery,Cancelled,
+ORD10346,CUST1441,2024-01-22,,Electronics,3211.96,1,0.0,Debit Card,Cancelled,2.0
+ORD10347,CUST1362,2024-08-18,Bangalore,Beauty,321.99,4,,Net Banking,Returned,3.0
+ORD10348,CUST1433,2024-10-19,Bangalore,Beauty,1935.6,4,0.0,UPI,Shipped,5.0
+ORD10349,CUST1420,2024-11-29,Surat,Books,3166.71,1,,Debit Card,Delivered,1.0
+ORD10350,CUST1478,2024-04-06,Pune,Electronics,2565.37,4,10.0,Credit Card,Returned,2.0
+ORD10351,CUST1884,2024-06-13,Delhi,Beauty,4296.8,3,5.0,Credit Card,Delivered,4.0
+ORD10352,CUST1746,2024-11-05,Bangalore,Books,3327.6,3,10.0,Debit Card,Delivered,4.0
+ORD10353,CUST1055,2024-08-31,Pune,Electronics,898.38,4,,UPI,Shipped,1.0
+ORD10354,CUST1689,2024-09-13,Hyderabad,Beauty,445.79,3,5.0,UPI,Shipped,5.0
+ORD10355,CUST1669,2024-03-18,Surat,Electronics,3247.85,3,5.0,Cash on Delivery,Shipped,2.0
+ORD10356,CUST1661,2024-02-01,Ahmedabad,Home,229.91,4,15.0,Cash on Delivery,Returned,1.0
+ORD10357,CUST1100,2024-08-18,Ahmedabad,Books,2970.3,2,10.0,Cash on Delivery,Delivered,5.0
+ORD10358,CUST1062,2024-02-22,Surat,Electronics,4707.13,1,15.0,UPI,Shipped,2.0
+ORD10359,CUST1412,2024-06-24,Hyderabad,Home,2919.82,3,5.0,Credit Card,Shipped,4.0
+ORD10360,CUST1745,2024-12-31,Ahmedabad,Beauty,2002.03,2,0.0,Cash on Delivery,Shipped,2.0
+ORD10361,CUST1347,2024-02-13,Delhi,Home,3252.11,3,5.0,Debit Card,Shipped,
+ORD10362,CUST1819,2024-09-15,Bangalore,Books,2345.44,3,15.0,Cash on Delivery,Cancelled,3.0
+ORD10363,CUST1882,2024-11-26,Pune,Electronics,2773.52,1,10.0,Debit Card,Delivered,2.0
+ORD10364,CUST1111,2024-03-29,Mumbai,Home,4713.18,3,,Debit Card,Delivered,3.0
+ORD10365,CUST1254,2024-01-21,Pune,Sports,1991.9,1,,Credit Card,Shipped,2.0
+ORD10366,CUST1196,2024-05-06,Mumbai,Sports,4809.83,1,10.0,Debit Card,Returned,3.0
+ORD10367,CUST1194,2024-12-28,,Sports,4536.22,1,,Cash on Delivery,Delivered,
+ORD10368,CUST1549,2024-08-12,Surat,Beauty,1059.38,2,,Credit Card,Returned,4.0
+ORD10369,CUST1459,2024-08-12,Surat,Electronics,439.87,4,15.0,Credit Card,Shipped,5.0
+ORD10370,CUST1143,2024-09-25,Mumbai,Sports,593.81,2,10.0,UPI,Shipped,3.0
+ORD10371,CUST1432,2024-09-24,Bangalore,Clothing,189.29,4,20.0,Debit Card,Delivered,
+ORD10372,CUST1187,2024-11-08,,Books,562.77,4,0.0,Cash on Delivery,Shipped,3.0
+ORD10373,CUST1285,2024-03-22,Surat,Clothing,3446.73,1,0.0,Debit Card,Returned,4.0
+ORD10374,CUST1473,2024-07-05,Delhi,Clothing,448.82,3,,Cash on Delivery,Shipped,3.0
+ORD10375,CUST1255,2024-07-09,Delhi,Beauty,1662.98,1,0.0,Net Banking,Shipped,
+ORD10376,CUST1895,2024-05-24,Delhi,Sports,4239.89,3,10.0,UPI,Delivered,
+ORD10377,CUST1945,2024-07-17,Bangalore,Books,214.03,4,10.0,Credit Card,Cancelled,1.0
+ORD10378,CUST1077,2024-07-28,Delhi,Home,4090.9,1,5.0,UPI,Returned,4.0
+ORD10379,CUST1453,2024-06-22,Mumbai,Beauty,1481.09,3,5.0,Net Banking,Cancelled,1.0
+ORD10380,CUST1827,2024-12-13,Hyderabad,Clothing,679.01,2,0.0,UPI,Shipped,4.0
+ORD10381,CUST1882,2024-11-02,Bangalore,Home,3514.01,3,20.0,UPI,Returned,3.0
+ORD10382,CUST1876,2024-01-27,Ahmedabad,Beauty,3181.82,1,5.0,Net Banking,Shipped,
+ORD10383,CUST1563,2024-11-19,Hyderabad,Beauty,4399.61,2,5.0,UPI,Cancelled,1.0
+ORD10384,CUST1100,2024-11-27,Hyderabad,Beauty,3701.85,3,10.0,UPI,Cancelled,3.0
+ORD10385,CUST1051,2024-06-20,Bangalore,Home,4037.06,3,20.0,Net Banking,Returned,
+ORD10386,CUST1667,2024-02-03,Mumbai,Electronics,1481.97,3,,Net Banking,Shipped,4.0
+ORD10387,CUST1553,2024-06-17,Surat,Books,969.45,3,0.0,Credit Card,Cancelled,
+ORD10388,CUST1856,2024-02-18,Delhi,Books,3778.01,3,5.0,Cash on Delivery,Returned,3.0
+ORD10389,CUST1015,2024-10-12,Delhi,Clothing,4053.49,2,20.0,Cash on Delivery,Shipped,1.0
+ORD10390,CUST1992,2024-12-13,Delhi,Electronics,4953.48,4,20.0,Net Banking,Shipped,1.0
+ORD10391,CUST1095,2024-07-16,Surat,Electronics,2121.83,2,0.0,Cash on Delivery,Returned,
+ORD10392,CUST1948,2024-05-25,Bangalore,Electronics,1922.89,2,20.0,Debit Card,Shipped,3.0
+ORD10393,CUST1771,2024-05-09,Pune,Books,3904.42,2,20.0,Debit Card,Cancelled,2.0
+ORD10394,CUST1869,2024-12-02,Mumbai,Books,1769.94,4,20.0,Debit Card,Cancelled,4.0
+ORD10395,CUST1242,2024-11-04,Bangalore,Sports,4660.71,1,5.0,Credit Card,Returned,4.0
+ORD10396,CUST1170,2024-03-17,Ahmedabad,Books,4306.22,4,0.0,Cash on Delivery,Delivered,3.0
+ORD10397,CUST1416,2024-06-19,Hyderabad,Books,2202.07,2,20.0,UPI,Shipped,2.0
+ORD10398,CUST1497,2024-02-11,Hyderabad,Electronics,3779.27,3,20.0,Net Banking,Cancelled,1.0
+ORD10399,CUST1492,2024-10-25,Surat,Home,3797.26,3,5.0,Cash on Delivery,Cancelled,5.0
+ORD10400,CUST1218,2024-12-05,Pune,Clothing,605.31,2,0.0,Credit Card,Cancelled,5.0
+ORD10401,CUST1885,2024-03-13,Pune,Beauty,4522.51,3,10.0,UPI,Cancelled,3.0
+ORD10402,CUST1410,2024-06-28,Ahmedabad,Beauty,2575.74,2,5.0,Net Banking,Shipped,2.0
+ORD10403,CUST1924,2024-06-07,Surat,Beauty,,3,0.0,UPI,Delivered,2.0
+ORD10404,CUST1060,2024-12-01,Pune,Home,,4,20.0,Net Banking,Shipped,4.0
+ORD10405,CUST1168,2024-12-23,Bangalore,Clothing,4488.06,1,0.0,Debit Card,Shipped,1.0
+ORD10406,CUST1388,2024-12-05,Delhi,Sports,2007.09,1,0.0,Net Banking,Returned,
+ORD10407,CUST1002,2024-07-19,Ahmedabad,Beauty,153.1,4,,Net Banking,Cancelled,2.0
+ORD10408,CUST1399,2024-03-07,Delhi,Books,4536.37,4,0.0,Credit Card,Cancelled,
+ORD10409,CUST1271,2024-10-31,Ahmedabad,Clothing,547.3,2,10.0,Credit Card,Delivered,5.0
+ORD10410,CUST1948,2024-12-28,Mumbai,Clothing,1664.64,2,0.0,Credit Card,Delivered,
+ORD10411,CUST1802,2024-02-13,Mumbai,Clothing,4755.3,2,10.0,Cash on Delivery,Returned,1.0
+ORD10412,CUST1803,2024-06-07,Surat,Clothing,4757.98,3,20.0,Debit Card,Returned,1.0
+ORD10413,CUST1465,2024-10-13,,Books,2909.85,2,10.0,Debit Card,Returned,
+ORD10414,CUST1292,2024-07-11,Hyderabad,Home,3196.0,4,20.0,Net Banking,Cancelled,3.0
+ORD10415,CUST1433,2024-11-25,Hyderabad,Clothing,2297.38,1,20.0,Credit Card,Cancelled,2.0
+ORD10416,CUST1713,2024-06-17,Delhi,Electronics,1536.73,3,10.0,Debit Card,Delivered,3.0
+ORD10417,CUST1980,2024-03-06,Pune,Clothing,1710.46,2,5.0,Debit Card,Delivered,
+ORD10418,CUST1748,2024-12-09,,Beauty,3395.34,3,15.0,Net Banking,Returned,2.0
+ORD10419,CUST1802,2024-12-25,Delhi,Books,3786.64,3,0.0,Net Banking,Shipped,4.0
+ORD10420,CUST1569,2024-12-16,Bangalore,Electronics,3978.74,2,,UPI,Delivered,3.0
+ORD10421,CUST1677,2024-09-26,Surat,Books,3969.13,3,15.0,UPI,Cancelled,3.0
+ORD10422,CUST1735,2024-02-17,Hyderabad,Sports,546.91,1,0.0,Net Banking,Delivered,
+ORD10423,CUST1498,2024-11-26,Pune,Beauty,2522.66,4,0.0,UPI,Cancelled,5.0
+ORD10424,CUST1158,2024-12-09,Hyderabad,Books,382.04,4,20.0,Debit Card,Shipped,
+ORD10425,CUST1194,2024-08-04,Ahmedabad,Electronics,2792.69,1,0.0,Net Banking,Returned,3.0
+ORD10426,CUST1303,2024-09-17,Ahmedabad,Home,2263.5,3,,Net Banking,Returned,2.0
+ORD10427,CUST1222,2024-07-04,Delhi,Beauty,4449.75,2,0.0,Credit Card,Returned,5.0
+ORD10428,CUST1991,2024-01-10,Ahmedabad,Electronics,1819.48,3,10.0,Debit Card,Delivered,
+ORD10429,CUST1059,2024-07-04,Ahmedabad,Home,673.63,1,15.0,Debit Card,Returned,
+ORD10430,CUST1593,2024-06-07,Mumbai,Electronics,800.66,3,10.0,Cash on Delivery,Cancelled,3.0
+ORD10431,CUST1753,2024-04-02,Surat,Clothing,3831.4,4,,Cash on Delivery,Delivered,3.0
+ORD10432,CUST1555,2024-04-19,Ahmedabad,Beauty,3129.27,3,0.0,Credit Card,Delivered,4.0
+ORD10433,CUST1062,2024-06-23,Ahmedabad,Books,595.5,1,,Cash on Delivery,Shipped,
+ORD10434,CUST1765,2024-09-05,Hyderabad,Sports,512.12,4,20.0,UPI,Shipped,3.0
+ORD10435,CUST1321,2024-04-08,Pune,Home,3534.75,3,10.0,Net Banking,Delivered,1.0
+ORD10436,CUST1058,2024-04-25,Delhi,Home,456.54,3,10.0,UPI,Delivered,5.0
+ORD10437,CUST1051,2024-03-11,Mumbai,Clothing,4127.11,4,5.0,Debit Card,Delivered,1.0
+ORD10438,CUST1598,2024-03-20,Bangalore,Beauty,3560.59,2,0.0,Cash on Delivery,Delivered,5.0
+ORD10439,CUST1488,2024-02-09,Bangalore,Beauty,498.61,4,20.0,UPI,Delivered,
+ORD10440,CUST1514,2024-05-31,Delhi,Clothing,515.7,2,10.0,Debit Card,Cancelled,4.0
+ORD10441,CUST1941,2024-02-21,Hyderabad,Electronics,4934.53,1,10.0,Cash on Delivery,Delivered,3.0
+ORD10442,CUST1873,2024-09-16,Pune,Home,1933.93,1,20.0,Net Banking,Cancelled,3.0
+ORD10443,CUST1543,2024-10-03,Pune,Books,1916.15,4,,Net Banking,Returned,3.0
+ORD10444,CUST1161,2024-09-26,Bangalore,Electronics,4082.72,4,,Cash on Delivery,Cancelled,
+ORD10445,CUST1058,2024-01-20,Pune,Clothing,4741.52,1,0.0,Net Banking,Returned,5.0
+ORD10446,CUST1983,2024-12-04,Ahmedabad,Home,4931.41,2,5.0,Credit Card,Shipped,3.0
+ORD10447,CUST1520,2024-06-21,Bangalore,Sports,3791.55,1,10.0,Cash on Delivery,Shipped,1.0
+ORD10448,CUST1082,2024-11-12,Delhi,Sports,1943.67,4,5.0,Credit Card,Delivered,3.0
+ORD10449,CUST1871,2024-03-08,Delhi,Home,509.15,1,,Cash on Delivery,Cancelled,
+ORD10450,CUST1190,2024-11-01,Delhi,Books,3908.02,4,,Credit Card,Returned,4.0
+ORD10451,CUST1070,2024-07-11,Surat,Beauty,2836.18,4,15.0,Net Banking,Returned,1.0
+ORD10452,CUST1609,2024-03-19,Mumbai,Home,2178.69,1,0.0,Net Banking,Cancelled,3.0
+ORD10453,CUST1069,2024-03-24,Ahmedabad,Beauty,4541.14,2,15.0,UPI,Delivered,3.0
+ORD10454,CUST1691,2024-04-02,Mumbai,Books,644.87,3,15.0,Debit Card,Cancelled,2.0
+ORD10455,CUST1882,2024-12-20,Ahmedabad,Clothing,2513.86,1,15.0,Credit Card,Shipped,5.0
+ORD10456,CUST1240,2024-11-15,Delhi,Books,155.63,3,0.0,Cash on Delivery,Shipped,1.0
+ORD10457,CUST1413,2024-03-25,Surat,Books,2396.44,1,0.0,Net Banking,Delivered,2.0
+ORD10458,CUST1122,2024-08-12,Hyderabad,Home,375.89,3,20.0,Net Banking,Cancelled,4.0
+ORD10459,CUST1964,2024-01-23,Surat,Home,682.21,2,5.0,Cash on Delivery,Shipped,5.0
+ORD10460,CUST1911,2024-07-29,Delhi,Sports,675.88,2,5.0,Debit Card,Returned,1.0
+ORD10461,CUST1583,2024-07-05,Mumbai,Clothing,3281.13,1,20.0,Cash on Delivery,Returned,3.0
+ORD10462,CUST1252,2024-12-12,Pune,Electronics,3755.62,4,20.0,Credit Card,Cancelled,1.0
+ORD10463,CUST1592,2024-05-01,Delhi,Home,2958.51,3,,Credit Card,Delivered,3.0
+ORD10464,CUST1608,2024-08-15,Bangalore,Clothing,4814.65,4,15.0,UPI,Returned,5.0
+ORD10465,CUST1040,2024-11-08,Hyderabad,Clothing,1936.87,4,20.0,Cash on Delivery,Returned,3.0
+ORD10466,CUST1634,2024-05-25,Hyderabad,Beauty,1499.99,4,10.0,Net Banking,Shipped,4.0
+ORD10467,CUST1083,2024-08-17,Bangalore,Beauty,4356.14,2,5.0,UPI,Returned,
+ORD10468,CUST1429,2024-04-29,Bangalore,Beauty,1195.62,1,20.0,Cash on Delivery,Cancelled,3.0
+ORD10469,CUST1673,2024-09-30,Bangalore,Sports,4819.79,1,10.0,Cash on Delivery,Cancelled,4.0
+ORD10470,CUST1597,2024-05-02,Ahmedabad,Home,159.56,2,10.0,Net Banking,Shipped,
+ORD10471,CUST1578,2024-06-07,Mumbai,Home,4852.41,2,10.0,Debit Card,Cancelled,5.0
+ORD10472,CUST1535,2024-08-28,Bangalore,Clothing,311.48,1,,Cash on Delivery,Cancelled,5.0
+ORD10473,CUST1323,2024-04-09,Pune,Beauty,4466.6,4,,UPI,Shipped,1.0
+ORD10474,CUST1957,2024-07-07,Bangalore,Beauty,2685.74,3,10.0,Net Banking,Shipped,4.0
+ORD10475,CUST1267,2024-12-13,Hyderabad,Home,4965.53,3,,Credit Card,Shipped,4.0
+ORD10476,CUST1209,2024-10-19,Surat,Sports,461.6,3,15.0,Debit Card,Shipped,2.0
+ORD10477,CUST1685,2024-08-13,Ahmedabad,Sports,2813.89,4,10.0,Net Banking,Returned,2.0
+ORD10478,CUST1733,2024-08-24,Surat,Sports,4849.58,1,15.0,UPI,Delivered,
+ORD10479,CUST1321,2024-05-24,Ahmedabad,Home,2663.18,2,15.0,Cash on Delivery,Shipped,
+ORD10480,CUST1244,2024-07-14,Pune,Home,3184.05,1,10.0,UPI,Cancelled,2.0
+ORD10481,CUST1271,2024-09-14,Ahmedabad,Sports,3509.17,4,5.0,Cash on Delivery,Delivered,
+ORD10482,CUST1405,2024-09-27,Pune,Books,2327.25,2,10.0,Net Banking,Delivered,3.0
+ORD10483,CUST1134,2024-08-02,Delhi,Electronics,3175.03,4,10.0,Debit Card,Delivered,2.0
+ORD10484,CUST1687,2024-03-23,Delhi,Clothing,2963.14,3,,Net Banking,Returned,4.0
+ORD10485,CUST1660,2024-04-12,Ahmedabad,Beauty,4515.67,3,10.0,UPI,Returned,3.0
+ORD10486,CUST1307,2024-11-05,Mumbai,Books,322.69,4,5.0,UPI,Shipped,
+ORD10487,CUST1468,2024-03-11,Bangalore,Electronics,1476.72,2,,Credit Card,Cancelled,5.0
+ORD10488,CUST1323,2024-05-08,Bangalore,Home,4757.02,2,0.0,Credit Card,Shipped,1.0
+ORD10489,CUST1951,2024-01-27,Bangalore,Clothing,4462.29,1,0.0,Cash on Delivery,Delivered,2.0
+ORD10490,CUST1769,2024-11-24,Bangalore,Books,2332.72,3,15.0,UPI,Shipped,5.0
+ORD10491,CUST1958,2024-09-03,Surat,Clothing,3138.65,1,15.0,Credit Card,Delivered,
+ORD10492,CUST1074,2024-07-09,Ahmedabad,Home,1459.17,1,5.0,Credit Card,Cancelled,4.0
+ORD10493,CUST1009,2024-10-10,Ahmedabad,Beauty,1021.79,4,20.0,Net Banking,Delivered,1.0
+ORD10494,CUST1469,2024-02-22,Bangalore,Beauty,2372.12,4,0.0,Cash on Delivery,Returned,5.0
+ORD10495,CUST1636,2024-12-30,Surat,Electronics,1831.43,1,15.0,Debit Card,Shipped,1.0
+ORD10496,CUST1576,2024-09-21,Bangalore,Beauty,2959.91,3,0.0,Net Banking,Shipped,2.0
+ORD10497,CUST1102,2024-03-04,Ahmedabad,Electronics,480.9,4,5.0,Cash on Delivery,Returned,
+ORD10498,CUST1075,2024-05-25,Surat,Electronics,4874.53,1,5.0,Cash on Delivery,Returned,4.0
+ORD10499,CUST1550,2024-02-12,Pune,Books,4932.43,1,20.0,Net Banking,Returned,
+ORD10500,CUST1218,2024-03-23,Mumbai,Beauty,3520.99,1,20.0,Credit Card,Delivered,1.0
+ORD10501,CUST1518,2024-05-19,Delhi,Electronics,2726.87,1,,Credit Card,Returned,5.0
+ORD10502,CUST1271,2024-08-18,Delhi,Books,1616.69,1,5.0,Debit Card,Cancelled,2.0
+ORD10503,CUST1135,2024-09-19,Hyderabad,Books,4087.6,1,15.0,Debit Card,Shipped,2.0
+ORD10504,CUST1955,2024-03-16,Hyderabad,Sports,3455.18,4,0.0,Cash on Delivery,Shipped,
+ORD10505,CUST1357,2024-08-11,Bangalore,Books,896.82,3,10.0,Debit Card,Cancelled,5.0
+ORD10506,CUST1902,2024-02-16,Mumbai,Clothing,4563.54,1,20.0,Net Banking,Shipped,5.0
+ORD10507,CUST1070,2024-04-23,Surat,Electronics,4130.43,2,10.0,Debit Card,Returned,1.0
+ORD10508,CUST1900,2024-08-18,Mumbai,Books,4754.02,4,15.0,UPI,Shipped,
+ORD10509,CUST1250,2024-06-27,Surat,Home,3656.03,4,20.0,Cash on Delivery,Cancelled,
+ORD10510,CUST1378,2024-01-14,Bangalore,Books,3105.73,1,10.0,UPI,Returned,3.0
+ORD10511,CUST1291,2024-07-31,Hyderabad,Books,2149.39,4,15.0,Cash on Delivery,Delivered,
+ORD10512,CUST1161,2024-01-28,Hyderabad,Sports,4670.37,1,0.0,Cash on Delivery,Delivered,2.0
+ORD10513,CUST1448,2024-07-21,Mumbai,Beauty,4343.71,3,15.0,Net Banking,Returned,1.0
+ORD10514,CUST1853,2024-09-14,Bangalore,Clothing,321.57,3,,Credit Card,Shipped,5.0
+ORD10515,CUST1556,2024-07-10,Ahmedabad,Home,229.2,4,20.0,Debit Card,Cancelled,
+ORD10516,CUST1720,2024-04-30,,Sports,1944.67,4,5.0,UPI,Returned,1.0
+ORD10517,CUST1309,2024-07-16,Ahmedabad,Clothing,4071.71,2,0.0,Debit Card,Cancelled,
+ORD10518,CUST1626,2024-02-11,,Books,4937.65,4,10.0,Cash on Delivery,Delivered,5.0
+ORD10519,CUST1826,2024-07-10,Hyderabad,Beauty,837.04,2,20.0,UPI,Returned,4.0
+ORD10520,CUST1669,2024-04-24,Pune,Home,,3,5.0,UPI,Returned,5.0
+ORD10521,CUST1541,2024-01-15,Mumbai,Clothing,1966.37,3,15.0,Cash on Delivery,Cancelled,5.0
+ORD10522,CUST1008,2024-06-12,Delhi,Sports,4852.58,1,5.0,Debit Card,Delivered,5.0
+ORD10523,CUST1683,2024-02-20,Ahmedabad,Books,4226.38,3,20.0,UPI,Delivered,
+ORD10524,CUST1836,2024-12-31,Mumbai,Books,4207.81,2,20.0,Debit Card,Returned,3.0
+ORD10525,CUST1567,2024-11-28,Bangalore,Electronics,2396.6,4,,UPI,Cancelled,5.0
+ORD10526,CUST1306,2024-06-20,Delhi,Sports,2132.62,1,,Credit Card,Returned,2.0
+ORD10527,CUST1954,2024-03-15,Bangalore,Home,1439.69,2,5.0,Net Banking,Shipped,2.0
+ORD10528,CUST1679,2024-03-11,Ahmedabad,Books,376.24,4,15.0,Cash on Delivery,Delivered,1.0
+ORD10529,CUST1106,2024-01-20,Pune,Electronics,4337.14,1,5.0,Net Banking,Delivered,3.0
+ORD10530,CUST1961,2024-05-26,Pune,Beauty,4083.21,3,20.0,Debit Card,Returned,1.0
+ORD10531,CUST1899,2024-08-29,Delhi,Clothing,4998.62,2,20.0,Net Banking,Returned,2.0
+ORD10532,CUST1137,2024-12-22,Mumbai,Books,4983.52,4,10.0,Net Banking,Returned,2.0
+ORD10533,CUST1270,2024-03-12,Ahmedabad,Beauty,,1,,Net Banking,Delivered,4.0
+ORD10534,CUST1118,2024-12-27,Pune,Clothing,3868.04,1,10.0,Net Banking,Delivered,5.0
+ORD10535,CUST1911,2024-08-28,Hyderabad,Books,4729.35,3,0.0,Cash on Delivery,Delivered,2.0
+ORD10536,CUST1109,2024-08-17,Delhi,Clothing,,4,20.0,Credit Card,Shipped,
+ORD10537,CUST1760,2024-11-11,Surat,Sports,1312.01,3,10.0,Credit Card,Returned,
+ORD10538,CUST1566,2024-01-03,Mumbai,Clothing,2307.67,3,5.0,Net Banking,Delivered,1.0
+ORD10539,CUST1159,2024-02-10,Surat,Clothing,732.88,4,,Credit Card,Shipped,1.0
+ORD10540,CUST1278,2024-01-10,Mumbai,Books,4774.85,4,,Credit Card,Returned,5.0
+ORD10541,CUST1288,2024-05-11,Hyderabad,Books,3070.26,4,15.0,Cash on Delivery,Cancelled,5.0
+ORD10542,CUST1619,2024-04-20,Ahmedabad,Beauty,1220.35,2,5.0,Net Banking,Cancelled,4.0
+ORD10543,CUST1215,2024-03-17,Delhi,Clothing,3391.33,4,15.0,Debit Card,Returned,3.0
+ORD10544,CUST1734,2024-10-07,Bangalore,Beauty,3128.83,1,10.0,Net Banking,Returned,1.0
+ORD10545,CUST1351,2024-11-07,Bangalore,Beauty,1855.0,3,0.0,Credit Card,Returned,5.0
+ORD10546,CUST1208,2024-09-27,Ahmedabad,Sports,656.43,2,5.0,Debit Card,Cancelled,1.0
+ORD10547,CUST1703,2024-08-04,Surat,Home,3390.71,4,5.0,Credit Card,Shipped,5.0
+ORD10548,CUST1649,2024-02-26,Bangalore,Electronics,2649.51,2,5.0,Credit Card,Cancelled,2.0
+ORD10549,CUST1873,2024-05-27,Delhi,Clothing,3884.36,4,15.0,UPI,Delivered,1.0
+ORD10550,CUST1270,2024-05-01,Ahmedabad,Sports,2648.8,2,10.0,UPI,Returned,2.0
+ORD10551,CUST1517,2024-06-03,Ahmedabad,Clothing,4275.69,3,5.0,UPI,Cancelled,1.0
+ORD10552,CUST1500,2024-03-03,Hyderabad,Electronics,2804.34,3,5.0,Credit Card,Returned,3.0
+ORD10553,CUST1257,2024-01-25,Hyderabad,Home,2848.6,1,,Net Banking,Shipped,4.0
+ORD10554,CUST1927,2024-05-02,Ahmedabad,Home,4395.6,1,0.0,Net Banking,Delivered,
+ORD10555,CUST1929,2024-08-02,Surat,Clothing,2077.07,4,,Credit Card,Cancelled,
+ORD10556,CUST1866,2024-11-23,Ahmedabad,Electronics,756.67,3,,UPI,Shipped,
+ORD10557,CUST1052,2024-11-14,Pune,Beauty,241.04,2,0.0,Credit Card,Shipped,2.0
+ORD10558,CUST1094,2024-08-22,Mumbai,Clothing,,2,10.0,Net Banking,Delivered,5.0
+ORD10559,CUST1649,2024-02-02,Pune,Books,3139.52,2,,Net Banking,Delivered,
+ORD10560,CUST1433,2024-02-26,Surat,Home,3549.99,1,10.0,Cash on Delivery,Delivered,3.0
+ORD10561,CUST1849,2024-09-12,Surat,Sports,1143.52,2,,Net Banking,Shipped,
+ORD10562,CUST1283,2024-11-01,Hyderabad,Sports,,1,20.0,Cash on Delivery,Cancelled,1.0
+ORD10563,CUST1045,2024-10-01,Ahmedabad,Sports,171.27,1,0.0,Credit Card,Shipped,2.0
+ORD10564,CUST1003,2024-01-09,Delhi,Electronics,1817.88,4,,Net Banking,Cancelled,1.0
+ORD10565,CUST1341,2024-11-19,Hyderabad,Electronics,2990.6,2,20.0,Cash on Delivery,Shipped,1.0
+ORD10566,CUST1789,2024-09-20,Bangalore,Beauty,2022.0,2,15.0,Net Banking,Delivered,1.0
+ORD10567,CUST1133,2024-10-21,Bangalore,Home,2243.63,3,20.0,Cash on Delivery,Returned,4.0
+ORD10568,CUST1652,2024-05-03,Bangalore,Electronics,4530.38,4,5.0,Net Banking,Shipped,4.0
+ORD10569,CUST1268,2024-03-14,Pune,Beauty,,3,,Net Banking,Shipped,5.0
+ORD10570,CUST1165,2024-05-29,Surat,Books,2618.55,4,20.0,Debit Card,Returned,2.0
+ORD10571,CUST1759,2024-08-07,Mumbai,Beauty,3939.9,2,10.0,Credit Card,Shipped,3.0
+ORD10572,CUST1452,2024-01-01,Surat,Home,2043.06,1,15.0,Credit Card,Shipped,3.0
+ORD10573,CUST1564,2024-11-10,Pune,Beauty,3148.22,1,,Net Banking,Shipped,3.0
+ORD10574,CUST1722,2024-06-29,Bangalore,Home,4325.58,1,5.0,Cash on Delivery,Shipped,1.0
+ORD10575,CUST1437,2024-05-03,Mumbai,Books,4752.65,1,20.0,UPI,Shipped,4.0
+ORD10576,CUST1574,2024-10-19,Mumbai,Books,820.66,1,15.0,Cash on Delivery,Cancelled,2.0
+ORD10577,CUST1009,2024-08-01,Hyderabad,Books,4640.28,3,,Net Banking,Cancelled,1.0
+ORD10578,CUST1114,2024-04-05,Ahmedabad,Clothing,2511.37,4,15.0,Credit Card,Cancelled,4.0
+ORD10579,CUST1077,2024-12-06,Delhi,Sports,1365.4,2,5.0,Cash on Delivery,Shipped,4.0
+ORD10580,CUST1967,2024-12-08,Mumbai,Beauty,2349.77,3,20.0,Debit Card,Shipped,
+ORD10581,CUST1904,2024-02-13,Ahmedabad,Sports,4902.16,4,15.0,Net Banking,Cancelled,
+ORD10582,CUST1707,2024-09-25,Delhi,Home,2513.83,1,15.0,Cash on Delivery,Delivered,2.0
+ORD10583,CUST1925,2024-07-03,Bangalore,Books,1710.88,4,0.0,Cash on Delivery,Cancelled,2.0
+ORD10584,CUST1152,2024-02-04,Ahmedabad,Beauty,3203.66,4,15.0,Debit Card,Shipped,2.0
+ORD10585,CUST1558,2024-09-26,Surat,Electronics,1276.71,1,0.0,UPI,Shipped,1.0
+ORD10586,CUST1036,2024-10-05,Surat,Books,471.73,1,20.0,UPI,Delivered,5.0
+ORD10587,CUST1854,2024-09-16,Hyderabad,Home,731.51,1,,Cash on Delivery,Cancelled,2.0
+ORD10588,CUST1378,2024-09-16,Delhi,Sports,727.42,2,,Net Banking,Returned,
+ORD10589,CUST1596,2024-10-10,Ahmedabad,Clothing,844.32,1,20.0,Debit Card,Delivered,5.0
+ORD10590,CUST1565,2024-01-11,Pune,Books,780.25,2,20.0,UPI,Shipped,1.0
+ORD10591,CUST1151,2024-07-18,Ahmedabad,Sports,3240.29,1,10.0,Cash on Delivery,Delivered,5.0
+ORD10592,CUST1440,2024-08-28,Pune,Home,991.21,2,20.0,Net Banking,Delivered,3.0
+ORD10593,CUST1130,2024-01-23,Hyderabad,Home,1793.77,4,15.0,UPI,Returned,5.0
+ORD10594,CUST1042,2024-11-21,Mumbai,Sports,4494.26,3,,Credit Card,Returned,2.0
+ORD10595,CUST1315,2024-07-17,Hyderabad,Sports,2422.41,4,5.0,Cash on Delivery,Delivered,1.0
+ORD10596,CUST1373,2024-07-10,Hyderabad,Books,3371.03,4,,Debit Card,Cancelled,2.0
+ORD10597,CUST1920,2024-05-09,Mumbai,Electronics,944.37,1,0.0,Net Banking,Delivered,
+ORD10598,CUST1955,2024-01-09,Mumbai,Books,1042.22,2,,Cash on Delivery,Returned,3.0
+ORD10599,CUST1815,2024-07-01,Ahmedabad,Clothing,300.26,3,10.0,UPI,Returned,
+ORD10600,CUST1995,2024-02-04,Delhi,Sports,927.78,1,20.0,Cash on Delivery,Returned,2.0
+ORD10601,CUST1881,2024-06-25,Pune,Clothing,1465.09,1,20.0,Cash on Delivery,Returned,2.0
+ORD10602,CUST1040,2024-05-03,Ahmedabad,Clothing,967.35,1,,UPI,Returned,2.0
+ORD10603,CUST1920,2024-12-02,Mumbai,Electronics,534.64,4,5.0,Credit Card,Shipped,4.0
+ORD10604,CUST1366,2024-11-17,Surat,Books,691.12,2,5.0,Net Banking,Delivered,3.0
+ORD10605,CUST1215,2024-02-23,Mumbai,Beauty,2357.82,2,10.0,UPI,Cancelled,2.0
+ORD10606,CUST1698,2024-10-24,Delhi,Home,1111.04,3,0.0,Cash on Delivery,Cancelled,2.0
+ORD10607,CUST1255,2024-06-19,Hyderabad,Clothing,1884.92,2,,Cash on Delivery,Shipped,
+ORD10608,CUST1682,2024-03-09,Mumbai,Clothing,2566.74,2,20.0,Debit Card,Delivered,
+ORD10609,CUST1105,2024-01-23,Bangalore,Clothing,3482.93,1,,Cash on Delivery,Returned,2.0
+ORD10610,CUST1362,2024-06-29,Delhi,Clothing,292.63,1,10.0,UPI,Returned,1.0
+ORD10611,CUST1798,2024-10-06,Surat,Home,4017.11,4,15.0,Debit Card,Cancelled,4.0
+ORD10612,CUST1573,2024-06-22,Pune,Books,3176.71,1,15.0,Cash on Delivery,Cancelled,
+ORD10613,CUST1905,2024-11-25,Mumbai,Beauty,500.62,1,10.0,UPI,Shipped,1.0
+ORD10614,CUST1895,2024-03-30,Delhi,Electronics,4380.54,1,20.0,Net Banking,Delivered,4.0
+ORD10615,CUST1416,2024-12-16,Pune,Beauty,4612.27,1,10.0,Net Banking,Delivered,2.0
+ORD10616,CUST1997,2024-08-25,Hyderabad,Clothing,399.28,4,20.0,Cash on Delivery,Returned,3.0
+ORD10617,CUST1635,2024-12-22,Hyderabad,Sports,1456.7,1,5.0,Net Banking,Delivered,5.0
+ORD10618,CUST1767,2024-09-02,Surat,Home,4050.39,3,10.0,Cash on Delivery,Delivered,5.0
+ORD10619,CUST1158,2024-11-19,,Beauty,3766.47,3,20.0,Debit Card,Shipped,2.0
+ORD10620,CUST1947,2024-04-03,Delhi,Electronics,1004.15,3,10.0,Net Banking,Shipped,
+ORD10621,CUST1952,2024-03-10,Hyderabad,Sports,1125.81,3,10.0,Debit Card,Returned,1.0
+ORD10622,CUST1242,2024-02-02,Hyderabad,Beauty,1915.31,1,20.0,Debit Card,Shipped,3.0
+ORD10623,CUST1885,2024-08-22,Surat,Sports,2474.16,3,20.0,Debit Card,Returned,4.0
+ORD10624,CUST1166,2024-01-19,Surat,Sports,3129.45,1,0.0,Credit Card,Shipped,2.0
+ORD10625,CUST1999,2024-05-30,Ahmedabad,Clothing,1907.68,4,10.0,UPI,Shipped,3.0
+ORD10626,CUST1819,2024-04-13,Pune,Books,2366.42,3,15.0,Cash on Delivery,Cancelled,3.0
+ORD10627,CUST1830,2024-01-23,Ahmedabad,Clothing,3762.61,2,10.0,Debit Card,Cancelled,
+ORD10628,CUST1181,2024-04-12,Surat,Beauty,279.75,3,10.0,Cash on Delivery,Shipped,4.0
+ORD10629,CUST1902,2024-01-22,Delhi,Sports,1336.94,3,20.0,Debit Card,Shipped,3.0
+ORD10630,CUST1422,2024-06-10,Mumbai,Electronics,3595.41,1,10.0,UPI,Shipped,
+ORD10631,CUST1025,2024-06-07,Bangalore,Clothing,4486.51,3,,Net Banking,Cancelled,1.0
+ORD10632,CUST1183,2024-09-20,Hyderabad,Electronics,2607.22,2,10.0,Cash on Delivery,Returned,
+ORD10633,CUST1754,2024-07-22,Bangalore,Clothing,2707.36,1,,Credit Card,Delivered,1.0
+ORD10634,CUST1946,2024-10-05,Ahmedabad,Books,625.14,1,15.0,Cash on Delivery,Shipped,1.0
+ORD10635,CUST1340,2024-08-30,Mumbai,Books,2292.32,4,20.0,UPI,Shipped,3.0
+ORD10636,CUST1801,2024-05-09,Ahmedabad,Clothing,2709.82,4,10.0,Debit Card,Cancelled,
+ORD10637,CUST1953,2024-01-19,Hyderabad,Clothing,1288.11,3,,Cash on Delivery,Shipped,1.0
+ORD10638,CUST1421,2024-11-27,Bangalore,Beauty,1419.29,4,,UPI,Returned,4.0
+ORD10639,CUST1821,2024-04-07,Pune,Books,1948.69,4,,Debit Card,Delivered,3.0
+ORD10640,CUST1685,2024-05-26,Hyderabad,Electronics,198.35,4,5.0,Net Banking,Shipped,
+ORD10641,CUST1884,2024-07-01,,Books,1678.19,1,0.0,UPI,Returned,
+ORD10642,CUST1752,2024-01-25,Bangalore,Clothing,1136.1,1,15.0,Credit Card,Delivered,5.0
+ORD10643,CUST1830,2024-12-01,Mumbai,Electronics,1704.74,1,10.0,Cash on Delivery,Cancelled,
+ORD10644,CUST1254,2024-06-18,Ahmedabad,Clothing,686.83,4,5.0,UPI,Delivered,3.0
+ORD10645,CUST1273,2024-05-19,Surat,Home,4463.58,1,10.0,Debit Card,Returned,4.0
+ORD10646,CUST1163,2024-03-04,Delhi,Clothing,3008.6,4,10.0,Debit Card,Delivered,
+ORD10647,CUST1806,2024-07-07,Surat,Books,3427.6,1,20.0,Credit Card,Delivered,5.0
+ORD10648,CUST1718,2024-08-11,Pune,Sports,3966.94,1,20.0,Cash on Delivery,Cancelled,3.0
+ORD10649,CUST1110,2024-07-23,Pune,Books,2542.37,2,20.0,Debit Card,Delivered,1.0
+ORD10650,CUST1391,2024-08-13,Ahmedabad,Books,525.91,3,5.0,Debit Card,Cancelled,2.0
+ORD10651,CUST1893,2024-07-16,,Beauty,2731.82,4,10.0,Debit Card,Shipped,2.0
+ORD10652,CUST1039,2024-06-22,Bangalore,Electronics,2975.52,2,0.0,UPI,Delivered,1.0
+ORD10653,CUST1879,2024-04-05,Mumbai,Beauty,3752.65,1,15.0,UPI,Delivered,
+ORD10654,CUST1481,2024-09-11,Ahmedabad,Beauty,2215.13,4,20.0,Cash on Delivery,Cancelled,2.0
+ORD10655,CUST1227,2024-12-20,Ahmedabad,Beauty,725.14,1,20.0,Credit Card,Delivered,2.0
+ORD10656,CUST1204,2024-09-11,Surat,Home,1490.5,3,10.0,Cash on Delivery,Returned,1.0
+ORD10657,CUST1836,2024-07-07,Hyderabad,Electronics,1879.1,2,10.0,Credit Card,Cancelled,
+ORD10658,CUST1940,2024-09-22,Delhi,Clothing,3264.99,3,5.0,Net Banking,Cancelled,
+ORD10659,CUST1471,2024-05-16,Pune,Sports,,2,5.0,Debit Card,Shipped,1.0
+ORD10660,CUST1358,2024-02-12,Bangalore,Books,1844.87,1,20.0,Credit Card,Delivered,
+ORD10661,CUST1312,2024-08-05,Mumbai,Sports,4933.92,3,10.0,Debit Card,Returned,
+ORD10662,CUST1840,2024-02-10,Pune,Sports,3068.3,3,0.0,Credit Card,Shipped,3.0
+ORD10663,CUST1814,2024-08-08,Bangalore,Clothing,1262.41,1,15.0,Net Banking,Delivered,3.0
+ORD10664,CUST1892,2024-11-04,Ahmedabad,Clothing,598.73,3,10.0,Credit Card,Shipped,1.0
+ORD10665,CUST1233,2024-04-02,Delhi,Sports,849.01,4,10.0,Cash on Delivery,Delivered,4.0
+ORD10666,CUST1228,2024-10-06,Ahmedabad,Books,1305.19,2,,UPI,Returned,2.0
+ORD10667,CUST1024,2024-05-30,Delhi,Clothing,887.34,2,5.0,Debit Card,Shipped,3.0
+ORD10668,CUST1675,2024-06-13,Surat,Books,1014.18,2,15.0,UPI,Cancelled,2.0
+ORD10669,CUST1197,2024-02-22,Bangalore,Clothing,1496.97,4,20.0,Credit Card,Shipped,5.0
+ORD10670,CUST1408,2024-02-10,Hyderabad,Books,949.53,2,10.0,Cash on Delivery,Delivered,1.0
+ORD10671,CUST1336,2024-06-16,Pune,Beauty,4494.15,1,20.0,Credit Card,Returned,4.0
+ORD10672,CUST1285,2024-12-04,Ahmedabad,Books,493.15,3,10.0,Net Banking,Shipped,5.0
+ORD10673,CUST1885,2024-05-31,Delhi,Home,2670.11,4,20.0,Net Banking,Returned,5.0
+ORD10674,CUST1071,2024-06-05,Delhi,Clothing,2110.94,2,15.0,Net Banking,Delivered,
+ORD10675,CUST1990,2024-08-16,Ahmedabad,Beauty,4913.66,1,5.0,Credit Card,Delivered,5.0
+ORD10676,CUST1791,2024-11-04,Pune,Beauty,648.99,3,15.0,Net Banking,Delivered,1.0
+ORD10677,CUST1285,2024-08-06,Bangalore,Home,2049.49,3,,Credit Card,Cancelled,3.0
+ORD10678,CUST1359,2024-03-26,Surat,Sports,4850.41,4,0.0,Credit Card,Returned,1.0
+ORD10679,CUST1656,2024-12-19,Surat,Books,4340.98,4,5.0,Cash on Delivery,Cancelled,3.0
+ORD10680,CUST1521,2024-08-15,Mumbai,Books,4103.65,4,15.0,Debit Card,Cancelled,5.0
+ORD10681,CUST1409,2024-06-28,Mumbai,Electronics,1363.72,1,,UPI,Returned,5.0
+ORD10682,CUST1695,2024-08-16,Hyderabad,Clothing,937.35,1,0.0,Debit Card,Delivered,4.0
+ORD10683,CUST1863,2024-01-22,Mumbai,Sports,3376.35,4,,UPI,Cancelled,3.0
+ORD10684,CUST1549,2024-06-29,Hyderabad,Sports,4653.94,2,10.0,UPI,Returned,5.0
+ORD10685,CUST1339,2024-11-10,Pune,Clothing,2828.14,3,10.0,Credit Card,Shipped,
+ORD10686,CUST1961,2024-08-10,Bangalore,Electronics,2900.9,3,20.0,Net Banking,Cancelled,2.0
+ORD10687,CUST1028,2024-05-20,Hyderabad,Electronics,1471.9,1,5.0,Net Banking,Delivered,4.0
+ORD10688,CUST1118,2024-11-23,Bangalore,Clothing,3870.52,3,10.0,Net Banking,Returned,1.0
+ORD10689,CUST1898,2024-01-30,Mumbai,Books,1016.51,2,,Debit Card,Cancelled,4.0
+ORD10690,CUST1993,2024-02-08,Mumbai,Books,1686.03,3,5.0,Net Banking,Delivered,2.0
+ORD10691,CUST1267,2024-12-09,Pune,Beauty,2184.64,1,10.0,Cash on Delivery,Delivered,3.0
+ORD10692,CUST1182,2024-11-22,Mumbai,Sports,2587.29,1,20.0,Credit Card,Returned,1.0
+ORD10693,CUST1594,2024-07-26,Surat,Clothing,1287.81,2,15.0,Net Banking,Shipped,1.0
+ORD10694,CUST1985,2024-07-05,Ahmedabad,Books,662.7,2,20.0,Net Banking,Delivered,3.0
+ORD10695,CUST1271,2024-09-19,Surat,Electronics,3092.04,3,0.0,Net Banking,Returned,4.0
+ORD10696,CUST1039,2024-12-13,Surat,Clothing,1514.29,3,10.0,Debit Card,Cancelled,5.0
+ORD10697,CUST1111,2024-03-22,Hyderabad,Sports,2948.07,1,0.0,Credit Card,Shipped,4.0
+ORD10698,CUST1610,2024-01-16,Hyderabad,Books,856.38,2,0.0,Cash on Delivery,Returned,2.0
+ORD10699,CUST1444,2024-03-14,Delhi,Books,2457.59,2,,Net Banking,Returned,
+ORD10700,CUST1353,2024-11-07,Ahmedabad,Electronics,2709.69,2,5.0,UPI,Shipped,5.0
+ORD10701,CUST1746,2024-12-13,Surat,Books,353.94,3,,Debit Card,Delivered,4.0
+ORD10702,CUST1805,2024-08-12,Ahmedabad,Books,1749.36,2,10.0,Net Banking,Delivered,
+ORD10703,CUST1321,2024-01-18,Surat,Electronics,758.63,1,0.0,Net Banking,Cancelled,
+ORD10704,CUST1446,2024-03-05,Pune,Electronics,410.54,1,15.0,Debit Card,Cancelled,3.0
+ORD10705,CUST1620,2024-02-04,Pune,Sports,4950.81,3,0.0,Cash on Delivery,Cancelled,2.0
+ORD10706,CUST1523,2024-04-30,Mumbai,Beauty,1679.53,4,15.0,UPI,Shipped,2.0
+ORD10707,CUST1118,2024-11-26,Pune,Clothing,4068.38,3,,UPI,Shipped,2.0
+ORD10708,CUST1394,2024-07-06,Ahmedabad,Books,1347.74,4,,Cash on Delivery,Delivered,5.0
+ORD10709,CUST1921,2024-07-04,Delhi,Books,3439.36,2,5.0,Debit Card,Returned,1.0
+ORD10710,CUST1590,2024-07-15,Mumbai,Electronics,3825.12,3,0.0,Net Banking,Delivered,5.0
+ORD10711,CUST1194,2024-10-17,Hyderabad,Beauty,3018.63,1,20.0,Cash on Delivery,Returned,4.0
+ORD10712,CUST1260,2024-01-17,Surat,Beauty,2410.72,2,,Debit Card,Shipped,
+ORD10713,CUST1045,2024-11-05,Pune,Sports,2118.02,1,,Debit Card,Shipped,
+ORD10714,CUST1725,2024-03-19,Mumbai,Books,1809.45,2,5.0,Debit Card,Delivered,1.0
+ORD10715,CUST1446,2024-12-13,Pune,Sports,4654.69,3,15.0,Debit Card,Shipped,4.0
+ORD10716,CUST1001,2024-08-18,Mumbai,Home,4170.04,4,5.0,UPI,Delivered,1.0
+ORD10717,CUST1532,2024-07-08,Hyderabad,Electronics,4828.63,2,0.0,Debit Card,Shipped,
+ORD10718,CUST1947,2024-07-09,Ahmedabad,Beauty,709.06,4,10.0,Cash on Delivery,Cancelled,5.0
+ORD10719,CUST1825,2024-08-15,Ahmedabad,Books,3681.25,2,10.0,Net Banking,Delivered,2.0
+ORD10720,CUST1551,2024-02-09,Surat,Sports,4697.87,1,15.0,Net Banking,Returned,
+ORD10721,CUST1703,2024-10-20,Hyderabad,Clothing,988.04,1,,Credit Card,Delivered,3.0
+ORD10722,CUST1736,2024-03-11,Bangalore,Sports,425.83,2,15.0,Cash on Delivery,Cancelled,2.0
+ORD10723,CUST1962,2024-09-28,Mumbai,Sports,3731.49,4,,Credit Card,Cancelled,
+ORD10724,CUST1759,2024-07-06,Hyderabad,Home,2914.92,3,,Cash on Delivery,Returned,5.0
+ORD10725,CUST1754,2024-07-22,Bangalore,Books,4224.96,3,10.0,Debit Card,Shipped,1.0
+ORD10726,CUST1686,2024-06-09,Bangalore,Beauty,784.88,1,15.0,Credit Card,Shipped,2.0
+ORD10727,CUST1201,2024-11-28,Delhi,Beauty,3996.81,3,5.0,Debit Card,Delivered,5.0
+ORD10728,CUST1372,2024-05-22,Ahmedabad,Books,1087.97,1,,Cash on Delivery,Cancelled,4.0
+ORD10729,CUST1441,2024-05-07,Surat,Electronics,901.91,3,20.0,UPI,Cancelled,3.0
+ORD10730,CUST1071,2024-02-28,Hyderabad,Sports,904.9,2,20.0,UPI,Returned,2.0
+ORD10731,CUST1971,2024-01-14,Hyderabad,Clothing,4091.42,1,5.0,UPI,Cancelled,1.0
+ORD10732,CUST1680,2024-04-05,Mumbai,Home,3359.47,1,20.0,UPI,Cancelled,4.0
+ORD10733,CUST1942,2024-09-12,Surat,Sports,2663.02,2,0.0,Net Banking,Shipped,5.0
+ORD10734,CUST1338,2024-09-22,Ahmedabad,Clothing,1858.27,1,,UPI,Shipped,3.0
+ORD10735,CUST1638,2024-07-17,Bangalore,Electronics,4398.28,3,5.0,Cash on Delivery,Delivered,1.0
+ORD10736,CUST1321,2024-10-14,Surat,Home,2022.98,3,15.0,UPI,Delivered,5.0
+ORD10737,CUST1679,2024-03-01,Mumbai,Books,4101.34,1,,Net Banking,Shipped,5.0
+ORD10738,CUST1868,2024-05-14,Pune,Books,2251.76,3,5.0,Debit Card,Returned,2.0
+ORD10739,CUST1127,2024-05-13,Delhi,Sports,1947.03,4,10.0,Credit Card,Cancelled,2.0
+ORD10740,CUST1737,2024-12-26,Ahmedabad,Home,2367.13,1,15.0,Debit Card,Delivered,1.0
+ORD10741,CUST1921,2024-08-16,Bangalore,Clothing,1576.75,2,10.0,Debit Card,Delivered,
+ORD10742,CUST1307,2024-04-19,Mumbai,Electronics,3763.29,4,,Credit Card,Shipped,
+ORD10743,CUST1519,2024-11-09,Mumbai,Beauty,2563.33,1,15.0,UPI,Returned,5.0
+ORD10744,CUST1316,2024-05-26,Hyderabad,Beauty,1237.84,2,20.0,UPI,Returned,2.0
+ORD10745,CUST1682,2024-12-21,Surat,Electronics,4507.92,3,5.0,Cash on Delivery,Shipped,3.0
+ORD10746,CUST1418,2024-09-08,Ahmedabad,Books,1981.07,2,,UPI,Returned,3.0
+ORD10747,CUST1334,2024-04-12,Pune,Books,2763.41,4,0.0,UPI,Cancelled,5.0
+ORD10748,CUST1412,2024-03-03,Hyderabad,Electronics,4541.71,3,15.0,Cash on Delivery,Returned,2.0
+ORD10749,CUST1713,2024-03-10,Pune,Books,3158.77,1,15.0,Credit Card,Delivered,1.0
+ORD10750,CUST1302,2024-02-07,Delhi,Electronics,672.8,3,,Cash on Delivery,Cancelled,1.0
+ORD10751,CUST1567,2024-08-19,Bangalore,Sports,4705.18,1,,UPI,Delivered,1.0
+ORD10752,CUST1130,2024-03-29,Delhi,Beauty,3175.77,1,10.0,UPI,Returned,3.0
+ORD10753,CUST1196,2024-12-31,Surat,Clothing,1741.04,2,20.0,UPI,Delivered,2.0
+ORD10754,CUST1430,2024-08-15,Ahmedabad,Beauty,782.43,2,10.0,Cash on Delivery,Shipped,2.0
+ORD10755,CUST1680,2024-02-14,Pune,Home,3990.72,2,10.0,Credit Card,Delivered,3.0
+ORD10756,CUST1962,2024-12-15,Ahmedabad,Sports,3138.36,4,20.0,Net Banking,Cancelled,1.0
+ORD10757,CUST1388,2024-06-12,Hyderabad,Home,2713.96,4,0.0,Cash on Delivery,Returned,1.0
+ORD10758,CUST1693,2024-12-07,Hyderabad,Electronics,4480.07,2,10.0,Credit Card,Shipped,5.0
+ORD10759,CUST1766,2024-06-26,Surat,Clothing,3964.13,4,10.0,UPI,Cancelled,
+ORD10760,CUST1924,2024-12-29,Ahmedabad,Sports,843.21,3,15.0,Credit Card,Returned,4.0
+ORD10761,CUST1178,2024-02-03,Ahmedabad,Beauty,1627.44,3,20.0,Debit Card,Returned,
+ORD10762,CUST1630,2024-10-08,Ahmedabad,Books,1317.6,4,5.0,Debit Card,Returned,2.0
+ORD10763,CUST1582,2024-10-04,Hyderabad,Home,3745.34,4,0.0,Net Banking,Shipped,2.0
+ORD10764,CUST1308,2024-05-28,Hyderabad,Home,264.31,3,0.0,UPI,Returned,2.0
+ORD10765,CUST1415,2024-06-02,Surat,Books,2892.46,1,20.0,Net Banking,Cancelled,
+ORD10766,CUST1561,2024-03-21,Surat,Sports,3836.05,3,,Debit Card,Returned,4.0
+ORD10767,CUST1853,2024-12-30,Surat,Books,4396.15,3,,Net Banking,Returned,5.0
+ORD10768,CUST1000,2024-12-29,Hyderabad,Home,1776.2,4,15.0,Debit Card,Cancelled,
+ORD10769,CUST1311,2024-12-24,Pune,Books,4124.16,3,15.0,Debit Card,Shipped,4.0
+ORD10770,CUST1293,2024-11-22,Mumbai,Home,642.1,4,20.0,Credit Card,Returned,1.0
+ORD10771,CUST1215,2024-03-30,Bangalore,Beauty,4247.62,4,15.0,UPI,Delivered,1.0
+ORD10772,CUST1440,2024-07-04,Bangalore,Sports,724.69,2,0.0,Debit Card,Cancelled,2.0
+ORD10773,CUST1804,2024-09-17,Bangalore,Clothing,2046.71,3,0.0,UPI,Delivered,3.0
+ORD10774,CUST1593,2024-04-24,Ahmedabad,Sports,4006.75,1,5.0,Net Banking,Shipped,2.0
+ORD10775,CUST1621,2024-03-03,Delhi,Books,834.6,2,,Net Banking,Delivered,3.0
+ORD10776,CUST1670,2024-04-12,Delhi,Books,1223.33,4,20.0,Debit Card,Delivered,4.0
+ORD10777,CUST1329,2024-03-12,Mumbai,Sports,3639.04,4,10.0,UPI,Cancelled,1.0
+ORD10778,CUST1476,2024-05-01,Hyderabad,Clothing,3628.18,1,,Debit Card,Shipped,
+ORD10779,CUST1452,2024-09-09,Ahmedabad,Home,3241.62,4,10.0,Debit Card,Shipped,3.0
+ORD10780,CUST1452,2024-01-14,Ahmedabad,Books,3500.35,3,5.0,Credit Card,Shipped,4.0
+ORD10781,CUST1691,2024-07-03,Ahmedabad,Books,2759.35,2,5.0,Net Banking,Delivered,1.0
+ORD10782,CUST1218,2024-10-10,Surat,Sports,1333.82,4,15.0,UPI,Delivered,
+ORD10783,CUST1523,2024-10-20,Bangalore,Home,1793.91,4,5.0,Net Banking,Delivered,3.0
+ORD10784,CUST1484,2024-07-07,Pune,Home,989.83,1,5.0,Credit Card,Shipped,2.0
+ORD10785,CUST1812,2024-08-27,Hyderabad,Books,4551.41,3,10.0,Cash on Delivery,Delivered,2.0
+ORD10786,CUST1922,2024-10-09,Surat,Home,2958.62,4,15.0,Net Banking,Returned,2.0
+ORD10787,CUST1982,2024-03-07,Ahmedabad,Beauty,2064.17,1,5.0,Credit Card,Shipped,4.0
+ORD10788,CUST1815,2024-11-09,Hyderabad,Sports,2363.83,4,,Net Banking,Returned,2.0
+ORD10789,CUST1753,2024-02-14,Hyderabad,Beauty,4741.69,1,5.0,UPI,Shipped,5.0
+ORD10790,CUST1173,2024-02-03,Hyderabad,Clothing,851.42,1,15.0,Credit Card,Cancelled,1.0
+ORD10791,CUST1674,2024-06-07,Mumbai,Beauty,2972.53,3,20.0,Cash on Delivery,Delivered,4.0
+ORD10792,CUST1086,2024-07-22,Ahmedabad,Electronics,2578.85,4,15.0,Net Banking,Delivered,
+ORD10793,CUST1290,2024-09-02,Ahmedabad,Beauty,3096.13,3,10.0,Credit Card,Shipped,2.0
+ORD10794,CUST1527,2024-09-26,Pune,Clothing,188.74,1,20.0,Cash on Delivery,Returned,1.0
+ORD10795,CUST1679,2024-07-29,Ahmedabad,Sports,4373.41,2,,UPI,Cancelled,3.0
+ORD10796,CUST1648,2024-07-28,Surat,Beauty,4667.38,4,0.0,Net Banking,Shipped,2.0
+ORD10797,CUST1634,2024-10-21,Delhi,Clothing,2869.15,2,15.0,Debit Card,Delivered,1.0
+ORD10798,CUST1343,2024-02-07,Pune,Electronics,3513.59,4,10.0,UPI,Cancelled,5.0
+ORD10799,CUST1095,2024-03-05,Hyderabad,Clothing,4620.25,3,,UPI,Delivered,3.0
+ORD10800,CUST1838,2024-06-11,Bangalore,Books,3565.47,3,20.0,UPI,Returned,5.0
+ORD10801,CUST1974,2024-11-24,Pune,Sports,847.44,3,,UPI,Returned,
+ORD10802,CUST1769,2024-02-07,Pune,Home,2923.81,3,15.0,Cash on Delivery,Cancelled,1.0
+ORD10803,CUST1240,2024-08-18,Ahmedabad,Books,3072.9,3,5.0,Debit Card,Delivered,5.0
+ORD10804,CUST1688,2024-08-26,Pune,Books,2178.24,2,15.0,Net Banking,Returned,
+ORD10805,CUST1317,2024-12-14,Bangalore,Beauty,3708.58,3,0.0,UPI,Cancelled,1.0
+ORD10806,CUST1230,2024-09-21,Pune,Beauty,4678.4,1,15.0,Net Banking,Cancelled,1.0
+ORD10807,CUST1825,2024-06-25,Surat,Beauty,4635.29,1,20.0,Credit Card,Shipped,5.0
+ORD10808,CUST1203,2024-03-06,Mumbai,Electronics,2309.11,2,20.0,UPI,Returned,1.0
+ORD10809,CUST1150,2024-10-09,Surat,Clothing,654.87,4,15.0,UPI,Delivered,2.0
+ORD10810,CUST1025,2024-11-23,Surat,Sports,4925.72,1,20.0,Net Banking,Returned,1.0
+ORD10811,CUST1047,2024-10-27,Mumbai,Beauty,4210.6,4,5.0,Debit Card,Shipped,4.0
+ORD10812,CUST1250,2024-04-03,Mumbai,Electronics,710.85,2,,Credit Card,Cancelled,
+ORD10813,CUST1486,2024-03-07,Pune,Electronics,4612.13,4,15.0,Debit Card,Delivered,1.0
+ORD10814,CUST1625,2024-08-09,Surat,Clothing,4362.49,4,5.0,Net Banking,Cancelled,4.0
+ORD10815,CUST1870,2024-09-14,Ahmedabad,Sports,2642.31,4,,Cash on Delivery,Shipped,1.0
+ORD10816,CUST1786,2024-01-29,Delhi,Books,2997.25,4,,UPI,Delivered,1.0
+ORD10817,CUST1074,2024-03-04,Delhi,Sports,2055.11,2,5.0,Cash on Delivery,Returned,5.0
+ORD10818,CUST1466,2024-09-22,Delhi,Electronics,368.33,1,10.0,Net Banking,Shipped,2.0
+ORD10819,CUST1424,2024-03-19,Surat,Electronics,1742.47,3,15.0,Net Banking,Cancelled,
+ORD10820,CUST1907,2024-06-04,Bangalore,Home,4033.98,4,,Net Banking,Cancelled,2.0
+ORD10821,CUST1644,2024-03-25,Mumbai,Clothing,122.7,1,,Net Banking,Cancelled,3.0
+ORD10822,CUST1589,2024-03-23,Pune,Home,1734.15,1,20.0,UPI,Delivered,5.0
+ORD10823,CUST1199,2024-06-14,Pune,Electronics,2051.03,2,,Cash on Delivery,Cancelled,5.0
+ORD10824,CUST1735,2024-12-29,Delhi,Books,2733.24,1,5.0,Credit Card,Delivered,2.0
+ORD10825,CUST1713,2024-04-25,Pune,Electronics,4607.29,2,,UPI,Cancelled,5.0
+ORD10826,CUST1393,2024-06-26,Ahmedabad,Beauty,1797.1,4,10.0,Net Banking,Returned,2.0
+ORD10827,CUST1506,2024-09-22,Ahmedabad,Sports,1800.07,4,15.0,Net Banking,Cancelled,5.0
+ORD10828,CUST1409,2024-05-25,Mumbai,Sports,3713.76,3,15.0,UPI,Returned,1.0
+ORD10829,CUST1249,2024-02-10,Pune,Books,2315.87,3,,Cash on Delivery,Cancelled,2.0
+ORD10830,CUST1151,2024-05-08,Surat,Beauty,1200.56,3,0.0,Cash on Delivery,Delivered,2.0
+ORD10831,CUST1671,2024-04-10,Pune,Books,2316.95,1,0.0,Debit Card,Returned,4.0
+ORD10832,CUST1704,2024-11-21,Surat,Home,790.2,4,5.0,Debit Card,Shipped,5.0
+ORD10833,CUST1005,2024-10-09,Bangalore,Beauty,964.3,2,0.0,Debit Card,Delivered,5.0
+ORD10834,CUST1914,2024-05-20,Hyderabad,Books,2542.0,3,5.0,Net Banking,Shipped,2.0
+ORD10835,CUST1768,2024-03-05,Delhi,Electronics,2152.73,2,20.0,UPI,Delivered,1.0
+ORD10836,CUST1881,2024-11-16,Surat,Clothing,4582.74,2,5.0,UPI,Returned,1.0
+ORD10837,CUST1788,2024-06-04,Bangalore,Beauty,1875.73,3,0.0,Debit Card,Shipped,
+ORD10838,CUST1906,2024-11-10,Hyderabad,Sports,2944.88,4,,Cash on Delivery,Shipped,1.0
+ORD10839,CUST1109,2024-09-30,Delhi,Sports,3198.1,3,20.0,Debit Card,Returned,5.0
+ORD10840,CUST1797,2024-02-17,Hyderabad,Electronics,164.16,2,0.0,UPI,Delivered,4.0
+ORD10841,CUST1435,2024-09-14,Ahmedabad,Clothing,3351.33,3,5.0,Net Banking,Shipped,2.0
+ORD10842,CUST1224,2024-11-24,Pune,Beauty,972.38,2,10.0,Debit Card,Shipped,3.0
+ORD10843,CUST1180,2024-03-27,Hyderabad,Books,4809.24,2,15.0,Credit Card,Returned,4.0
+ORD10844,CUST1823,2024-10-30,Bangalore,Home,828.45,3,0.0,Credit Card,Delivered,3.0
+ORD10845,CUST1980,2024-10-24,Mumbai,Clothing,2131.66,1,5.0,Cash on Delivery,Cancelled,4.0
+ORD10846,CUST1712,2024-03-19,Pune,Electronics,518.21,3,20.0,UPI,Delivered,1.0
+ORD10847,CUST1530,2024-03-28,Delhi,Books,4984.68,1,0.0,Net Banking,Returned,5.0
+ORD10848,CUST1475,2024-12-03,Hyderabad,Books,2560.76,2,0.0,Credit Card,Shipped,3.0
+ORD10849,CUST1051,2024-11-15,Pune,Books,3017.39,2,15.0,Debit Card,Shipped,4.0
+ORD10850,CUST1570,2024-11-05,Mumbai,Beauty,428.67,1,5.0,Net Banking,Returned,5.0
+ORD10851,CUST1255,2024-06-21,Delhi,Clothing,3774.81,2,10.0,UPI,Delivered,3.0
+ORD10852,CUST1939,2024-10-15,Delhi,Books,1128.54,1,20.0,Debit Card,Shipped,2.0
+ORD10853,CUST1868,2024-01-22,Mumbai,Clothing,4500.47,1,5.0,Net Banking,Cancelled,4.0
+ORD10854,CUST1124,2024-01-15,Pune,Beauty,1105.18,2,20.0,UPI,Returned,2.0
+ORD10855,CUST1467,2024-02-11,Mumbai,Electronics,1034.37,4,0.0,Net Banking,Delivered,1.0
+ORD10856,CUST1136,2024-01-24,Surat,Home,279.09,1,15.0,Credit Card,Delivered,2.0
+ORD10857,CUST1820,2024-11-24,Ahmedabad,Clothing,2413.13,3,15.0,Credit Card,Cancelled,2.0
+ORD10858,CUST1475,2024-10-22,Mumbai,Beauty,2867.72,3,,UPI,Shipped,
+ORD10859,CUST1683,2024-05-15,Delhi,Electronics,421.97,2,10.0,Credit Card,Delivered,4.0
+ORD10860,CUST1543,2024-11-29,Surat,Clothing,3900.09,4,15.0,UPI,Cancelled,1.0
+ORD10861,CUST1572,2024-04-17,Ahmedabad,Electronics,2321.12,2,0.0,Cash on Delivery,Cancelled,2.0
+ORD10862,CUST1609,2024-10-19,Hyderabad,Home,2669.51,4,10.0,Credit Card,Cancelled,5.0
+ORD10863,CUST1324,2024-08-01,Hyderabad,Sports,2259.74,1,5.0,Net Banking,Returned,3.0
+ORD10864,CUST1972,2024-11-12,Mumbai,Home,2063.74,1,15.0,Net Banking,Returned,2.0
+ORD10865,CUST1773,2024-11-23,Ahmedabad,Beauty,2842.24,1,10.0,UPI,Delivered,1.0
+ORD10866,CUST1912,2024-01-16,Hyderabad,Sports,860.68,1,0.0,Cash on Delivery,Delivered,2.0
+ORD10867,CUST1453,2024-09-11,Pune,Sports,991.45,3,,Debit Card,Delivered,3.0
+ORD10868,CUST1627,2024-11-17,Delhi,Books,4322.75,3,20.0,Net Banking,Shipped,1.0
+ORD10869,CUST1834,2024-10-06,Mumbai,Clothing,4735.97,2,20.0,Cash on Delivery,Shipped,4.0
+ORD10870,CUST1736,2024-05-28,Hyderabad,Books,1929.22,4,0.0,Net Banking,Delivered,1.0
+ORD10871,CUST1913,2024-11-24,Delhi,Electronics,1426.65,1,0.0,UPI,Returned,4.0
+ORD10872,CUST1516,2024-06-03,Surat,Beauty,3255.6,1,20.0,UPI,Returned,1.0
+ORD10873,CUST1436,2024-09-04,Surat,Beauty,2102.8,4,,Debit Card,Cancelled,3.0
+ORD10874,CUST1850,2024-05-05,Ahmedabad,Electronics,224.39,4,10.0,UPI,Delivered,3.0
+ORD10875,CUST1928,2024-12-16,Surat,Electronics,865.15,2,20.0,Debit Card,Shipped,1.0
+ORD10876,CUST1561,2024-07-26,Bangalore,Books,,4,0.0,UPI,Cancelled,2.0
+ORD10877,CUST1456,2024-06-01,Surat,Home,3328.73,1,15.0,Net Banking,Returned,3.0
+ORD10878,CUST1918,2024-08-20,Mumbai,Beauty,232.77,1,5.0,UPI,Delivered,4.0
+ORD10879,CUST1162,2024-02-07,Delhi,Books,1187.66,1,,Credit Card,Returned,4.0
+ORD10880,CUST1761,2024-12-18,Hyderabad,Books,1232.27,1,,Cash on Delivery,Cancelled,5.0
+ORD10881,CUST1882,2024-01-31,Hyderabad,Home,3392.27,1,15.0,Net Banking,Delivered,
+ORD10882,CUST1486,2024-03-21,Bangalore,Home,196.58,2,15.0,Cash on Delivery,Shipped,
+ORD10883,CUST1460,2024-08-13,Ahmedabad,Home,610.13,1,0.0,Credit Card,Delivered,
+ORD10884,CUST1265,2024-07-31,Hyderabad,Clothing,4019.59,2,20.0,Cash on Delivery,Shipped,4.0
+ORD10885,CUST1769,2024-09-04,Surat,Books,974.87,1,10.0,Credit Card,Delivered,5.0
+ORD10886,CUST1253,2024-08-25,Delhi,Clothing,3298.46,3,,UPI,Delivered,
+ORD10887,CUST1860,2024-04-14,Hyderabad,Sports,1267.1,3,,UPI,Delivered,
+ORD10888,CUST1652,2024-06-23,Hyderabad,Sports,587.26,3,15.0,Credit Card,Delivered,1.0
+ORD10889,CUST1283,2024-11-06,Pune,Books,1291.54,3,20.0,Net Banking,Shipped,1.0
+ORD10890,CUST1784,2024-03-14,Mumbai,Electronics,3639.11,2,,UPI,Returned,1.0
+ORD10891,CUST1796,2024-06-09,Hyderabad,Home,4292.91,2,10.0,Net Banking,Delivered,2.0
+ORD10892,CUST1533,2024-06-12,Hyderabad,Clothing,4168.08,4,15.0,Cash on Delivery,Cancelled,
+ORD10893,CUST1496,2024-06-25,Surat,Sports,2046.2,1,10.0,UPI,Delivered,2.0
+ORD10894,CUST1641,2024-07-23,Surat,Books,3373.62,3,20.0,Credit Card,Shipped,5.0
+ORD10895,CUST1244,2024-03-07,Surat,Electronics,1104.42,2,,Credit Card,Delivered,4.0
+ORD10896,CUST1281,2024-07-08,,Books,1536.42,1,5.0,UPI,Returned,
+ORD10897,CUST1450,2024-09-20,Mumbai,Electronics,4492.05,1,,Credit Card,Shipped,4.0
+ORD10898,CUST1079,2024-10-14,Hyderabad,Books,163.71,2,20.0,UPI,Delivered,1.0
+ORD10899,CUST1730,2024-02-24,Bangalore,Home,518.99,3,,Debit Card,Delivered,
+ORD10900,CUST1292,2024-06-12,Bangalore,Home,1118.64,4,,UPI,Delivered,3.0
+ORD10901,CUST1240,2024-05-03,Mumbai,Electronics,230.01,1,0.0,Net Banking,Delivered,2.0
+ORD10902,CUST1278,2024-08-26,Delhi,Books,989.03,4,,Cash on Delivery,Returned,2.0
+ORD10903,CUST1343,2024-03-03,Ahmedabad,Home,2956.9,3,,Credit Card,Shipped,
+ORD10904,CUST1327,2024-05-16,Bangalore,Books,2164.98,3,10.0,Cash on Delivery,Shipped,1.0
+ORD10905,CUST1914,2024-08-18,Bangalore,Books,4474.09,4,5.0,UPI,Delivered,2.0
+ORD10906,CUST1553,2024-05-06,Mumbai,Home,4105.47,3,10.0,UPI,Shipped,1.0
+ORD10907,CUST1082,2024-03-13,,Beauty,1774.91,1,10.0,UPI,Cancelled,5.0
+ORD10908,CUST1141,2024-02-19,Delhi,Sports,1371.17,4,15.0,Net Banking,Delivered,4.0
+ORD10909,CUST1154,2024-01-26,Surat,Sports,1960.49,3,0.0,Cash on Delivery,Shipped,3.0
+ORD10910,CUST1236,2024-05-28,Delhi,Books,2992.45,4,10.0,Cash on Delivery,Shipped,4.0
+ORD10911,CUST1392,2024-07-15,Surat,Sports,1413.51,1,20.0,Credit Card,Shipped,4.0
+ORD10912,CUST1710,2024-11-11,Hyderabad,Clothing,3158.33,3,20.0,UPI,Shipped,5.0
+ORD10913,CUST1156,2024-08-02,Hyderabad,Home,2106.12,1,,Credit Card,Delivered,2.0
+ORD10914,CUST1723,2024-05-07,Pune,Sports,2805.03,3,15.0,Net Banking,Returned,3.0
+ORD10915,CUST1219,2024-03-22,Delhi,Beauty,2237.02,2,0.0,Debit Card,Delivered,2.0
+ORD10916,CUST1065,2024-06-16,Mumbai,Sports,1542.88,3,0.0,Net Banking,Shipped,
+ORD10917,CUST1424,2024-10-22,Surat,Books,4747.42,4,,Debit Card,Returned,4.0
+ORD10918,CUST1417,2024-06-09,Pune,Electronics,3841.67,3,20.0,UPI,Cancelled,
+ORD10919,CUST1338,2024-04-07,Ahmedabad,Sports,786.55,1,5.0,Cash on Delivery,Delivered,1.0
+ORD10920,CUST1555,2024-03-22,Ahmedabad,Electronics,4355.49,1,15.0,Cash on Delivery,Delivered,4.0
+ORD10921,CUST1477,2024-09-12,Ahmedabad,Home,2488.41,3,,Credit Card,Delivered,2.0
+ORD10922,CUST1425,2024-09-20,Surat,Electronics,4483.31,4,15.0,Debit Card,Delivered,4.0
+ORD10923,CUST1063,2024-08-27,Delhi,Sports,4019.29,2,20.0,Credit Card,Cancelled,1.0
+ORD10924,CUST1211,2024-09-12,Surat,Beauty,2183.55,4,20.0,UPI,Cancelled,5.0
+ORD10925,CUST1852,2024-06-06,Ahmedabad,Clothing,210.1,2,5.0,Cash on Delivery,Returned,
+ORD10926,CUST1430,2024-09-11,Delhi,Beauty,1416.52,1,5.0,Credit Card,Returned,
+ORD10927,CUST1398,2024-01-12,Pune,Beauty,2754.01,4,0.0,Debit Card,Shipped,2.0
+ORD10928,CUST1926,2024-02-16,Ahmedabad,Clothing,3204.04,2,15.0,UPI,Shipped,4.0
+ORD10929,CUST1788,2024-07-20,Mumbai,Home,1363.65,3,15.0,UPI,Shipped,2.0
+ORD10930,CUST1598,2024-09-15,Delhi,Sports,782.84,1,20.0,Debit Card,Cancelled,5.0
+ORD10931,CUST1968,2024-08-22,Surat,Home,4191.16,3,0.0,Credit Card,Cancelled,4.0
+ORD10932,CUST1712,2024-05-03,Hyderabad,Books,4923.57,1,,Net Banking,Cancelled,4.0
+ORD10933,CUST1020,2024-04-20,Surat,Books,2675.88,4,15.0,Credit Card,Delivered,2.0
+ORD10934,CUST1877,2024-10-25,Mumbai,Electronics,941.23,4,0.0,Debit Card,Delivered,2.0
+ORD10935,CUST1901,2024-06-29,Bangalore,Beauty,1434.31,1,0.0,Cash on Delivery,Cancelled,1.0
+ORD10936,CUST1783,2024-01-25,Surat,Home,190.11,1,20.0,Credit Card,Returned,5.0
+ORD10937,CUST1589,2024-01-26,Hyderabad,Clothing,4580.06,1,0.0,Net Banking,Shipped,1.0
+ORD10938,CUST1389,2024-05-24,Hyderabad,Home,676.98,4,5.0,Credit Card,Returned,
+ORD10939,CUST1488,2024-09-10,Hyderabad,Electronics,2924.93,2,5.0,Cash on Delivery,Returned,4.0
+ORD10940,CUST1006,2024-11-01,Mumbai,Sports,1442.87,3,10.0,UPI,Cancelled,2.0
+ORD10941,CUST1965,2024-11-30,Ahmedabad,Beauty,2815.47,3,20.0,Credit Card,Cancelled,4.0
+ORD10942,CUST1360,2024-12-10,Ahmedabad,Beauty,3291.96,4,,UPI,Shipped,4.0
+ORD10943,CUST1305,2024-08-28,Surat,Home,4165.73,3,10.0,Cash on Delivery,Returned,3.0
+ORD10944,CUST1771,2024-05-26,Delhi,Electronics,1111.46,1,5.0,Net Banking,Returned,
+ORD10945,CUST1399,2024-10-01,Bangalore,Books,153.88,2,10.0,Credit Card,Returned,3.0
+ORD10946,CUST1873,2024-01-05,Surat,Clothing,770.74,3,20.0,UPI,Returned,4.0
+ORD10947,CUST1913,2024-02-25,Hyderabad,Sports,4510.09,2,20.0,Net Banking,Delivered,2.0
+ORD10948,CUST1976,2024-08-08,Ahmedabad,Home,4382.06,1,0.0,UPI,Cancelled,4.0
+ORD10949,CUST1855,2024-03-09,Hyderabad,Home,3027.32,3,15.0,UPI,Delivered,
+ORD10950,CUST1429,2024-05-15,Delhi,Clothing,3042.53,4,0.0,UPI,Cancelled,3.0
+ORD10951,CUST1551,2024-07-06,Hyderabad,Books,3358.68,2,20.0,Credit Card,Delivered,2.0
+ORD10952,CUST1765,2024-07-25,Mumbai,Home,959.32,1,5.0,UPI,Shipped,4.0
+ORD10953,CUST1752,2024-07-06,Ahmedabad,Clothing,4580.62,2,,Cash on Delivery,Returned,5.0
+ORD10954,CUST1559,2024-01-24,Mumbai,Beauty,2151.98,3,5.0,Debit Card,Cancelled,
+ORD10955,CUST1819,2024-07-24,Bangalore,Beauty,1977.38,3,0.0,Net Banking,Cancelled,
+ORD10956,CUST1617,2024-01-27,,Clothing,2642.7,4,,Net Banking,Cancelled,5.0
+ORD10957,CUST1919,2024-10-18,Pune,Sports,330.13,1,20.0,Credit Card,Delivered,4.0
+ORD10958,CUST1225,2024-10-14,Delhi,Beauty,914.79,1,5.0,Credit Card,Returned,
+ORD10959,CUST1499,2024-04-09,Ahmedabad,Clothing,3716.36,4,20.0,Credit Card,Cancelled,2.0
+ORD10960,CUST1224,2024-07-04,Mumbai,Clothing,505.71,4,,Debit Card,Shipped,4.0
+ORD10961,CUST1279,2024-10-10,Mumbai,Beauty,3055.45,1,,Cash on Delivery,Shipped,4.0
+ORD10962,CUST1446,2024-05-27,Mumbai,Clothing,1302.21,2,5.0,Net Banking,Returned,3.0
+ORD10963,CUST1497,2024-02-07,Surat,Home,2007.55,2,20.0,Net Banking,Returned,
+ORD10964,CUST1029,2024-07-16,Surat,Clothing,1514.6,4,10.0,Credit Card,Returned,
+ORD10965,CUST1398,2024-09-15,Bangalore,Clothing,1842.8,2,20.0,Credit Card,Shipped,5.0
+ORD10966,CUST1344,2024-08-18,Pune,Clothing,3623.32,1,,Cash on Delivery,Returned,3.0
+ORD10967,CUST1684,2024-10-08,Hyderabad,Clothing,1555.9,3,20.0,UPI,Cancelled,3.0
+ORD10968,CUST1695,2024-05-23,Bangalore,Books,2875.38,3,0.0,Cash on Delivery,Delivered,
+ORD10969,CUST1817,2024-11-15,Pune,Home,2432.65,2,10.0,Credit Card,Shipped,4.0
+ORD10970,CUST1414,2024-12-14,Bangalore,Clothing,3351.99,4,15.0,Net Banking,Delivered,3.0
+ORD10971,CUST1741,2024-11-08,Mumbai,Electronics,4690.47,4,0.0,Cash on Delivery,Shipped,5.0
+ORD10972,CUST1169,2024-03-01,Surat,Electronics,3689.6,4,15.0,UPI,Cancelled,3.0
+ORD10973,CUST1860,2024-03-06,Bangalore,Electronics,1153.21,4,5.0,Debit Card,Delivered,5.0
+ORD10974,CUST1478,2024-02-19,Delhi,Beauty,252.8,4,15.0,Debit Card,Cancelled,3.0
+ORD10975,CUST1941,2024-07-20,Bangalore,Beauty,1385.09,2,20.0,Net Banking,Cancelled,5.0
+ORD10976,CUST1130,2024-07-10,Delhi,Sports,3015.88,3,15.0,UPI,Shipped,3.0
+ORD10977,CUST1637,2024-06-22,Hyderabad,Books,351.99,3,,Cash on Delivery,Cancelled,3.0
+ORD10978,CUST1546,2024-10-12,Mumbai,Electronics,2532.19,2,0.0,Credit Card,Cancelled,2.0
+ORD10979,CUST1027,2024-07-06,Surat,Books,3024.53,4,0.0,Credit Card,Shipped,5.0
+ORD10980,CUST1928,2024-03-14,Bangalore,Electronics,1737.8,2,15.0,UPI,Returned,5.0
+ORD10981,CUST1403,2024-04-11,Delhi,Sports,3877.47,3,0.0,Cash on Delivery,Shipped,5.0
+ORD10982,CUST1606,2024-11-04,Hyderabad,Home,622.33,1,,UPI,Cancelled,1.0
+ORD10983,CUST1577,2024-09-17,Surat,Books,468.18,2,0.0,Cash on Delivery,Shipped,3.0
+ORD10984,CUST1678,2024-07-24,Pune,Home,3668.12,4,15.0,Debit Card,Cancelled,5.0
+ORD10985,CUST1027,2024-09-13,Mumbai,Sports,2527.91,3,10.0,Cash on Delivery,Delivered,
+ORD10986,CUST1085,2024-01-21,Bangalore,Books,3473.17,3,10.0,Cash on Delivery,Returned,1.0
+ORD10987,CUST1658,2024-01-24,Bangalore,Home,2230.65,3,5.0,Credit Card,Delivered,2.0
+ORD10988,CUST1438,2024-01-20,Mumbai,Sports,1307.37,3,0.0,Net Banking,Delivered,5.0
+ORD10989,CUST1138,2024-03-11,Surat,Clothing,4113.6,4,15.0,Credit Card,Returned,5.0
+ORD10990,CUST1887,2024-12-31,Surat,Books,4017.14,1,0.0,Debit Card,Delivered,1.0
+ORD10991,CUST1472,2024-06-19,Bangalore,Home,3504.01,3,20.0,UPI,Delivered,3.0
+ORD10992,CUST1186,2024-08-30,Ahmedabad,Sports,1433.51,2,,Credit Card,Cancelled,
+ORD10993,CUST1051,2024-09-22,Bangalore,Clothing,2992.13,1,0.0,UPI,Returned,2.0
+ORD10994,CUST1266,2024-08-21,Delhi,Books,1868.77,3,0.0,Credit Card,Shipped,5.0
+ORD10995,CUST1388,2024-03-17,Pune,Clothing,548.75,1,10.0,Net Banking,Cancelled,3.0
+ORD10996,CUST1335,2024-11-06,Hyderabad,Electronics,4594.84,2,,Net Banking,Returned,
+ORD10997,CUST1216,2024-09-20,Hyderabad,Books,770.41,3,15.0,Credit Card,Delivered,
+ORD10998,CUST1465,2024-03-12,Delhi,Sports,4756.16,2,0.0,Credit Card,Delivered,2.0
+ORD10999,CUST1334,2024-06-16,Ahmedabad,Sports,2285.43,4,10.0,UPI,Cancelled,4.0
+ORD11000,CUST1345,2024-11-09,Surat,Books,1007.15,3,5.0,UPI,Cancelled,
+ORD11001,CUST1779,2024-06-12,Delhi,Electronics,2755.31,3,,Debit Card,Returned,4.0
+ORD11002,CUST1900,2024-03-24,Mumbai,Books,,3,10.0,Debit Card,Cancelled,
+ORD11003,CUST1388,2024-07-20,Hyderabad,Home,3687.9,3,10.0,Credit Card,Cancelled,2.0
+ORD11004,CUST1284,2024-11-11,Delhi,Sports,4052.15,4,10.0,Net Banking,Returned,1.0
+ORD11005,CUST1770,2024-06-02,Surat,Beauty,3328.04,3,0.0,Debit Card,Cancelled,2.0
+ORD11006,CUST1974,2024-10-30,Bangalore,Clothing,3492.16,1,0.0,Debit Card,Returned,2.0
+ORD11007,CUST1851,2024-06-21,Delhi,Sports,4261.06,3,5.0,Cash on Delivery,Cancelled,1.0
+ORD11008,CUST1431,2024-09-16,Ahmedabad,Electronics,1323.37,4,20.0,Net Banking,Cancelled,1.0
+ORD11009,CUST1258,2024-09-17,Pune,Beauty,2498.18,3,20.0,UPI,Cancelled,3.0
+ORD11010,CUST1854,2024-09-29,Surat,Books,1183.93,1,20.0,UPI,Delivered,
+ORD11011,CUST1083,2024-09-07,Mumbai,Sports,4939.57,4,,UPI,Cancelled,3.0
+ORD11012,CUST1481,2024-12-28,Bangalore,Home,4725.89,4,,Cash on Delivery,Returned,1.0
+ORD11013,CUST1019,2024-10-15,Ahmedabad,Beauty,293.19,1,5.0,Credit Card,Delivered,4.0
+ORD11014,CUST1767,2024-06-02,Surat,Electronics,3557.32,1,,Credit Card,Delivered,4.0
+ORD11015,CUST1552,2024-08-31,Mumbai,Electronics,4633.72,1,20.0,UPI,Cancelled,2.0
+ORD11016,CUST1053,2024-01-09,Mumbai,Beauty,984.82,1,20.0,Net Banking,Shipped,5.0
+ORD11017,CUST1974,2024-07-07,Surat,Clothing,2882.93,1,10.0,Cash on Delivery,Delivered,2.0
+ORD11018,CUST1358,2024-06-18,Bangalore,Sports,4585.89,4,,UPI,Returned,2.0
+ORD11019,CUST1229,2024-12-10,Ahmedabad,Books,266.34,4,0.0,UPI,Cancelled,5.0
+ORD11020,CUST1665,2024-02-26,Hyderabad,Electronics,3517.36,3,0.0,Credit Card,Returned,
+ORD11021,CUST1070,2024-08-01,Bangalore,Home,1557.01,3,10.0,Net Banking,Shipped,1.0
+ORD11022,CUST1799,2024-10-25,Bangalore,Home,4629.54,2,10.0,Cash on Delivery,Cancelled,4.0
+ORD11023,CUST1980,2024-06-06,Bangalore,Books,4858.19,3,10.0,Cash on Delivery,Returned,2.0
+ORD11024,CUST1667,2024-12-18,Bangalore,Home,4726.91,3,0.0,Debit Card,Returned,5.0
+ORD11025,CUST1041,2024-11-18,Mumbai,Clothing,2423.65,1,20.0,Net Banking,Cancelled,3.0
+ORD11026,CUST1772,2024-01-14,Pune,Books,4324.01,1,10.0,Credit Card,Shipped,2.0
+ORD11027,CUST1031,2024-11-01,Ahmedabad,Home,4238.29,3,5.0,Debit Card,Delivered,4.0
+ORD11028,CUST1972,2024-08-30,Mumbai,Clothing,1663.59,2,10.0,Credit Card,Delivered,1.0
+ORD11029,CUST1253,2024-05-15,Surat,Home,4161.69,1,15.0,UPI,Cancelled,2.0
+ORD11030,CUST1204,2024-12-01,Surat,Sports,281.34,3,10.0,Debit Card,Cancelled,2.0
+ORD11031,CUST1859,2024-10-23,Bangalore,Books,3021.72,3,0.0,Credit Card,Cancelled,
+ORD11032,CUST1020,2024-10-22,Ahmedabad,Home,1227.04,4,,UPI,Cancelled,5.0
+ORD11033,CUST1636,2024-04-26,Mumbai,Home,690.78,2,10.0,Credit Card,Shipped,3.0
+ORD11034,CUST1156,2024-01-27,Mumbai,Clothing,477.07,4,,Net Banking,Returned,3.0
+ORD11035,CUST1244,2024-10-25,Hyderabad,Sports,3511.82,2,15.0,Credit Card,Returned,1.0
+ORD11036,CUST1129,2024-09-02,Ahmedabad,Sports,1765.39,1,5.0,Net Banking,Shipped,4.0
+ORD11037,CUST1484,2024-03-28,Bangalore,Clothing,3651.36,2,,Credit Card,Cancelled,1.0
+ORD11038,CUST1685,2024-09-25,Ahmedabad,Sports,420.25,3,20.0,UPI,Delivered,2.0
+ORD11039,CUST1117,2024-11-18,Ahmedabad,Beauty,1644.92,3,10.0,Net Banking,Cancelled,2.0
+ORD11040,CUST1577,2024-11-13,Pune,Home,2743.51,2,15.0,Cash on Delivery,Returned,3.0
+ORD11041,CUST1970,2024-07-13,Pune,Home,3974.54,2,15.0,Net Banking,Cancelled,4.0
+ORD11042,CUST1223,2024-03-16,Bangalore,Sports,1661.89,2,,UPI,Returned,5.0
+ORD11043,CUST1476,2024-12-14,Pune,Home,3166.87,4,5.0,Net Banking,Cancelled,4.0
+ORD11044,CUST1716,2024-05-04,Surat,Sports,4441.29,2,0.0,Credit Card,Delivered,2.0
+ORD11045,CUST1262,2024-01-17,Pune,Clothing,3117.73,1,10.0,Credit Card,Returned,5.0
+ORD11046,CUST1785,2024-10-20,Pune,Books,1241.5,4,15.0,Cash on Delivery,Cancelled,4.0
+ORD11047,CUST1377,2024-12-24,Pune,Clothing,219.56,4,5.0,Net Banking,Shipped,4.0
+ORD11048,CUST1171,2024-02-26,Mumbai,Books,4363.48,2,20.0,Credit Card,Cancelled,5.0
+ORD11049,CUST1620,2024-04-07,Delhi,Beauty,204.22,1,15.0,Net Banking,Delivered,2.0
+ORD11050,CUST1621,2024-01-10,Pune,Clothing,4386.04,4,5.0,Debit Card,Shipped,4.0
+ORD11051,CUST1986,2024-08-13,Ahmedabad,Electronics,2691.79,3,0.0,Credit Card,Delivered,5.0
+ORD11052,CUST1765,2024-06-09,Hyderabad,Beauty,4701.43,4,0.0,Net Banking,Cancelled,
+ORD11053,CUST1735,2024-08-02,Pune,Home,,2,15.0,Credit Card,Shipped,
+ORD11054,CUST1117,2024-03-18,Hyderabad,Clothing,4989.88,1,15.0,Debit Card,Returned,2.0
+ORD11055,CUST1796,2024-07-30,Hyderabad,Books,1818.49,2,,Debit Card,Shipped,5.0
+ORD11056,CUST1838,2024-12-19,Delhi,Sports,3859.22,3,10.0,Credit Card,Shipped,
+ORD11057,CUST1167,2024-04-14,Bangalore,Sports,2069.46,3,5.0,Debit Card,Cancelled,5.0
+ORD11058,CUST1987,2024-07-29,Hyderabad,Clothing,2451.39,3,15.0,Credit Card,Returned,4.0
+ORD11059,CUST1318,2024-09-13,Bangalore,Clothing,3174.78,2,10.0,UPI,Returned,2.0
+ORD11060,CUST1110,2024-11-09,Surat,Beauty,4381.02,4,,Cash on Delivery,Shipped,
+ORD11061,CUST1592,2024-08-29,Surat,Clothing,4922.01,2,10.0,UPI,Shipped,4.0
+ORD11062,CUST1026,2024-02-01,Pune,Sports,3864.54,1,15.0,Debit Card,Shipped,1.0
+ORD11063,CUST1951,2024-12-27,Ahmedabad,Electronics,2147.06,4,0.0,Credit Card,Returned,1.0
+ORD11064,CUST1319,2024-03-11,Hyderabad,Clothing,2164.65,3,5.0,UPI,Shipped,2.0
+ORD11065,CUST1589,2024-09-22,Hyderabad,Sports,3714.15,2,5.0,Net Banking,Delivered,
+ORD11066,CUST1693,2024-04-16,Ahmedabad,Sports,1270.01,3,0.0,Net Banking,Cancelled,
+ORD11067,CUST1929,2024-10-14,Mumbai,Clothing,641.32,3,15.0,Net Banking,Cancelled,
+ORD11068,CUST1981,2024-06-15,Ahmedabad,Beauty,1837.65,1,5.0,Credit Card,Cancelled,5.0
+ORD11069,CUST1384,2024-12-05,Mumbai,Books,1507.47,4,15.0,Debit Card,Shipped,4.0
+ORD11070,CUST1406,2024-09-01,Mumbai,Books,1551.91,1,,Credit Card,Cancelled,
+ORD11071,CUST1964,2024-09-26,Ahmedabad,Beauty,1244.68,1,15.0,Debit Card,Shipped,4.0
+ORD11072,CUST1732,2024-07-11,Ahmedabad,Home,306.26,1,10.0,Cash on Delivery,Cancelled,2.0
+ORD11073,CUST1203,2024-06-09,Mumbai,Sports,187.58,3,0.0,Credit Card,Returned,
+ORD11074,CUST1077,2024-03-29,Surat,Home,4939.84,1,15.0,Cash on Delivery,Shipped,2.0
+ORD11075,CUST1606,2024-08-23,Pune,Home,2196.09,1,,Credit Card,Shipped,
+ORD11076,CUST1707,2024-09-29,Surat,Books,1983.2,4,20.0,Cash on Delivery,Cancelled,1.0
+ORD11077,CUST1850,2024-06-24,Bangalore,Books,3430.27,4,0.0,Cash on Delivery,Returned,3.0
+ORD11078,CUST1642,2024-10-06,Ahmedabad,Electronics,1169.44,1,5.0,Credit Card,Returned,2.0
+ORD11079,CUST1248,2024-06-30,Delhi,Sports,4754.81,4,10.0,UPI,Delivered,
+ORD11080,CUST1104,2024-12-12,Ahmedabad,Electronics,3953.09,4,5.0,Net Banking,Cancelled,3.0
+ORD11081,CUST1713,2024-12-14,Mumbai,Beauty,538.11,1,,Cash on Delivery,Delivered,2.0
+ORD11082,CUST1791,2024-11-25,Delhi,Clothing,2146.15,3,,Net Banking,Returned,5.0
+ORD11083,CUST1308,2024-12-20,Delhi,Electronics,4407.68,1,5.0,Credit Card,Shipped,
+ORD11084,CUST1870,2024-05-15,Pune,Clothing,4729.19,4,0.0,Cash on Delivery,Returned,5.0
+ORD11085,CUST1700,2024-11-08,Bangalore,Home,2390.27,3,5.0,Net Banking,Cancelled,1.0
+ORD11086,CUST1614,2024-09-04,Ahmedabad,Sports,3105.72,2,15.0,Net Banking,Delivered,
+ORD11087,CUST1824,2024-04-08,Pune,Beauty,918.47,3,5.0,Debit Card,Shipped,1.0
+ORD11088,CUST1123,2024-05-06,Bangalore,Electronics,4956.73,4,10.0,UPI,Returned,3.0
+ORD11089,CUST1815,2024-05-22,Surat,Sports,1235.19,3,10.0,Net Banking,Shipped,2.0
+ORD11090,CUST1579,2024-10-12,Delhi,Beauty,4719.39,1,20.0,Credit Card,Shipped,4.0
+ORD11091,CUST1801,2024-06-01,Pune,Home,3283.27,2,10.0,Credit Card,Shipped,1.0
+ORD11092,CUST1042,2024-04-25,Surat,Home,3077.91,2,5.0,Debit Card,Shipped,4.0
+ORD11093,CUST1355,2024-06-01,Ahmedabad,Home,2612.17,2,10.0,Net Banking,Shipped,4.0
+ORD11094,CUST1545,2024-05-27,Ahmedabad,Home,1230.28,4,0.0,Cash on Delivery,Returned,2.0
+ORD11095,CUST1438,2024-12-26,Mumbai,Books,964.99,4,10.0,Credit Card,Shipped,3.0
+ORD11096,CUST1677,2024-04-16,Surat,Books,1180.38,2,15.0,Cash on Delivery,Returned,2.0
+ORD11097,CUST1379,2024-12-19,Surat,Home,1013.55,3,0.0,Credit Card,Returned,
+ORD11098,CUST1070,2024-12-26,Pune,Home,3919.96,2,20.0,Cash on Delivery,Shipped,1.0
+ORD11099,CUST1518,2024-09-07,,Electronics,1815.61,3,15.0,UPI,Delivered,4.0
+ORD11100,CUST1663,2024-06-11,Delhi,Sports,383.43,3,5.0,Net Banking,Cancelled,2.0
+ORD11101,CUST1349,2024-09-02,Bangalore,Electronics,4848.6,4,5.0,UPI,Shipped,2.0
+ORD11102,CUST1012,2024-06-27,Bangalore,Home,4430.55,3,5.0,UPI,Cancelled,2.0
+ORD11103,CUST1869,2024-10-13,Delhi,Beauty,4645.99,2,15.0,Net Banking,Returned,1.0
+ORD11104,CUST1430,2024-05-20,Mumbai,Books,4975.05,4,15.0,Cash on Delivery,Delivered,3.0
+ORD11105,CUST1842,2024-05-27,Bangalore,Clothing,952.09,1,15.0,UPI,Returned,2.0
+ORD11106,CUST1501,2024-03-03,Mumbai,Books,2041.59,1,0.0,Net Banking,Delivered,1.0
+ORD11107,CUST1108,2024-10-20,Mumbai,Books,3815.37,4,,Cash on Delivery,Returned,4.0
+ORD11108,CUST1443,2024-12-12,Surat,Beauty,3510.5,2,0.0,Net Banking,Delivered,
+ORD11109,CUST1983,2024-10-05,Ahmedabad,Beauty,,1,5.0,Net Banking,Returned,5.0
+ORD11110,CUST1370,2024-07-13,Ahmedabad,Books,4097.58,1,,UPI,Cancelled,1.0
+ORD11111,CUST1650,2024-07-21,Pune,Clothing,1199.76,3,10.0,Net Banking,Delivered,5.0
+ORD11112,CUST1912,2024-06-25,Delhi,Home,1196.71,3,5.0,Net Banking,Delivered,2.0
+ORD11113,CUST1848,2024-03-15,Delhi,Home,2731.17,2,20.0,Credit Card,Delivered,2.0
+ORD11114,CUST1470,2024-05-28,Hyderabad,Home,3005.41,4,0.0,UPI,Returned,1.0
+ORD11115,CUST1724,2024-01-22,Pune,Beauty,2942.42,2,15.0,Cash on Delivery,Delivered,5.0
+ORD11116,CUST1156,2024-05-27,Surat,Books,548.29,4,0.0,UPI,Cancelled,2.0
+ORD11117,CUST1445,2024-12-31,Ahmedabad,Sports,4399.56,1,15.0,Net Banking,Returned,4.0
+ORD11118,CUST1180,2024-02-10,Mumbai,Beauty,1401.44,3,,Credit Card,Cancelled,3.0
+ORD11119,CUST1751,2024-06-26,Ahmedabad,Sports,734.62,2,20.0,Credit Card,Returned,3.0
+ORD11120,CUST1534,2024-08-14,Pune,Electronics,4454.87,2,,Debit Card,Returned,2.0
+ORD11121,CUST1988,2024-12-01,Ahmedabad,Sports,4782.69,4,20.0,Debit Card,Returned,5.0
+ORD11122,CUST1666,2024-05-11,Mumbai,Books,4324.43,4,0.0,Credit Card,Returned,
+ORD11123,CUST1276,2024-09-02,Hyderabad,Home,4066.63,2,15.0,UPI,Cancelled,2.0
+ORD11124,CUST1630,2024-04-19,Bangalore,Sports,3310.69,4,,UPI,Cancelled,
+ORD11125,CUST1827,2024-04-13,Bangalore,Beauty,2799.2,2,20.0,Net Banking,Returned,
+ORD11126,CUST1941,2024-10-02,Delhi,Clothing,526.24,2,5.0,Debit Card,Delivered,5.0
+ORD11127,CUST1551,2024-05-18,Pune,Clothing,2101.42,2,5.0,Credit Card,Returned,
+ORD11128,CUST1793,2024-10-14,Surat,Beauty,1926.17,1,,Net Banking,Returned,4.0
+ORD11129,CUST1495,2024-12-22,Ahmedabad,Home,1372.79,4,15.0,Cash on Delivery,Returned,5.0
+ORD11130,CUST1476,2024-05-19,Ahmedabad,Sports,3644.76,3,,Cash on Delivery,Shipped,2.0
+ORD11131,CUST1446,2024-03-11,Surat,Beauty,2529.79,3,0.0,UPI,Shipped,4.0
+ORD11132,CUST1845,2024-02-25,Surat,Books,497.13,4,20.0,Net Banking,Delivered,1.0
+ORD11133,CUST1748,2024-11-11,Bangalore,Books,1178.9,2,0.0,Net Banking,Shipped,3.0
+ORD11134,CUST1606,2024-10-27,Mumbai,Sports,3447.97,3,5.0,Credit Card,Cancelled,2.0
+ORD11135,CUST1274,2024-05-02,Ahmedabad,Electronics,473.04,3,20.0,Net Banking,Shipped,2.0
+ORD11136,CUST1330,2024-05-04,Pune,Electronics,4270.91,4,,Credit Card,Cancelled,2.0
+ORD11137,CUST1872,2024-01-26,Hyderabad,Clothing,2526.22,3,0.0,Debit Card,Cancelled,4.0
+ORD11138,CUST1251,2024-12-08,Ahmedabad,Home,2454.87,2,10.0,Net Banking,Cancelled,1.0
+ORD11139,CUST1850,2024-09-28,Mumbai,Clothing,3002.8,4,15.0,UPI,Shipped,5.0
+ORD11140,CUST1957,2024-04-25,Hyderabad,Home,4140.94,2,15.0,UPI,Cancelled,1.0
+ORD11141,CUST1088,2024-11-22,Pune,Home,1804.27,3,10.0,Net Banking,Shipped,4.0
+ORD11142,CUST1285,2024-04-29,Pune,Beauty,3422.28,3,5.0,Debit Card,Shipped,2.0
+ORD11143,CUST1902,2024-01-27,Pune,Home,2872.09,2,20.0,Cash on Delivery,Returned,3.0
+ORD11144,CUST1461,2024-02-21,Bangalore,Beauty,1408.44,1,15.0,UPI,Delivered,2.0
+ORD11145,CUST1249,2024-07-30,Mumbai,Home,4405.29,3,10.0,Debit Card,Returned,5.0
+ORD11146,CUST1768,2024-06-18,Ahmedabad,Books,4007.39,1,,Net Banking,Cancelled,
+ORD11147,CUST1475,2024-08-29,Bangalore,Beauty,3326.41,3,10.0,Debit Card,Shipped,3.0
+ORD11148,CUST1583,2024-02-21,Delhi,Sports,4267.85,1,5.0,Cash on Delivery,Shipped,2.0
+ORD11149,CUST1624,2024-12-14,Pune,Home,4349.74,1,5.0,Cash on Delivery,Cancelled,3.0
+ORD11150,CUST1684,2024-03-11,Surat,Sports,3570.98,1,0.0,Cash on Delivery,Shipped,
+ORD11151,CUST1388,2024-01-03,Mumbai,Home,4201.37,2,15.0,Credit Card,Shipped,1.0
+ORD11152,CUST1344,2024-10-08,Pune,Beauty,3517.61,1,0.0,UPI,Delivered,4.0
+ORD11153,CUST1029,2024-03-21,Mumbai,Books,3432.69,1,10.0,Cash on Delivery,Returned,2.0
+ORD11154,CUST1506,2024-07-27,Surat,Books,3131.2,1,20.0,Debit Card,Cancelled,5.0
+ORD11155,CUST1871,2024-11-30,Pune,Sports,3788.31,3,20.0,UPI,Cancelled,1.0
+ORD11156,CUST1332,2024-08-31,Ahmedabad,Sports,877.17,1,5.0,Cash on Delivery,Returned,2.0
+ORD11157,CUST1186,2024-09-01,Mumbai,Clothing,4416.27,3,20.0,Debit Card,Delivered,1.0
+ORD11158,CUST1499,2024-11-29,,Clothing,4372.03,1,20.0,UPI,Shipped,5.0
+ORD11159,CUST1217,2024-04-12,Pune,Electronics,243.31,1,20.0,UPI,Returned,2.0
+ORD11160,CUST1363,2024-05-27,Mumbai,Clothing,4146.5,2,10.0,Net Banking,Returned,
+ORD11161,CUST1816,2024-06-13,Surat,Beauty,731.46,3,20.0,Debit Card,Cancelled,
+ORD11162,CUST1264,2024-05-26,Hyderabad,Clothing,1742.08,1,,Net Banking,Shipped,5.0
+ORD11163,CUST1348,2024-11-26,Mumbai,Beauty,3743.19,3,20.0,Cash on Delivery,Shipped,3.0
+ORD11164,CUST1286,2024-01-31,Delhi,Home,887.72,3,20.0,UPI,Shipped,5.0
+ORD11165,CUST1901,2024-02-15,Ahmedabad,Beauty,4108.04,4,0.0,Debit Card,Returned,3.0
+ORD11166,CUST1610,2024-11-29,Surat,Beauty,4177.46,2,10.0,Debit Card,Returned,2.0
+ORD11167,CUST1718,2024-10-20,Hyderabad,Beauty,2586.59,2,5.0,Credit Card,Delivered,3.0
+ORD11168,CUST1901,2024-04-28,Bangalore,Electronics,131.29,2,0.0,Cash on Delivery,Delivered,2.0
+ORD11169,CUST1282,2024-09-30,Bangalore,Clothing,1506.49,4,15.0,UPI,Cancelled,2.0
+ORD11170,CUST1569,2024-01-20,Ahmedabad,Clothing,3122.94,4,10.0,Cash on Delivery,Cancelled,4.0
+ORD11171,CUST1010,2024-03-30,Ahmedabad,Sports,4907.81,2,,Credit Card,Returned,2.0
+ORD11172,CUST1529,2024-08-01,Bangalore,Electronics,3195.89,4,10.0,Credit Card,Shipped,3.0
+ORD11173,CUST1970,2024-03-31,Mumbai,Electronics,1373.04,4,15.0,Debit Card,Shipped,4.0
+ORD11174,CUST1195,2024-01-19,Hyderabad,Electronics,3206.63,4,15.0,Credit Card,Cancelled,4.0
+ORD11175,CUST1087,2024-07-22,Delhi,Sports,2745.93,2,15.0,Cash on Delivery,Shipped,2.0
+ORD11176,CUST1247,2024-09-10,Pune,Books,3921.24,2,5.0,UPI,Delivered,5.0
+ORD11177,CUST1737,2024-04-05,Hyderabad,Electronics,624.21,2,20.0,Net Banking,Shipped,5.0
+ORD11178,CUST1416,2024-05-28,Delhi,Electronics,3829.04,4,10.0,Cash on Delivery,Cancelled,
+ORD11179,CUST1500,2024-01-20,Surat,Sports,2752.21,2,20.0,Credit Card,Shipped,4.0
+ORD11180,CUST1568,2024-01-05,Delhi,Books,4818.66,4,20.0,Credit Card,Delivered,2.0
+ORD11181,CUST1776,2024-06-01,Ahmedabad,Electronics,1775.17,1,,Debit Card,Returned,5.0
+ORD11182,CUST1246,2024-10-17,Hyderabad,Electronics,3199.85,4,15.0,Debit Card,Shipped,2.0
+ORD11183,CUST1707,2024-11-04,Pune,Home,4666.94,3,5.0,Debit Card,Returned,2.0
+ORD11184,CUST1487,2024-02-24,Hyderabad,Books,602.3,2,,Cash on Delivery,Delivered,4.0
+ORD11185,CUST1661,2024-06-20,Delhi,Clothing,4692.42,2,0.0,Net Banking,Cancelled,
+ORD11186,CUST1728,2024-05-25,,Electronics,3470.64,3,5.0,Debit Card,Delivered,4.0
+ORD11187,CUST1502,2024-08-20,Delhi,Beauty,432.4,4,20.0,UPI,Cancelled,1.0
+ORD11188,CUST1458,2024-11-24,Bangalore,Sports,1574.72,1,5.0,UPI,Delivered,5.0
+ORD11189,CUST1811,2024-10-05,Hyderabad,Home,3570.04,3,15.0,Debit Card,Shipped,5.0
+ORD11190,CUST1017,2024-09-25,Pune,Clothing,430.02,3,0.0,Debit Card,Delivered,5.0
+ORD11191,CUST1095,2024-09-09,Delhi,Clothing,2952.64,4,15.0,Net Banking,Cancelled,3.0
+ORD11192,CUST1301,2024-03-09,Surat,Beauty,1794.83,2,0.0,Net Banking,Cancelled,2.0
+ORD11193,CUST1226,2024-09-15,Pune,Home,3142.49,4,,Cash on Delivery,Delivered,4.0
+ORD11194,CUST1414,2024-08-27,Mumbai,Sports,324.14,3,20.0,Cash on Delivery,Shipped,5.0
+ORD11195,CUST1708,2024-05-19,Ahmedabad,Beauty,4370.53,3,0.0,UPI,Returned,1.0
+ORD11196,CUST1249,2024-04-08,Pune,Clothing,4870.1,2,0.0,Net Banking,Cancelled,5.0
+ORD11197,CUST1313,2024-02-27,Hyderabad,Clothing,4847.5,2,0.0,Cash on Delivery,Cancelled,
+ORD11198,CUST1679,2024-06-18,Bangalore,Books,3773.29,2,5.0,Cash on Delivery,Returned,2.0
+ORD11199,CUST1595,2024-03-24,Ahmedabad,Clothing,737.42,4,,Debit Card,Delivered,2.0
+ORD11200,CUST1377,2024-08-22,Delhi,Electronics,3815.49,2,5.0,Net Banking,Shipped,4.0
+ORD11201,CUST1484,2024-11-27,Delhi,Electronics,220.48,3,20.0,Cash on Delivery,Delivered,3.0
+ORD11202,CUST1566,2024-05-11,Delhi,Beauty,208.41,3,0.0,Debit Card,Returned,4.0
+ORD11203,CUST1543,2024-04-05,Hyderabad,Home,1685.69,1,,UPI,Delivered,5.0
+ORD11204,CUST1352,2024-01-08,Delhi,Home,2494.35,4,,Credit Card,Cancelled,
+ORD11205,CUST1435,2024-06-21,Bangalore,Sports,3875.0,1,10.0,Net Banking,Returned,1.0
+ORD11206,CUST1763,2024-05-31,Delhi,Sports,3448.15,3,20.0,UPI,Shipped,4.0
+ORD11207,CUST1563,2024-10-17,Surat,Books,2284.92,1,,UPI,Shipped,3.0
+ORD11208,CUST1338,2024-12-11,Ahmedabad,Home,1440.77,3,0.0,Net Banking,Cancelled,4.0
+ORD11209,CUST1360,2024-04-08,Hyderabad,Books,4985.91,1,0.0,Credit Card,Delivered,2.0
+ORD11210,CUST1719,2024-03-30,Pune,Sports,2188.29,2,,Debit Card,Cancelled,5.0
+ORD11211,CUST1464,2024-11-08,Surat,Clothing,2311.8,1,5.0,UPI,Shipped,5.0
+ORD11212,CUST1277,2024-11-23,Surat,Beauty,901.76,2,20.0,UPI,Shipped,5.0
+ORD11213,CUST1313,2024-07-26,Surat,Books,3994.57,2,0.0,Credit Card,Delivered,5.0
+ORD11214,CUST1257,2024-08-06,Hyderabad,Clothing,,4,,Debit Card,Shipped,5.0
+ORD11215,CUST1236,2024-09-20,Surat,Books,1181.77,2,0.0,UPI,Cancelled,5.0
+ORD11216,CUST1123,2024-06-16,Surat,Books,503.67,2,,Credit Card,Cancelled,1.0
+ORD11217,CUST1738,2024-02-14,Ahmedabad,Sports,3434.45,1,20.0,Net Banking,Cancelled,3.0
+ORD11218,CUST1197,2024-07-24,Pune,Beauty,3307.1,3,,Credit Card,Returned,5.0
+ORD11219,CUST1323,2024-12-08,Ahmedabad,Beauty,1438.97,4,10.0,Credit Card,Shipped,3.0
+ORD11220,CUST1122,2024-02-18,Bangalore,Beauty,4759.23,2,,Cash on Delivery,Shipped,
+ORD11221,CUST1760,2024-04-04,Pune,Books,840.18,4,,UPI,Cancelled,5.0
+ORD11222,CUST1548,2024-03-12,Surat,Sports,2218.44,1,20.0,Debit Card,Returned,4.0
+ORD11223,CUST1973,2024-09-01,Hyderabad,Books,4723.72,2,,Net Banking,Cancelled,5.0
+ORD11224,CUST1780,2024-06-14,Bangalore,Beauty,2156.66,1,20.0,Cash on Delivery,Shipped,2.0
+ORD11225,CUST1706,2024-05-07,Surat,Beauty,3228.78,4,10.0,Credit Card,Returned,1.0
+ORD11226,CUST1189,2024-01-04,Hyderabad,Books,2048.21,1,20.0,Net Banking,Cancelled,4.0
+ORD11227,CUST1196,2024-05-13,Delhi,Home,1443.65,4,0.0,Debit Card,Delivered,4.0
+ORD11228,CUST1221,2024-07-15,Mumbai,Home,4921.49,1,20.0,Net Banking,Cancelled,2.0
+ORD11229,CUST1756,2024-04-30,Mumbai,Sports,2105.74,4,10.0,Net Banking,Shipped,5.0
+ORD11230,CUST1495,2024-08-16,Bangalore,Books,4481.09,3,15.0,UPI,Delivered,1.0
+ORD11231,CUST1283,2024-05-16,Hyderabad,Clothing,1226.78,1,,Debit Card,Shipped,4.0
+ORD11232,CUST1741,2024-06-17,Ahmedabad,Electronics,1144.21,1,20.0,Credit Card,Cancelled,1.0
+ORD11233,CUST1603,2024-06-03,Ahmedabad,Sports,252.56,3,,UPI,Returned,4.0
+ORD11234,CUST1778,2024-10-25,Pune,Home,3293.17,3,5.0,UPI,Shipped,5.0
+ORD11235,CUST1537,2024-10-20,Delhi,Home,1905.78,1,0.0,Credit Card,Shipped,
+ORD11236,CUST1611,2024-01-06,Pune,Sports,4335.36,3,0.0,Cash on Delivery,Shipped,4.0
+ORD11237,CUST1289,2024-05-13,Delhi,Home,2418.73,2,5.0,Debit Card,Delivered,
+ORD11238,CUST1102,2024-11-30,Mumbai,Clothing,4844.15,4,5.0,Net Banking,Delivered,4.0
+ORD11239,CUST1852,2024-07-03,Hyderabad,Home,1009.08,4,20.0,Cash on Delivery,Returned,3.0
+ORD11240,CUST1198,2024-12-20,Mumbai,Electronics,4356.25,4,5.0,Debit Card,Shipped,5.0
+ORD11241,CUST1303,2024-04-30,Delhi,Electronics,3905.32,2,15.0,Debit Card,Returned,2.0
+ORD11242,CUST1232,2024-02-01,Pune,Books,3877.52,3,,Net Banking,Returned,
+ORD11243,CUST1369,2024-12-07,Hyderabad,Clothing,4239.44,3,,Cash on Delivery,Shipped,2.0
+ORD11244,CUST1183,2024-03-01,Ahmedabad,Home,3829.02,1,10.0,Cash on Delivery,Cancelled,5.0
+ORD11245,CUST1309,2024-08-26,Hyderabad,Home,3168.48,3,5.0,Cash on Delivery,Shipped,2.0
+ORD11246,CUST1014,2024-06-06,Bangalore,Sports,743.1,1,5.0,Net Banking,Cancelled,5.0
+ORD11247,CUST1725,2024-03-22,Delhi,Books,259.38,2,15.0,Net Banking,Cancelled,2.0
+ORD11248,CUST1546,2024-07-26,Delhi,Electronics,4612.15,4,0.0,Debit Card,Shipped,
+ORD11249,CUST1129,2024-12-17,,Beauty,3121.59,4,0.0,Cash on Delivery,Shipped,3.0
+ORD11250,CUST1280,2024-09-14,Hyderabad,Sports,4003.03,4,,Credit Card,Shipped,2.0
+ORD11251,CUST1046,2024-12-26,Pune,Sports,2459.46,3,,Debit Card,Cancelled,
+ORD11252,CUST1997,2024-06-08,Ahmedabad,Home,674.81,1,20.0,Credit Card,Delivered,4.0
+ORD11253,CUST1055,2024-12-19,Pune,Electronics,713.41,1,15.0,Debit Card,Shipped,5.0
+ORD11254,CUST1566,2024-03-01,Surat,Sports,3459.27,2,10.0,Credit Card,Delivered,1.0
+ORD11255,CUST1299,2024-11-23,Surat,Home,2208.5,3,10.0,Net Banking,Cancelled,1.0
+ORD11256,CUST1714,2024-05-31,Delhi,Books,1082.57,2,15.0,Debit Card,Cancelled,5.0
+ORD11257,CUST1966,2024-07-07,Delhi,Clothing,2508.81,1,10.0,Debit Card,Returned,3.0
+ORD11258,CUST1129,2024-11-10,Delhi,Electronics,414.62,1,0.0,UPI,Returned,2.0
+ORD11259,CUST1653,2024-04-23,Hyderabad,Books,2951.66,4,10.0,Credit Card,Delivered,3.0
+ORD11260,CUST1889,2024-04-22,Ahmedabad,Home,1418.07,3,10.0,Debit Card,Cancelled,1.0
+ORD11261,CUST1770,2024-03-09,Ahmedabad,Clothing,4008.04,1,15.0,Debit Card,Shipped,
+ORD11262,CUST1502,2024-09-01,Delhi,Sports,1620.77,4,15.0,Net Banking,Shipped,5.0
+ORD11263,CUST1105,2024-03-19,Hyderabad,Books,2330.58,3,10.0,Credit Card,Delivered,5.0
+ORD11264,CUST1893,2024-08-20,Ahmedabad,Sports,156.94,2,5.0,Cash on Delivery,Returned,3.0
+ORD11265,CUST1012,2024-11-06,Hyderabad,Sports,454.99,3,15.0,Credit Card,Delivered,
+ORD11266,CUST1587,2024-07-10,Mumbai,Clothing,2023.22,3,20.0,Cash on Delivery,Delivered,3.0
+ORD11267,CUST1291,2024-07-31,Hyderabad,Clothing,2451.7,1,20.0,Debit Card,Returned,2.0
+ORD11268,CUST1480,2024-12-25,Delhi,Beauty,3040.1,1,0.0,Credit Card,Shipped,4.0
+ORD11269,CUST1490,2024-10-08,Mumbai,Beauty,1529.15,3,10.0,Credit Card,Shipped,
+ORD11270,CUST1451,2024-08-29,Pune,Beauty,3505.41,1,5.0,Credit Card,Cancelled,4.0
+ORD11271,CUST1348,2024-10-02,Mumbai,Sports,4314.6,1,0.0,Credit Card,Returned,2.0
+ORD11272,CUST1188,2024-12-06,Pune,Sports,3921.27,1,10.0,Credit Card,Cancelled,4.0
+ORD11273,CUST1988,2024-04-21,Bangalore,Clothing,294.13,4,15.0,UPI,Delivered,1.0
+ORD11274,CUST1052,2024-05-06,Pune,Home,2454.48,4,20.0,UPI,Shipped,4.0
+ORD11275,CUST1258,2024-12-14,Delhi,Electronics,614.16,3,,Debit Card,Delivered,2.0
+ORD11276,CUST1963,2024-11-01,Delhi,Sports,1286.02,1,5.0,Cash on Delivery,Delivered,4.0
+ORD11277,CUST1882,2024-02-11,Pune,Beauty,4934.65,4,,Credit Card,Shipped,5.0
+ORD11278,CUST1489,2024-09-26,Ahmedabad,Clothing,798.23,3,20.0,Net Banking,Shipped,3.0
+ORD11279,CUST1116,2024-08-16,Surat,Books,2544.55,1,,Debit Card,Returned,1.0
+ORD11280,CUST1841,2024-09-27,Mumbai,Books,3128.96,2,15.0,Debit Card,Shipped,5.0
+ORD11281,CUST1066,2024-12-26,Pune,Beauty,3542.08,1,10.0,Credit Card,Cancelled,5.0
+ORD11282,CUST1410,2024-07-04,Surat,Beauty,2842.28,1,15.0,Credit Card,Shipped,2.0
+ORD11283,CUST1503,2024-02-09,Delhi,Home,147.88,4,,Cash on Delivery,Delivered,3.0
+ORD11284,CUST1075,2024-10-15,Delhi,Home,1699.66,3,15.0,UPI,Delivered,3.0
+ORD11285,CUST1590,2024-02-27,Bangalore,Beauty,2636.79,3,20.0,Debit Card,Returned,
+ORD11286,CUST1644,2024-02-01,Bangalore,Beauty,530.55,4,5.0,Debit Card,Delivered,1.0
+ORD11287,CUST1702,2024-10-07,Pune,Books,1818.07,1,15.0,Credit Card,Cancelled,2.0
+ORD11288,CUST1054,2024-09-15,Ahmedabad,Home,262.7,2,20.0,Debit Card,Returned,1.0
+ORD11289,CUST1155,2024-04-13,Pune,Sports,485.03,1,5.0,Net Banking,Shipped,
+ORD11290,CUST1152,2024-10-20,Mumbai,Clothing,2044.92,1,10.0,Cash on Delivery,Shipped,4.0
+ORD11291,CUST1830,2024-10-01,Bangalore,Electronics,750.31,2,,Credit Card,Shipped,5.0
+ORD11292,CUST1576,2024-03-17,,Clothing,2880.95,4,10.0,Cash on Delivery,Delivered,1.0
+ORD11293,CUST1971,2024-03-25,Ahmedabad,Clothing,3478.38,3,0.0,Debit Card,Delivered,5.0
+ORD11294,CUST1311,2024-06-16,Bangalore,Home,4022.87,4,20.0,UPI,Cancelled,2.0
+ORD11295,CUST1087,2024-09-23,Pune,Electronics,1080.74,4,5.0,UPI,Shipped,4.0
+ORD11296,CUST1254,2024-08-14,Mumbai,Beauty,920.66,1,15.0,Net Banking,Cancelled,2.0
+ORD11297,CUST1121,2024-02-29,Mumbai,Sports,612.38,3,10.0,Net Banking,Shipped,4.0
+ORD11298,CUST1571,2024-12-14,Ahmedabad,Books,3218.51,3,5.0,Credit Card,Returned,4.0
+ORD11299,CUST1782,2024-04-15,Mumbai,Sports,3561.73,4,20.0,Net Banking,Cancelled,5.0
+ORD11300,CUST1426,2024-10-25,Hyderabad,Home,254.77,2,0.0,Debit Card,Cancelled,2.0
+ORD11301,CUST1620,2024-09-07,Hyderabad,Beauty,4687.44,4,10.0,Credit Card,Delivered,2.0
+ORD11302,CUST1610,2024-02-16,Mumbai,Books,354.66,2,,UPI,Delivered,1.0
+ORD11303,CUST1809,2024-09-18,Mumbai,Sports,2752.35,3,5.0,Cash on Delivery,Cancelled,2.0
+ORD11304,CUST1633,2024-08-16,Mumbai,Clothing,3574.4,4,,Cash on Delivery,Returned,1.0
+ORD11305,CUST1231,2024-01-29,Hyderabad,Home,4367.75,1,5.0,Debit Card,Delivered,3.0
+ORD11306,CUST1794,2024-08-20,Pune,Electronics,3599.03,4,5.0,Debit Card,Shipped,3.0
+ORD11307,CUST1535,2024-03-08,Hyderabad,Clothing,4028.47,3,20.0,Net Banking,Cancelled,3.0
+ORD11308,CUST1389,2024-09-19,Bangalore,Electronics,1763.31,1,20.0,Debit Card,Delivered,
+ORD11309,CUST1461,2024-07-31,Bangalore,Books,4092.64,1,20.0,Cash on Delivery,Delivered,2.0
+ORD11310,CUST1930,2024-08-21,Ahmedabad,Electronics,492.56,2,15.0,Credit Card,Returned,
+ORD11311,CUST1453,2024-10-15,Hyderabad,Clothing,4484.6,1,5.0,Cash on Delivery,Cancelled,2.0
+ORD11312,CUST1304,2024-01-30,Surat,Electronics,2783.2,1,10.0,Net Banking,Shipped,1.0
+ORD11313,CUST1880,2024-10-13,Surat,Home,4104.76,4,,Debit Card,Returned,
+ORD11314,CUST1602,2024-08-24,Mumbai,Home,2316.36,3,20.0,UPI,Cancelled,
+ORD11315,CUST1439,2024-12-10,Bangalore,Clothing,3253.53,2,20.0,Net Banking,Cancelled,
+ORD11316,CUST1312,2024-06-06,Pune,Beauty,2679.37,4,,UPI,Delivered,4.0
+ORD11317,CUST1582,2024-01-12,Hyderabad,Sports,3684.79,1,,Credit Card,Cancelled,1.0
+ORD11318,CUST1635,2024-07-21,Hyderabad,Beauty,499.99,1,5.0,Cash on Delivery,Shipped,3.0
+ORD11319,CUST1061,2024-05-10,Mumbai,Electronics,395.73,2,20.0,UPI,Delivered,1.0
+ORD11320,CUST1624,2024-01-02,Mumbai,Clothing,1310.81,3,,Debit Card,Delivered,4.0
+ORD11321,CUST1983,2024-04-21,Bangalore,Electronics,881.77,2,15.0,UPI,Shipped,2.0
+ORD11322,CUST1757,2024-10-23,Pune,Clothing,4371.74,4,15.0,Net Banking,Returned,1.0
+ORD11323,CUST1101,2024-02-07,Delhi,Electronics,1174.15,2,20.0,Cash on Delivery,Shipped,
+ORD11324,CUST1970,2024-01-24,Bangalore,Sports,4881.74,1,,Credit Card,Delivered,3.0
+ORD11325,CUST1781,2024-08-04,Ahmedabad,Clothing,1750.79,4,5.0,Net Banking,Delivered,3.0
+ORD11326,CUST1212,2024-06-25,Surat,Home,992.38,1,5.0,Debit Card,Delivered,2.0
+ORD11327,CUST1640,2024-12-24,Pune,Sports,3969.52,3,5.0,UPI,Shipped,1.0
+ORD11328,CUST1216,2024-02-02,Surat,Home,3327.67,1,0.0,Debit Card,Cancelled,4.0
+ORD11329,CUST1270,2024-10-04,Hyderabad,Sports,2541.16,1,20.0,UPI,Cancelled,2.0
+ORD11330,CUST1676,2024-01-31,Pune,Home,2821.28,2,5.0,Cash on Delivery,Returned,1.0
+ORD11331,CUST1083,2024-02-05,,Sports,3624.09,1,15.0,Credit Card,Cancelled,5.0
+ORD11332,CUST1160,2024-08-29,Pune,Beauty,1219.43,4,,Cash on Delivery,Cancelled,3.0
+ORD11333,CUST1245,2024-01-17,Hyderabad,Electronics,4982.04,4,10.0,Cash on Delivery,Delivered,4.0
+ORD11334,CUST1177,2024-05-26,Delhi,Home,4876.49,3,10.0,Credit Card,Delivered,
+ORD11335,CUST1565,2024-07-28,Hyderabad,Electronics,3286.6,4,5.0,Debit Card,Shipped,4.0
+ORD11336,CUST1076,2024-04-02,Mumbai,Clothing,1077.76,2,10.0,Credit Card,Delivered,
+ORD11337,CUST1160,2024-03-10,Hyderabad,Electronics,3433.12,3,10.0,UPI,Delivered,4.0
+ORD11338,CUST1002,2024-11-24,Ahmedabad,Home,453.77,4,0.0,UPI,Returned,3.0
+ORD11339,CUST1418,2024-11-26,,Sports,250.2,2,15.0,Cash on Delivery,Cancelled,
+ORD11340,CUST1461,2024-08-03,Hyderabad,Electronics,1362.65,4,15.0,Net Banking,Delivered,1.0
+ORD11341,CUST1705,2024-07-10,Surat,Books,2366.85,4,0.0,UPI,Cancelled,
+ORD11342,CUST1608,2024-07-14,Ahmedabad,Sports,4354.54,1,0.0,Cash on Delivery,Delivered,2.0
+ORD11343,CUST1481,2024-08-17,Mumbai,Clothing,3663.13,4,10.0,Net Banking,Cancelled,1.0
+ORD11344,CUST1298,2024-07-12,Bangalore,Clothing,3739.26,4,20.0,Credit Card,Cancelled,2.0
+ORD11345,CUST1033,2024-07-11,Delhi,Home,2184.92,2,,Net Banking,Delivered,4.0
+ORD11346,CUST1237,2024-02-11,Pune,Sports,1795.08,2,,Debit Card,Shipped,1.0
+ORD11347,CUST1295,2024-12-15,Surat,Electronics,1918.09,1,10.0,Cash on Delivery,Delivered,4.0
+ORD11348,CUST1723,2024-12-04,Hyderabad,Electronics,4939.48,4,,Cash on Delivery,Returned,5.0
+ORD11349,CUST1289,2024-10-03,Hyderabad,Beauty,296.54,1,0.0,Cash on Delivery,Returned,4.0
+ORD11350,CUST1719,2024-03-09,Delhi,Clothing,4348.45,4,15.0,UPI,Cancelled,4.0
+ORD11351,CUST1880,2024-11-30,Delhi,Sports,2935.51,3,,Debit Card,Cancelled,2.0
+ORD11352,CUST1464,2024-06-27,Ahmedabad,Sports,2249.22,3,10.0,Net Banking,Shipped,
+ORD11353,CUST1072,2024-03-01,Surat,Clothing,3653.76,1,20.0,Credit Card,Shipped,5.0
+ORD11354,CUST1703,2024-04-01,Surat,Beauty,2484.68,1,10.0,Net Banking,Delivered,4.0
+ORD11355,CUST1239,2024-10-02,Hyderabad,Electronics,4379.77,1,5.0,Debit Card,Cancelled,4.0
+ORD11356,CUST1946,2024-07-20,Surat,Clothing,,2,10.0,Net Banking,Cancelled,5.0
+ORD11357,CUST1270,2024-09-27,Hyderabad,Sports,2166.43,2,0.0,Debit Card,Delivered,5.0
+ORD11358,CUST1806,2024-03-06,Ahmedabad,Beauty,1456.46,2,15.0,UPI,Returned,1.0
+ORD11359,CUST1810,2024-04-24,Surat,Electronics,3002.52,1,15.0,Debit Card,Returned,2.0
+ORD11360,CUST1640,2024-01-02,Ahmedabad,Books,4570.58,4,,Debit Card,Cancelled,5.0
+ORD11361,CUST1603,2024-01-12,Pune,Beauty,1132.24,3,0.0,Debit Card,Delivered,5.0
+ORD11362,CUST1677,2024-06-01,Ahmedabad,Clothing,3152.54,1,5.0,Debit Card,Shipped,3.0
+ORD11363,CUST1823,2024-08-25,Mumbai,Sports,3194.65,2,0.0,Net Banking,Returned,
+ORD11364,CUST1956,2024-12-10,Bangalore,Sports,3692.25,2,10.0,Cash on Delivery,Delivered,5.0
+ORD11365,CUST1202,2024-10-05,Surat,Beauty,744.68,1,0.0,UPI,Shipped,2.0
+ORD11366,CUST1435,2024-08-05,Mumbai,Home,3607.54,1,0.0,Credit Card,Cancelled,
+ORD11367,CUST1117,2024-09-29,Mumbai,Home,4554.26,2,5.0,Net Banking,Shipped,
+ORD11368,CUST1557,2024-07-13,Hyderabad,Clothing,980.45,4,10.0,Net Banking,Cancelled,4.0
+ORD11369,CUST1230,2024-04-27,Pune,Beauty,1263.96,2,20.0,Net Banking,Delivered,4.0
+ORD11370,CUST1663,2024-05-06,Delhi,Beauty,4859.84,2,20.0,Debit Card,Returned,4.0
+ORD11371,CUST1152,2024-08-23,Pune,Electronics,986.79,1,15.0,Credit Card,Returned,4.0
+ORD11372,CUST1930,2024-06-26,Bangalore,Beauty,4286.49,4,,Net Banking,Delivered,3.0
+ORD11373,CUST1272,2024-03-20,Ahmedabad,Books,2512.16,2,0.0,Net Banking,Delivered,5.0
+ORD11374,CUST1846,2024-05-21,Bangalore,Books,1311.43,2,15.0,Credit Card,Cancelled,4.0
+ORD11375,CUST1145,2024-04-06,Ahmedabad,Electronics,4366.67,3,5.0,Cash on Delivery,Shipped,1.0
+ORD11376,CUST1073,2024-02-27,Surat,Home,2282.0,1,20.0,Cash on Delivery,Returned,4.0
+ORD11377,CUST1061,2024-01-17,Mumbai,Sports,2622.61,3,0.0,UPI,Shipped,5.0
+ORD11378,CUST1169,2024-12-04,,Beauty,1860.24,3,5.0,Credit Card,Delivered,4.0
+ORD11379,CUST1811,2024-08-02,Delhi,Home,3005.46,2,,Credit Card,Cancelled,3.0
+ORD11380,CUST1314,2024-11-10,Pune,Clothing,901.27,1,5.0,Debit Card,Returned,2.0
+ORD11381,CUST1609,2024-01-09,Surat,Home,2016.3,4,0.0,Net Banking,Delivered,2.0
+ORD11382,CUST1766,2024-05-03,Hyderabad,Electronics,4850.12,2,,Cash on Delivery,Returned,5.0
+ORD11383,CUST1844,2024-04-15,Pune,Beauty,1364.85,4,5.0,Debit Card,Shipped,2.0
+ORD11384,CUST1582,2024-02-04,Delhi,Clothing,3318.01,4,,UPI,Cancelled,2.0
+ORD11385,CUST1943,2024-02-21,Delhi,Electronics,1693.43,1,0.0,Cash on Delivery,Returned,1.0
+ORD11386,CUST1295,2024-10-31,Mumbai,Clothing,3890.02,3,0.0,Net Banking,Cancelled,5.0
+ORD11387,CUST1449,2024-01-18,Mumbai,Beauty,741.28,1,,UPI,Returned,5.0
+ORD11388,CUST1127,2024-08-16,Surat,Sports,4852.12,4,10.0,UPI,Shipped,2.0
+ORD11389,CUST1479,2024-11-02,Hyderabad,Home,2323.57,2,15.0,Net Banking,Delivered,2.0
+ORD11390,CUST1705,2024-12-10,Mumbai,Electronics,1256.65,4,5.0,Debit Card,Returned,2.0
+ORD11391,CUST1311,2024-12-26,Bangalore,Clothing,460.13,2,5.0,Net Banking,Delivered,
+ORD11392,CUST1716,2024-01-25,Hyderabad,Home,931.81,2,10.0,Credit Card,Shipped,3.0
+ORD11393,CUST1412,2024-05-05,Bangalore,Books,2646.89,1,10.0,Cash on Delivery,Shipped,4.0
+ORD11394,CUST1965,2024-01-23,Ahmedabad,Electronics,1751.32,4,10.0,Net Banking,Cancelled,3.0
+ORD11395,CUST1278,2024-07-24,Mumbai,Sports,4161.53,3,20.0,Cash on Delivery,Delivered,5.0
+ORD11396,CUST1512,2024-08-12,Ahmedabad,Clothing,2211.35,4,20.0,Credit Card,Cancelled,1.0
+ORD11397,CUST1552,2024-04-29,Pune,Electronics,1318.7,4,,Credit Card,Delivered,4.0
+ORD11398,CUST1505,2024-10-03,Ahmedabad,Electronics,3124.01,3,20.0,Credit Card,Delivered,1.0
+ORD11399,CUST1448,2024-04-21,Surat,Books,3563.21,1,0.0,Net Banking,Returned,
+ORD11400,CUST1082,2024-01-29,Hyderabad,Beauty,918.51,4,,Debit Card,Cancelled,5.0
+ORD11401,CUST1612,2024-03-12,Delhi,Sports,921.33,4,5.0,Cash on Delivery,Shipped,
+ORD11402,CUST1040,2024-09-14,Hyderabad,Beauty,279.69,2,15.0,Net Banking,Cancelled,5.0
+ORD11403,CUST1910,2024-05-28,Surat,Books,3708.37,4,0.0,UPI,Delivered,1.0
+ORD11404,CUST1442,2024-04-29,Hyderabad,Clothing,3352.64,3,5.0,Debit Card,Delivered,1.0
+ORD11405,CUST1752,2024-10-21,Surat,Home,2425.69,2,5.0,Cash on Delivery,Cancelled,1.0
+ORD11406,CUST1330,2024-06-12,Bangalore,Electronics,4236.44,1,,Debit Card,Returned,5.0
+ORD11407,CUST1618,2024-10-22,Surat,Clothing,4047.78,2,10.0,Net Banking,Shipped,2.0
+ORD11408,CUST1256,2024-11-02,Bangalore,Clothing,2968.24,3,10.0,Cash on Delivery,Returned,1.0
+ORD11409,CUST1026,2024-12-10,Surat,Sports,4354.53,3,0.0,Net Banking,Cancelled,
+ORD11410,CUST1093,2024-06-13,Mumbai,Electronics,,2,10.0,Credit Card,Cancelled,4.0
+ORD11411,CUST1234,2024-05-01,Bangalore,Beauty,648.41,1,5.0,UPI,Shipped,5.0
+ORD11412,CUST1984,2024-06-03,Pune,Books,1421.77,2,10.0,UPI,Cancelled,
+ORD11413,CUST1690,2024-03-14,Delhi,Home,379.73,1,20.0,Credit Card,Delivered,3.0
+ORD11414,CUST1856,2024-12-04,Ahmedabad,Beauty,2702.73,2,10.0,Debit Card,Cancelled,3.0
+ORD11415,CUST1881,2024-09-23,Hyderabad,Electronics,4689.37,3,5.0,Debit Card,Shipped,4.0
+ORD11416,CUST1589,2024-04-23,Hyderabad,Electronics,292.78,4,,Net Banking,Returned,2.0
+ORD11417,CUST1601,2024-07-30,Hyderabad,Home,698.34,4,0.0,UPI,Cancelled,1.0
+ORD11418,CUST1973,2024-06-02,Bangalore,Beauty,2315.78,1,15.0,Debit Card,Returned,5.0
+ORD11419,CUST1021,2024-05-20,Ahmedabad,Clothing,4675.99,1,10.0,Net Banking,Returned,
+ORD11420,CUST1783,2024-02-01,Pune,Beauty,1649.16,1,5.0,Credit Card,Delivered,1.0
+ORD11421,CUST1688,2024-10-12,Surat,Books,2585.45,3,15.0,Net Banking,Shipped,
+ORD11422,CUST1841,2024-10-29,Bangalore,Electronics,303.71,2,15.0,Credit Card,Returned,5.0
+ORD11423,CUST1275,2024-03-30,Surat,Clothing,826.88,3,20.0,UPI,Delivered,3.0
+ORD11424,CUST1590,2024-11-16,Delhi,Sports,,4,15.0,UPI,Cancelled,1.0
+ORD11425,CUST1041,2024-12-13,Hyderabad,Clothing,4829.08,1,,Debit Card,Returned,4.0
+ORD11426,CUST1781,2024-08-06,Ahmedabad,Home,124.21,2,5.0,Net Banking,Returned,2.0
+ORD11427,CUST1774,2024-10-11,Surat,Books,4763.88,4,5.0,UPI,Cancelled,4.0
+ORD11428,CUST1179,2024-09-10,Mumbai,Beauty,3231.69,4,10.0,Cash on Delivery,Cancelled,2.0
+ORD11429,CUST1481,2024-01-25,Delhi,Home,4352.8,4,10.0,Debit Card,Delivered,
+ORD11430,CUST1531,2024-06-25,Hyderabad,Sports,2328.23,3,10.0,Cash on Delivery,Cancelled,1.0
+ORD11431,CUST1667,2024-11-25,Mumbai,Beauty,2626.42,1,,Net Banking,Cancelled,1.0
+ORD11432,CUST1452,2024-12-09,Bangalore,Clothing,2495.35,4,15.0,Cash on Delivery,Shipped,2.0
+ORD11433,CUST1938,2024-07-14,Bangalore,Electronics,3367.63,1,15.0,Net Banking,Returned,3.0
+ORD11434,CUST1284,2024-09-25,Bangalore,Beauty,784.29,3,20.0,Debit Card,Cancelled,5.0
+ORD11435,CUST1185,2024-06-12,Mumbai,Sports,246.87,4,,Net Banking,Shipped,4.0
+ORD11436,CUST1599,2024-12-22,Pune,Home,1608.86,3,10.0,UPI,Delivered,
+ORD11437,CUST1446,2024-08-01,Pune,Beauty,3552.94,3,0.0,Debit Card,Delivered,4.0
+ORD11438,CUST1650,2024-07-28,Hyderabad,Clothing,1089.08,1,20.0,Cash on Delivery,Shipped,4.0
+ORD11439,CUST1833,2024-03-17,Mumbai,Home,3399.82,4,0.0,Cash on Delivery,Delivered,
+ORD11440,CUST1503,2024-06-02,Pune,Electronics,4852.57,3,15.0,UPI,Cancelled,
+ORD11441,CUST1992,2024-07-11,Mumbai,Sports,560.11,4,20.0,Debit Card,Delivered,1.0
+ORD11442,CUST1093,2024-04-04,Surat,Beauty,3395.75,1,20.0,Credit Card,Cancelled,4.0
+ORD11443,CUST1481,2024-10-02,Pune,Sports,2274.38,3,5.0,Cash on Delivery,Cancelled,5.0
+ORD11444,CUST1356,2024-08-30,Mumbai,Books,4353.9,1,15.0,UPI,Cancelled,5.0
+ORD11445,CUST1418,2024-05-03,Bangalore,Home,968.03,4,15.0,Credit Card,Delivered,2.0
+ORD11446,CUST1341,2024-04-25,Delhi,Books,3493.87,4,,Debit Card,Cancelled,
+ORD11447,CUST1328,2024-06-02,,Beauty,4206.76,1,20.0,Net Banking,Cancelled,1.0
+ORD11448,CUST1686,2024-12-28,Delhi,Sports,4728.61,2,15.0,Credit Card,Cancelled,5.0
+ORD11449,CUST1107,2024-03-14,Pune,Clothing,3447.92,3,20.0,Debit Card,Delivered,3.0
+ORD11450,CUST1878,2024-08-25,Delhi,Books,2536.16,4,,Credit Card,Shipped,1.0
+ORD11451,CUST1164,2024-01-30,Ahmedabad,Clothing,3127.45,4,,UPI,Shipped,1.0
+ORD11452,CUST1337,2024-10-14,Ahmedabad,Books,4357.63,3,5.0,Debit Card,Returned,5.0
+ORD11453,CUST1421,2024-07-30,Delhi,Home,,1,20.0,Debit Card,Cancelled,3.0
+ORD11454,CUST1710,2024-08-01,Bangalore,Home,248.9,1,15.0,Net Banking,Cancelled,2.0
+ORD11455,CUST1507,2024-10-12,Hyderabad,Beauty,4661.65,1,15.0,Debit Card,Cancelled,5.0
+ORD11456,CUST1295,2024-09-28,Hyderabad,Sports,3478.68,2,20.0,UPI,Shipped,3.0
+ORD11457,CUST1678,2024-03-09,Mumbai,Home,3414.92,2,20.0,Debit Card,Cancelled,1.0
+ORD11458,CUST1967,2024-07-17,Delhi,Books,1156.81,4,20.0,Debit Card,Cancelled,3.0
+ORD11459,CUST1410,2024-05-04,Bangalore,Books,3328.54,1,10.0,Cash on Delivery,Returned,1.0
+ORD11460,CUST1833,2024-05-10,Delhi,Clothing,2029.94,3,15.0,UPI,Returned,5.0
+ORD11461,CUST1778,2024-04-14,Delhi,Electronics,3291.04,4,,Cash on Delivery,Shipped,
+ORD11462,CUST1563,2024-06-18,Mumbai,Books,622.31,3,15.0,Credit Card,Cancelled,5.0
+ORD11463,CUST1037,2024-11-27,Mumbai,Clothing,3323.44,4,10.0,Credit Card,Returned,4.0
+ORD11464,CUST1465,2024-02-10,Bangalore,Sports,4997.13,2,20.0,UPI,Shipped,4.0
+ORD11465,CUST1090,2024-08-18,Ahmedabad,Home,336.24,4,5.0,Cash on Delivery,Delivered,4.0
+ORD11466,CUST1322,2024-07-08,Pune,Home,4888.15,2,20.0,Credit Card,Returned,5.0
+ORD11467,CUST1258,2024-02-17,Ahmedabad,Books,2093.85,4,20.0,Cash on Delivery,Shipped,2.0
+ORD11468,CUST1331,2024-10-01,Mumbai,Home,4366.69,1,10.0,Debit Card,Shipped,5.0
+ORD11469,CUST1118,2024-04-07,Mumbai,Sports,3933.69,3,15.0,Debit Card,Cancelled,
+ORD11470,CUST1993,2024-01-27,Bangalore,Electronics,2878.38,1,20.0,Debit Card,Shipped,3.0
+ORD11471,CUST1791,2024-05-17,Mumbai,Beauty,3718.4,4,15.0,Debit Card,Shipped,5.0
+ORD11472,CUST1413,2024-07-12,Hyderabad,Books,4404.73,4,0.0,Debit Card,Shipped,5.0
+ORD11473,CUST1885,2024-12-10,Mumbai,Sports,2080.29,4,,UPI,Shipped,1.0
+ORD11474,CUST1526,2024-11-05,Mumbai,Beauty,1702.46,2,15.0,Cash on Delivery,Cancelled,1.0
+ORD11475,CUST1844,2024-11-04,Bangalore,Clothing,3371.21,3,5.0,Cash on Delivery,Shipped,1.0
+ORD11476,CUST1001,2024-01-21,Bangalore,Electronics,4058.45,3,,Debit Card,Delivered,5.0
+ORD11477,CUST1673,2024-02-07,Bangalore,Books,3835.2,4,5.0,Credit Card,Shipped,2.0
+ORD11478,CUST1890,2024-04-06,Mumbai,Home,4009.29,4,20.0,UPI,Shipped,3.0
+ORD11479,CUST1555,2024-10-27,Surat,Books,2234.36,2,,Credit Card,Delivered,3.0
+ORD11480,CUST1473,2024-12-09,Surat,Clothing,4107.39,1,15.0,Cash on Delivery,Returned,
+ORD11481,CUST1423,2024-10-13,Delhi,Home,689.02,1,,Debit Card,Cancelled,2.0
+ORD11482,CUST1055,2024-04-21,Hyderabad,Beauty,2768.0,3,20.0,Debit Card,Cancelled,2.0
+ORD11483,CUST1192,2024-09-02,Surat,Electronics,128.22,2,10.0,Net Banking,Returned,3.0
+ORD11484,CUST1530,2024-04-16,Ahmedabad,Beauty,1690.47,4,5.0,Net Banking,Shipped,4.0
+ORD11485,CUST1370,2024-06-19,Hyderabad,Books,1895.66,3,20.0,Debit Card,Shipped,1.0
+ORD11486,CUST1637,2024-06-04,Hyderabad,Sports,2041.25,2,10.0,Credit Card,Returned,1.0
+ORD11487,CUST1774,2024-01-08,Hyderabad,Clothing,3507.79,1,,UPI,Shipped,3.0
+ORD11488,CUST1510,2024-04-18,Hyderabad,Books,2003.93,2,,Credit Card,Returned,2.0
+ORD11489,CUST1640,2024-04-07,Delhi,Beauty,2298.6,1,20.0,Credit Card,Shipped,
+ORD11490,CUST1452,2024-03-01,Pune,Sports,1263.97,2,15.0,Cash on Delivery,Shipped,4.0
+ORD11491,CUST1778,2024-09-02,Bangalore,Books,1928.93,3,,Credit Card,Delivered,3.0
+ORD11492,CUST1052,2024-05-04,Mumbai,Clothing,1213.62,1,15.0,Credit Card,Returned,1.0
+ORD11493,CUST1208,2024-12-22,Bangalore,Books,458.66,3,15.0,Cash on Delivery,Cancelled,5.0
+ORD11494,CUST1273,2024-11-05,Surat,Home,3056.9,3,15.0,Cash on Delivery,Shipped,2.0
+ORD11495,CUST1562,2024-12-26,Bangalore,Home,3374.24,1,0.0,Cash on Delivery,Cancelled,5.0
+ORD11496,CUST1134,2024-04-14,Ahmedabad,Sports,3135.5,1,10.0,Cash on Delivery,Cancelled,
+ORD11497,CUST1949,2024-07-22,Bangalore,Beauty,2371.12,4,10.0,Cash on Delivery,Cancelled,3.0
+ORD11498,CUST1294,2024-05-02,Pune,Home,1960.95,4,,UPI,Delivered,1.0
+ORD11499,CUST1448,2024-10-09,Mumbai,Electronics,4330.33,4,,Net Banking,Delivered,4.0
+ORD11500,CUST1901,2024-06-13,Mumbai,Electronics,2643.5,3,15.0,Net Banking,Returned,5.0
+ORD11501,CUST1715,2024-05-24,Pune,Books,2447.99,3,0.0,UPI,Shipped,4.0
+ORD11502,CUST1496,2024-07-13,Pune,Beauty,225.65,4,15.0,UPI,Shipped,
+ORD11503,CUST1124,2024-08-26,Pune,Electronics,1772.11,3,0.0,Credit Card,Shipped,1.0
+ORD11504,CUST1029,2024-09-30,Bangalore,Electronics,1962.96,3,15.0,UPI,Shipped,5.0
+ORD11505,CUST1996,2024-11-28,Ahmedabad,Clothing,2054.23,1,5.0,Net Banking,Returned,
+ORD11506,CUST1645,2024-07-02,Delhi,Clothing,2942.84,1,5.0,Debit Card,Shipped,4.0
+ORD11507,CUST1623,2024-06-06,Bangalore,Electronics,2714.65,3,20.0,Debit Card,Shipped,4.0
+ORD11508,CUST1818,2024-05-13,Delhi,Clothing,3078.73,4,15.0,Debit Card,Returned,5.0
+ORD11509,CUST1245,2024-07-03,Hyderabad,Electronics,3847.93,2,,Credit Card,Delivered,1.0
+ORD11510,CUST1726,2024-09-19,Surat,Sports,4083.63,4,10.0,Net Banking,Shipped,4.0
+ORD11511,CUST1162,2024-09-11,Mumbai,Clothing,3618.8,2,20.0,Cash on Delivery,Delivered,3.0
+ORD11512,CUST1318,2024-08-26,Bangalore,Electronics,4782.07,4,,Cash on Delivery,Delivered,
+ORD11513,CUST1564,2024-02-20,Bangalore,Electronics,189.34,1,5.0,Debit Card,Shipped,5.0
+ORD11514,CUST1014,2024-08-28,Surat,Books,1059.31,3,15.0,Credit Card,Cancelled,2.0
+ORD11515,CUST1565,2024-06-12,Bangalore,Beauty,137.06,3,20.0,Debit Card,Cancelled,2.0
+ORD11516,CUST1417,2024-04-14,Delhi,Sports,3272.63,1,15.0,UPI,Shipped,1.0
+ORD11517,CUST1095,2024-07-08,Bangalore,Beauty,4500.35,2,5.0,UPI,Returned,3.0
+ORD11518,CUST1230,2024-06-09,Hyderabad,Sports,1293.06,2,20.0,Credit Card,Returned,4.0
+ORD11519,CUST1861,2024-07-30,Pune,Books,4642.47,2,5.0,Credit Card,Shipped,2.0
+ORD11520,CUST1934,2024-01-24,Bangalore,Books,395.31,1,0.0,Credit Card,Returned,1.0
+ORD11521,CUST1116,2024-10-15,Mumbai,Beauty,4678.74,2,5.0,Credit Card,Delivered,
+ORD11522,CUST1472,2024-04-23,Delhi,Books,,1,15.0,Debit Card,Shipped,3.0
+ORD11523,CUST1969,2024-03-15,Mumbai,Home,596.96,4,10.0,Credit Card,Shipped,3.0
+ORD11524,CUST1120,2024-01-09,Hyderabad,Electronics,2480.77,4,5.0,Credit Card,Cancelled,1.0
+ORD11525,CUST1663,2024-05-13,Surat,Home,1358.21,1,,Credit Card,Cancelled,1.0
+ORD11526,CUST1852,2024-10-10,Hyderabad,Clothing,1495.88,3,10.0,UPI,Shipped,4.0
+ORD11527,CUST1157,2024-10-26,Bangalore,Books,1605.72,4,0.0,Net Banking,Delivered,1.0
+ORD11528,CUST1510,2024-10-23,Delhi,Beauty,4034.83,2,20.0,UPI,Returned,4.0
+ORD11529,CUST1955,2024-08-01,Surat,Electronics,2741.89,1,20.0,UPI,Delivered,4.0
+ORD11530,CUST1733,2024-05-31,Mumbai,Electronics,1625.41,2,10.0,UPI,Cancelled,5.0
+ORD11531,CUST1298,2024-03-19,Ahmedabad,Clothing,3090.64,2,20.0,Net Banking,Returned,3.0
+ORD11532,CUST1521,2024-04-10,Pune,Beauty,3609.14,3,5.0,Net Banking,Shipped,
+ORD11533,CUST1722,2024-06-17,Surat,Sports,1435.86,2,10.0,UPI,Cancelled,3.0
+ORD11534,CUST1279,2024-04-27,Bangalore,Electronics,2126.39,3,15.0,Credit Card,Returned,3.0
+ORD11535,CUST1425,2024-07-13,Mumbai,Sports,697.24,4,5.0,UPI,Cancelled,5.0
+ORD11536,CUST1854,2024-10-18,Bangalore,Beauty,987.63,1,5.0,UPI,Cancelled,4.0
+ORD11537,CUST1494,2024-05-05,Hyderabad,Electronics,3437.48,2,5.0,Cash on Delivery,Delivered,4.0
+ORD11538,CUST1483,2024-09-12,Delhi,Home,989.05,1,15.0,Cash on Delivery,Delivered,1.0
+ORD11539,CUST1249,2024-10-08,Hyderabad,Books,2673.3,2,0.0,UPI,Delivered,5.0
+ORD11540,CUST1467,2024-12-01,Surat,Beauty,3574.33,1,,Net Banking,Shipped,1.0
+ORD11541,CUST1564,2024-12-16,Bangalore,Sports,623.7,2,20.0,UPI,Shipped,5.0
+ORD11542,CUST1148,2024-06-21,Mumbai,Home,2879.83,2,10.0,Debit Card,Delivered,1.0
+ORD11543,CUST1392,2024-05-11,Bangalore,Beauty,1357.16,2,0.0,UPI,Cancelled,2.0
+ORD11544,CUST1195,2024-09-07,Ahmedabad,Electronics,4818.34,2,10.0,UPI,Shipped,3.0
+ORD11545,CUST1943,2024-11-24,Surat,Books,2469.37,2,20.0,Debit Card,Cancelled,3.0
+ORD11546,CUST1613,2024-09-08,Mumbai,Home,4049.36,2,15.0,UPI,Shipped,
+ORD11547,CUST1520,2024-08-23,Surat,Books,2796.11,2,5.0,UPI,Returned,4.0
+ORD11548,CUST1764,2024-03-27,Bangalore,Electronics,312.72,2,5.0,UPI,Returned,
+ORD11549,CUST1900,2024-06-29,Hyderabad,Beauty,3202.44,2,15.0,Cash on Delivery,Shipped,2.0
+ORD11550,CUST1139,2024-03-27,Mumbai,Electronics,4761.88,1,0.0,Credit Card,Returned,
+ORD11551,CUST1884,2024-03-12,Pune,Home,3047.9,3,0.0,Cash on Delivery,Shipped,3.0
+ORD11552,CUST1071,2024-10-06,Hyderabad,Electronics,4114.03,2,10.0,Credit Card,Delivered,4.0
+ORD11553,CUST1282,2024-09-07,Mumbai,Clothing,4432.61,3,15.0,Credit Card,Delivered,2.0
+ORD11554,CUST1791,2024-04-04,Mumbai,Books,1217.59,2,0.0,Debit Card,Returned,3.0
+ORD11555,CUST1808,2024-10-04,Mumbai,Electronics,1139.02,2,15.0,UPI,Cancelled,1.0
+ORD11556,CUST1874,2024-11-24,Delhi,Electronics,3093.81,1,20.0,UPI,Returned,5.0
+ORD11557,CUST1424,2024-01-31,Mumbai,Beauty,2114.04,4,5.0,Credit Card,Cancelled,2.0
+ORD11558,CUST1348,2024-09-25,Pune,Clothing,4215.32,4,5.0,Debit Card,Shipped,4.0
+ORD11559,CUST1956,2024-01-18,Hyderabad,Books,4510.11,1,5.0,Cash on Delivery,Returned,
+ORD11560,CUST1806,2024-02-08,Ahmedabad,Sports,1831.76,3,15.0,Debit Card,Delivered,
+ORD11561,CUST1519,2024-12-08,Pune,Clothing,1260.67,4,15.0,Debit Card,Cancelled,2.0
+ORD11562,CUST1273,2024-01-25,Ahmedabad,Clothing,3924.58,1,10.0,Credit Card,Shipped,4.0
+ORD11563,CUST1840,2024-01-04,Hyderabad,Books,1446.55,1,5.0,Cash on Delivery,Delivered,2.0
+ORD11564,CUST1002,2024-07-30,Bangalore,Beauty,4130.81,4,10.0,Cash on Delivery,Delivered,4.0
+ORD11565,CUST1289,2024-03-11,Delhi,Clothing,2176.32,3,5.0,Credit Card,Delivered,
+ORD11566,CUST1743,2024-11-18,Delhi,Books,3370.99,1,10.0,Cash on Delivery,Shipped,3.0
+ORD11567,CUST1305,2024-04-28,Delhi,Beauty,568.12,2,10.0,Cash on Delivery,Shipped,1.0
+ORD11568,CUST1857,2024-02-04,Ahmedabad,Clothing,3156.91,3,20.0,UPI,Returned,3.0
+ORD11569,CUST1601,2024-12-28,,Books,2313.66,3,10.0,UPI,Shipped,1.0
+ORD11570,CUST1593,2024-03-18,Surat,Beauty,2974.38,4,15.0,Cash on Delivery,Cancelled,
+ORD11571,CUST1675,2024-01-05,Delhi,Books,923.27,4,10.0,UPI,Cancelled,3.0
+ORD11572,CUST1501,2024-04-21,Ahmedabad,Sports,3710.68,2,5.0,Cash on Delivery,Returned,3.0
+ORD11573,CUST1886,2024-09-15,Hyderabad,Beauty,4327.71,1,10.0,Credit Card,Cancelled,2.0
+ORD11574,CUST1152,2024-08-21,Bangalore,Electronics,1162.03,4,0.0,Credit Card,Cancelled,5.0
+ORD11575,CUST1457,2024-07-10,Pune,Beauty,569.0,4,,Debit Card,Cancelled,
+ORD11576,CUST1551,2024-01-31,Delhi,Books,,3,5.0,Credit Card,Shipped,4.0
+ORD11577,CUST1495,2024-11-12,Mumbai,Home,3245.66,4,0.0,Cash on Delivery,Cancelled,
+ORD11578,CUST1353,2024-11-22,Pune,Beauty,3074.76,4,5.0,UPI,Delivered,4.0
+ORD11579,CUST1340,2024-12-07,Ahmedabad,Sports,2778.82,4,15.0,UPI,Shipped,4.0
+ORD11580,CUST1565,2024-11-11,Hyderabad,Beauty,1236.54,4,,Credit Card,Cancelled,1.0
+ORD11581,CUST1781,2024-09-04,Hyderabad,Beauty,2015.44,3,,Cash on Delivery,Cancelled,4.0
+ORD11582,CUST1556,2024-12-03,Surat,Sports,3012.93,2,15.0,Net Banking,Cancelled,4.0
+ORD11583,CUST1386,2024-09-06,Surat,Electronics,2534.16,2,,Debit Card,Delivered,2.0
+ORD11584,CUST1466,2024-01-09,Surat,Clothing,4940.15,1,15.0,Cash on Delivery,Cancelled,3.0
+ORD11585,CUST1955,2024-01-04,,Clothing,768.55,4,0.0,Credit Card,Cancelled,
+ORD11586,CUST1329,2024-09-29,Pune,Books,3506.21,3,20.0,Net Banking,Returned,
+ORD11587,CUST1890,2024-10-09,Delhi,Sports,2081.16,1,5.0,UPI,Shipped,4.0
+ORD11588,CUST1193,2024-07-29,Pune,Books,2198.18,1,15.0,Credit Card,Shipped,5.0
+ORD11589,CUST1714,2024-01-07,Surat,Home,3616.23,2,5.0,Debit Card,Delivered,
+ORD11590,CUST1244,2024-01-09,Mumbai,Beauty,3492.94,3,0.0,Net Banking,Cancelled,4.0
+ORD11591,CUST1585,2024-09-28,Hyderabad,Clothing,4957.15,3,20.0,Net Banking,Delivered,1.0
+ORD11592,CUST1392,2024-05-20,Bangalore,Books,729.13,3,0.0,Credit Card,Returned,1.0
+ORD11593,CUST1239,2024-10-01,Surat,Books,610.14,2,,Cash on Delivery,Delivered,1.0
+ORD11594,CUST1876,2024-05-26,Hyderabad,Sports,3649.26,2,5.0,Credit Card,Shipped,4.0
+ORD11595,CUST1794,2024-01-09,Ahmedabad,Home,2934.1,2,20.0,Net Banking,Delivered,2.0
+ORD11596,CUST1420,2024-09-14,Pune,Home,1443.39,2,,UPI,Returned,5.0
+ORD11597,CUST1044,2024-12-23,Mumbai,Books,489.15,2,20.0,Debit Card,Delivered,4.0
+ORD11598,CUST1325,2024-12-11,Bangalore,Home,519.73,4,,UPI,Returned,2.0
+ORD11599,CUST1762,2024-08-08,Surat,Home,4481.54,4,0.0,Net Banking,Delivered,2.0
+ORD11600,CUST1484,2024-04-01,Mumbai,Sports,1040.15,3,15.0,UPI,Cancelled,
+ORD11601,CUST1722,2024-02-24,Bangalore,Beauty,1684.52,1,5.0,Cash on Delivery,Shipped,4.0
+ORD11602,CUST1935,2024-02-19,Ahmedabad,Sports,1210.62,3,10.0,Credit Card,Shipped,4.0
+ORD11603,CUST1830,2024-09-25,Ahmedabad,Beauty,1839.48,1,10.0,Net Banking,Delivered,2.0
+ORD11604,CUST1390,2024-03-17,Pune,Home,440.18,2,0.0,Debit Card,Delivered,2.0
+ORD11605,CUST1395,2024-05-03,Mumbai,Books,2643.39,1,5.0,Debit Card,Delivered,2.0
+ORD11606,CUST1679,2024-04-08,Surat,Clothing,431.3,3,5.0,Cash on Delivery,Returned,
+ORD11607,CUST1811,2024-11-13,Hyderabad,Books,4021.75,3,0.0,UPI,Delivered,4.0
+ORD11608,CUST1840,2024-09-26,Hyderabad,Books,1245.19,1,5.0,UPI,Delivered,2.0
+ORD11609,CUST1667,2024-05-09,Surat,Clothing,2746.06,4,15.0,Debit Card,Delivered,1.0
+ORD11610,CUST1155,2024-06-30,Delhi,Sports,4412.39,2,0.0,Net Banking,Cancelled,4.0
+ORD11611,CUST1507,2024-05-16,Hyderabad,Books,3289.3,2,15.0,UPI,Delivered,
+ORD11612,CUST1987,2024-07-22,Surat,Beauty,2711.49,3,5.0,Net Banking,Shipped,1.0
+ORD11613,CUST1037,2024-02-10,Pune,Home,1689.24,4,0.0,Debit Card,Returned,3.0
+ORD11614,CUST1129,2024-07-10,Hyderabad,Home,1731.71,1,5.0,Net Banking,Shipped,4.0
+ORD11615,CUST1514,2024-07-26,Hyderabad,Sports,3380.49,2,0.0,Cash on Delivery,Shipped,3.0
+ORD11616,CUST1988,2024-08-23,Hyderabad,Sports,4971.28,4,5.0,Debit Card,Returned,2.0
+ORD11617,CUST1604,2024-10-16,Ahmedabad,Sports,3343.01,2,15.0,Net Banking,Shipped,
+ORD11618,CUST1339,2024-05-04,Surat,Electronics,2833.14,4,15.0,Credit Card,Returned,2.0
+ORD11619,CUST1890,2024-12-22,Delhi,Beauty,3680.19,4,5.0,Cash on Delivery,Returned,
+ORD11620,CUST1102,2024-04-25,Pune,Electronics,2379.51,3,0.0,Net Banking,Returned,5.0
+ORD11621,CUST1895,2024-06-02,Bangalore,Home,394.7,2,10.0,Debit Card,Returned,2.0
+ORD11622,CUST1865,2024-12-16,Pune,Books,2855.25,1,15.0,Net Banking,Cancelled,3.0
+ORD11623,CUST1450,2024-02-11,Pune,Electronics,4792.36,3,15.0,Credit Card,Returned,
+ORD11624,CUST1102,2024-11-30,Pune,Books,958.98,3,,UPI,Shipped,2.0
+ORD11625,CUST1538,2024-11-28,Pune,Clothing,3481.02,1,10.0,Net Banking,Shipped,4.0
+ORD11626,CUST1932,2024-01-17,Pune,Home,1084.58,3,5.0,Debit Card,Delivered,
+ORD11627,CUST1467,2024-02-17,Ahmedabad,Electronics,2725.56,4,0.0,Credit Card,Returned,
+ORD11628,CUST1015,2024-07-26,,Home,573.71,4,,UPI,Returned,2.0
+ORD11629,CUST1739,2024-07-13,Delhi,Clothing,2306.82,2,5.0,Net Banking,Delivered,5.0
+ORD11630,CUST1147,2024-07-12,Surat,Clothing,3805.2,2,20.0,UPI,Delivered,2.0
+ORD11631,CUST1419,2024-10-09,Bangalore,Home,1803.1,1,15.0,Net Banking,Shipped,3.0
+ORD11632,CUST1891,2024-08-31,Mumbai,Electronics,3358.07,2,20.0,Net Banking,Shipped,3.0
+ORD11633,CUST1670,2024-01-29,Ahmedabad,Beauty,3997.7,4,15.0,Cash on Delivery,Cancelled,
+ORD11634,CUST1993,2024-11-22,Mumbai,Home,4643.17,1,15.0,UPI,Delivered,
+ORD11635,CUST1158,2024-01-05,Hyderabad,Books,1249.75,1,20.0,UPI,Delivered,2.0
+ORD11636,CUST1076,2024-12-25,Hyderabad,Books,2056.65,2,20.0,Credit Card,Returned,3.0
+ORD11637,CUST1480,2024-03-28,Delhi,Books,846.84,4,5.0,Net Banking,Cancelled,3.0
+ORD11638,CUST1800,2024-02-12,Surat,Books,4963.17,1,,Net Banking,Returned,5.0
+ORD11639,CUST1992,2024-09-12,Ahmedabad,Books,4642.3,4,,Cash on Delivery,Shipped,4.0
+ORD11640,CUST1271,2024-08-10,Bangalore,Clothing,2745.79,4,20.0,UPI,Shipped,5.0
+ORD11641,CUST1346,2024-11-26,Ahmedabad,Electronics,4225.96,4,5.0,Credit Card,Shipped,1.0
+ORD11642,CUST1638,2024-06-18,Bangalore,Electronics,2652.69,2,,UPI,Cancelled,5.0
+ORD11643,CUST1709,2024-10-16,Bangalore,Sports,3155.57,3,5.0,Debit Card,Delivered,2.0
+ORD11644,CUST1407,2024-02-18,Surat,Home,536.71,3,5.0,Credit Card,Returned,4.0
+ORD11645,CUST1665,2024-09-27,Surat,Clothing,3800.83,1,15.0,Debit Card,Delivered,2.0
+ORD11646,CUST1082,2024-01-22,,Clothing,725.8,4,,Credit Card,Returned,1.0
+ORD11647,CUST1872,2024-04-27,Mumbai,Home,4147.73,2,,Cash on Delivery,Delivered,4.0
+ORD11648,CUST1336,2024-04-18,Mumbai,Home,3931.94,4,15.0,Net Banking,Returned,
+ORD11649,CUST1872,2024-12-20,Surat,Books,3572.85,4,20.0,UPI,Shipped,3.0
+ORD11650,CUST1690,2024-10-17,Ahmedabad,Clothing,277.19,2,15.0,Credit Card,Cancelled,5.0
+ORD11651,CUST1879,2024-08-31,Pune,Clothing,1585.33,3,,Net Banking,Shipped,2.0
+ORD11652,CUST1546,2024-05-18,Delhi,Home,1389.25,4,,Net Banking,Shipped,1.0
+ORD11653,CUST1389,2024-01-24,Delhi,Home,1864.67,4,20.0,Debit Card,Delivered,3.0
+ORD11654,CUST1977,2024-02-08,Mumbai,Electronics,529.45,3,15.0,Cash on Delivery,Returned,5.0
+ORD11655,CUST1324,2024-12-16,Surat,Books,4691.09,2,0.0,Cash on Delivery,Shipped,3.0
+ORD11656,CUST1641,2024-05-23,Ahmedabad,Sports,2813.63,1,0.0,Debit Card,Shipped,5.0
+ORD11657,CUST1735,2024-10-05,Hyderabad,Books,1597.07,3,20.0,Net Banking,Delivered,
+ORD11658,CUST1908,2024-10-15,Ahmedabad,Clothing,2045.21,1,15.0,Debit Card,Shipped,4.0
+ORD11659,CUST1777,2024-12-02,Mumbai,Beauty,2291.29,1,15.0,Net Banking,Returned,3.0
+ORD11660,CUST1499,2024-01-17,Mumbai,Electronics,3042.91,3,5.0,Cash on Delivery,Cancelled,3.0
+ORD11661,CUST1893,2024-04-01,Pune,Beauty,2626.83,4,,Net Banking,Cancelled,3.0
+ORD11662,CUST1554,2024-06-10,Bangalore,Home,4605.02,1,10.0,Net Banking,Delivered,4.0
+ORD11663,CUST1036,2024-01-09,Delhi,Sports,2535.12,1,20.0,Cash on Delivery,Cancelled,1.0
+ORD11664,CUST1632,2024-04-16,Delhi,Clothing,4961.57,2,10.0,Debit Card,Shipped,5.0
+ORD11665,CUST1070,2024-10-27,Delhi,Sports,4271.98,4,10.0,Credit Card,Delivered,
+ORD11666,CUST1240,2024-03-14,Mumbai,Beauty,1121.7,1,20.0,Net Banking,Returned,3.0
+ORD11667,CUST1646,2024-12-30,Pune,Beauty,,2,15.0,UPI,Shipped,4.0
+ORD11668,CUST1700,2024-07-22,Bangalore,Books,670.2,4,20.0,UPI,Cancelled,1.0
+ORD11669,CUST1943,2024-02-09,Surat,Electronics,4105.5,3,10.0,Debit Card,Shipped,5.0
+ORD11670,CUST1294,2024-06-02,Mumbai,Books,1965.05,3,,Net Banking,Delivered,4.0
+ORD11671,CUST1232,2024-03-24,Pune,Beauty,4402.07,2,,Net Banking,Shipped,
+ORD11672,CUST1764,2024-10-15,Mumbai,Home,4353.48,3,,Credit Card,Cancelled,
+ORD11673,CUST1092,2024-05-03,Hyderabad,Electronics,4049.03,1,15.0,Credit Card,Cancelled,5.0
+ORD11674,CUST1444,2024-10-17,Surat,Beauty,3971.15,4,0.0,UPI,Cancelled,3.0
+ORD11675,CUST1100,2024-07-18,Surat,Books,1592.93,1,20.0,UPI,Cancelled,
+ORD11676,CUST1778,2024-12-12,Hyderabad,Sports,496.5,1,,UPI,Delivered,1.0
+ORD11677,CUST1648,2024-10-03,Pune,Electronics,2074.6,3,20.0,UPI,Delivered,4.0
+ORD11678,CUST1720,2024-06-18,Ahmedabad,Electronics,950.27,1,,Net Banking,Shipped,1.0
+ORD11679,CUST1893,2024-07-15,Surat,Home,3505.26,3,15.0,UPI,Delivered,3.0
+ORD11680,CUST1102,2024-03-12,Surat,Home,1795.89,4,0.0,Credit Card,Cancelled,1.0
+ORD11681,CUST1454,2024-12-18,Bangalore,Sports,4880.49,4,0.0,Net Banking,Returned,1.0
+ORD11682,CUST1170,2024-02-10,Surat,Sports,3240.76,1,,Cash on Delivery,Shipped,2.0
+ORD11683,CUST1710,2024-09-13,Surat,Electronics,4130.15,2,15.0,Debit Card,Returned,1.0
+ORD11684,CUST1306,2024-06-26,Bangalore,Clothing,,3,5.0,Credit Card,Cancelled,5.0
+ORD11685,CUST1925,2024-01-28,Ahmedabad,Beauty,4323.87,3,20.0,Debit Card,Returned,4.0
+ORD11686,CUST1029,2024-02-20,Delhi,Beauty,4621.51,1,20.0,Cash on Delivery,Shipped,2.0
+ORD11687,CUST1047,2024-08-11,Delhi,Books,2486.6,3,10.0,Cash on Delivery,Delivered,4.0
+ORD11688,CUST1332,2024-04-28,Surat,Electronics,,3,15.0,UPI,Cancelled,4.0
+ORD11689,CUST1815,2024-02-08,Ahmedabad,Beauty,3847.57,2,10.0,UPI,Shipped,3.0
+ORD11690,CUST1057,2024-06-23,Mumbai,Beauty,956.71,2,,Cash on Delivery,Delivered,3.0
+ORD11691,CUST1300,2024-11-05,Bangalore,Sports,2562.57,1,10.0,Net Banking,Returned,2.0
+ORD11692,CUST1367,2024-11-10,Bangalore,Electronics,2053.45,2,0.0,Net Banking,Cancelled,
+ORD11693,CUST1383,2024-10-31,,Home,817.23,1,20.0,Credit Card,Delivered,3.0
+ORD11694,CUST1441,2024-07-22,Ahmedabad,Books,1900.92,4,10.0,Debit Card,Returned,3.0
+ORD11695,CUST1149,2024-06-16,Pune,Electronics,434.04,1,0.0,Net Banking,Shipped,3.0
+ORD11696,CUST1250,2024-01-16,Bangalore,Home,226.48,4,15.0,Net Banking,Shipped,4.0
+ORD11697,CUST1543,2024-11-20,Mumbai,Books,762.31,1,10.0,Cash on Delivery,Shipped,2.0
+ORD11698,CUST1421,2024-05-19,Hyderabad,Books,4819.26,3,,Debit Card,Cancelled,4.0
+ORD11699,CUST1579,2024-08-18,Delhi,Clothing,2792.69,2,,Cash on Delivery,Cancelled,5.0
+ORD11700,CUST1698,2024-09-08,Delhi,Home,4832.53,4,,Debit Card,Returned,4.0
+ORD11701,CUST1811,2024-04-26,Ahmedabad,Books,2219.24,1,20.0,Cash on Delivery,Delivered,5.0
+ORD11702,CUST1184,2024-07-01,Delhi,Beauty,1627.9,2,10.0,Cash on Delivery,Returned,1.0
+ORD11703,CUST1174,2024-10-10,Ahmedabad,Clothing,2580.1,1,15.0,UPI,Delivered,1.0
+ORD11704,CUST1179,2024-07-11,Bangalore,Clothing,2253.61,2,10.0,UPI,Delivered,5.0
+ORD11705,CUST1080,2024-08-09,Ahmedabad,Electronics,617.76,2,20.0,Net Banking,Delivered,5.0
+ORD11706,CUST1624,2024-04-05,Bangalore,Beauty,3240.05,1,0.0,UPI,Returned,4.0
+ORD11707,CUST1891,2024-12-14,Hyderabad,Beauty,1158.59,4,20.0,Net Banking,Cancelled,5.0
+ORD11708,CUST1391,2024-10-26,Ahmedabad,Sports,3135.98,4,,Net Banking,Delivered,2.0
+ORD11709,CUST1634,2024-12-04,Ahmedabad,Sports,3285.99,3,0.0,Debit Card,Returned,1.0
+ORD11710,CUST1699,2024-07-13,Bangalore,Books,844.92,2,,Net Banking,Cancelled,1.0
+ORD11711,CUST1246,2024-02-13,Ahmedabad,Books,400.61,3,5.0,Net Banking,Returned,
+ORD11712,CUST1509,2024-11-12,Pune,Books,3925.73,3,20.0,Net Banking,Shipped,5.0
+ORD11713,CUST1934,2024-05-31,Pune,Electronics,2353.02,1,20.0,UPI,Delivered,3.0
+ORD11714,CUST1597,2024-05-06,Pune,Clothing,385.0,1,15.0,UPI,Returned,3.0
+ORD11715,CUST1146,2024-12-31,Ahmedabad,Sports,4974.84,1,10.0,Credit Card,Delivered,5.0
+ORD11716,CUST1237,2024-02-07,Delhi,Home,383.12,2,0.0,Cash on Delivery,Cancelled,2.0
+ORD11717,CUST1472,2024-02-12,Mumbai,Sports,3505.67,1,0.0,Debit Card,Shipped,3.0
+ORD11718,CUST1653,2024-05-17,Pune,Clothing,4920.03,1,15.0,Credit Card,Shipped,
+ORD11719,CUST1260,2024-03-19,Bangalore,Clothing,1271.98,2,15.0,Net Banking,Returned,5.0
+ORD11720,CUST1470,2024-07-13,Surat,Home,797.02,2,10.0,Net Banking,Returned,2.0
+ORD11721,CUST1261,2024-12-30,Surat,Electronics,694.79,4,,Credit Card,Cancelled,2.0
+ORD11722,CUST1682,2024-11-20,Bangalore,Sports,1586.05,1,10.0,Debit Card,Cancelled,4.0
+ORD11723,CUST1009,2024-03-19,Bangalore,Books,595.12,1,20.0,Net Banking,Delivered,2.0
+ORD11724,CUST1920,2024-07-18,Bangalore,Beauty,3491.59,1,,Net Banking,Shipped,3.0
+ORD11725,CUST1823,2024-06-11,Ahmedabad,Electronics,405.23,4,5.0,UPI,Delivered,3.0
+ORD11726,CUST1476,2024-07-03,Mumbai,Books,2596.17,1,10.0,Cash on Delivery,Shipped,5.0
+ORD11727,CUST1922,2024-02-24,Pune,Sports,4983.81,4,15.0,Net Banking,Returned,5.0
+ORD11728,CUST1294,2024-02-16,Bangalore,Home,4088.45,3,,Cash on Delivery,Cancelled,2.0
+ORD11729,CUST1693,2024-01-03,Ahmedabad,Electronics,3114.58,4,10.0,Cash on Delivery,Returned,
+ORD11730,CUST1559,2024-06-06,Bangalore,Sports,1600.64,3,0.0,Cash on Delivery,Cancelled,1.0
+ORD11731,CUST1161,2024-08-15,Delhi,Books,3157.09,1,5.0,Net Banking,Shipped,4.0
+ORD11732,CUST1075,2024-07-03,Mumbai,Sports,2682.5,3,20.0,Net Banking,Shipped,1.0
+ORD11733,CUST1452,2024-05-18,Delhi,Beauty,2187.81,4,0.0,Cash on Delivery,Cancelled,2.0
+ORD11734,CUST1967,2024-02-22,Delhi,Clothing,740.48,2,0.0,Credit Card,Returned,2.0
+ORD11735,CUST1353,2024-03-08,Bangalore,Clothing,4444.36,3,5.0,Cash on Delivery,Cancelled,1.0
+ORD11736,CUST1601,2024-02-14,Surat,Sports,2303.94,3,20.0,UPI,Delivered,4.0
+ORD11737,CUST1306,2024-04-05,Pune,Books,1053.65,1,15.0,Net Banking,Returned,1.0
+ORD11738,CUST1654,2024-08-08,Hyderabad,Clothing,1902.02,4,,Debit Card,Returned,5.0
+ORD11739,CUST1985,2024-08-17,Ahmedabad,Sports,2129.24,3,20.0,Net Banking,Delivered,3.0
+ORD11740,CUST1434,2024-10-12,Delhi,Sports,4154.94,3,10.0,Cash on Delivery,Returned,
+ORD11741,CUST1706,2024-10-11,Bangalore,Beauty,3694.71,3,0.0,Net Banking,Shipped,5.0
+ORD11742,CUST1256,2024-09-19,Delhi,Books,3869.59,3,10.0,Cash on Delivery,Cancelled,3.0
+ORD11743,CUST1467,2024-07-27,Ahmedabad,Clothing,154.05,2,15.0,Debit Card,Shipped,
+ORD11744,CUST1865,2024-02-22,Mumbai,Books,2139.15,4,10.0,Debit Card,Returned,
+ORD11745,CUST1309,2024-01-14,Ahmedabad,Books,2458.59,1,20.0,Debit Card,Shipped,
+ORD11746,CUST1203,2024-02-15,Hyderabad,Beauty,194.04,1,10.0,UPI,Delivered,2.0
+ORD11747,CUST1393,2024-06-30,Ahmedabad,Books,1373.08,2,15.0,UPI,Returned,
+ORD11748,CUST1873,2024-10-10,Pune,Clothing,3825.42,4,15.0,Cash on Delivery,Cancelled,4.0
+ORD11749,CUST1494,2024-02-17,Surat,Clothing,771.84,3,15.0,UPI,Cancelled,1.0
+ORD11750,CUST1109,2024-11-01,Delhi,Electronics,2723.02,2,20.0,Credit Card,Cancelled,4.0
+ORD11751,CUST1242,2024-11-02,Surat,Home,1154.49,4,15.0,Debit Card,Delivered,1.0
+ORD11752,CUST1390,2024-06-15,Hyderabad,Sports,159.39,3,0.0,Debit Card,Cancelled,5.0
+ORD11753,CUST1585,2024-07-16,Mumbai,Home,1281.89,2,15.0,Cash on Delivery,Shipped,5.0
+ORD11754,CUST1367,2024-01-07,Hyderabad,Beauty,4881.78,4,10.0,UPI,Shipped,1.0
+ORD11755,CUST1588,2024-05-29,Delhi,Books,4027.53,1,,Debit Card,Returned,4.0
+ORD11756,CUST1302,2024-07-30,Surat,Electronics,4801.93,1,10.0,Net Banking,Cancelled,1.0
+ORD11757,CUST1716,2024-07-17,Mumbai,Electronics,2490.48,4,,UPI,Delivered,
+ORD11758,CUST1302,2024-02-13,Bangalore,Beauty,637.71,1,10.0,Net Banking,Shipped,2.0
+ORD11759,CUST1022,2024-10-13,Pune,Sports,2785.0,4,20.0,Debit Card,Returned,5.0
+ORD11760,CUST1849,2024-05-04,Mumbai,Sports,2326.45,3,10.0,Debit Card,Shipped,2.0
+ORD11761,CUST1674,2024-10-19,Surat,Home,4237.35,4,20.0,Net Banking,Shipped,
+ORD11762,CUST1405,2024-09-23,Ahmedabad,Home,580.6,3,20.0,Debit Card,Returned,
+ORD11763,CUST1281,2024-03-27,Delhi,Clothing,2492.38,2,15.0,UPI,Shipped,5.0
+ORD11764,CUST1008,2024-12-16,Pune,Home,835.24,4,0.0,Credit Card,Shipped,5.0
+ORD11765,CUST1579,2024-07-13,Surat,Home,1690.91,2,,Credit Card,Delivered,
+ORD11766,CUST1885,2024-03-27,Bangalore,Books,3713.05,1,15.0,Credit Card,Returned,3.0
+ORD11767,CUST1702,2024-03-12,Pune,Beauty,2432.49,3,15.0,Debit Card,Returned,2.0
+ORD11768,CUST1796,2024-05-17,Mumbai,Electronics,1941.85,4,20.0,Cash on Delivery,Cancelled,2.0
+ORD11769,CUST1762,2024-06-03,Surat,Home,2032.93,2,20.0,UPI,Shipped,3.0
+ORD11770,CUST1996,2024-05-17,Ahmedabad,Clothing,2351.29,3,,UPI,Delivered,4.0
+ORD11771,CUST1050,2024-09-09,Ahmedabad,Home,3946.58,3,10.0,Debit Card,Cancelled,2.0
+ORD11772,CUST1932,2024-03-15,Bangalore,Books,4471.21,1,10.0,UPI,Returned,1.0
+ORD11773,CUST1620,2024-02-02,Ahmedabad,Sports,4781.14,1,15.0,Debit Card,Delivered,
+ORD11774,CUST1763,2024-03-26,Ahmedabad,Books,3955.83,3,5.0,Credit Card,Returned,
+ORD11775,CUST1508,2024-08-10,Hyderabad,Clothing,1645.49,3,5.0,UPI,Shipped,3.0
+ORD11776,CUST1852,2024-05-21,Delhi,Sports,3471.86,4,10.0,Cash on Delivery,Cancelled,2.0
+ORD11777,CUST1925,2024-08-03,Bangalore,Electronics,2244.26,3,5.0,Debit Card,Cancelled,4.0
+ORD11778,CUST1924,2024-06-02,Pune,Clothing,1347.89,4,10.0,UPI,Shipped,2.0
+ORD11779,CUST1293,2024-09-04,Surat,Clothing,4220.27,3,20.0,Net Banking,Shipped,
+ORD11780,CUST1794,2024-02-09,Ahmedabad,Beauty,288.29,1,15.0,Net Banking,Returned,5.0
+ORD11781,CUST1818,2024-07-03,Hyderabad,Home,4518.63,4,0.0,Cash on Delivery,Cancelled,1.0
+ORD11782,CUST1235,2024-05-08,Delhi,Clothing,2361.24,2,15.0,Cash on Delivery,Cancelled,3.0
+ORD11783,CUST1621,2024-05-06,Ahmedabad,Beauty,3222.29,1,10.0,Net Banking,Cancelled,5.0
+ORD11784,CUST1821,2024-11-16,Bangalore,Electronics,3330.83,4,10.0,Debit Card,Cancelled,4.0
+ORD11785,CUST1360,2024-09-10,Bangalore,Electronics,4486.08,4,15.0,UPI,Delivered,5.0
+ORD11786,CUST1224,2024-10-31,Ahmedabad,Beauty,3219.68,2,,Net Banking,Returned,5.0
+ORD11787,CUST1651,2024-11-11,Mumbai,Electronics,3108.27,4,10.0,Cash on Delivery,Delivered,4.0
+ORD11788,CUST1194,2024-04-10,Bangalore,Clothing,426.59,3,5.0,UPI,Cancelled,5.0
+ORD11789,CUST1635,2024-08-22,Surat,Books,2640.2,2,5.0,Debit Card,Shipped,3.0
+ORD11790,CUST1256,2024-02-24,Pune,Clothing,835.83,1,10.0,Net Banking,Shipped,
+ORD11791,CUST1694,2024-03-10,Mumbai,Home,3713.43,1,10.0,Cash on Delivery,Cancelled,2.0
+ORD11792,CUST1773,2024-06-04,Mumbai,Electronics,2609.89,3,,Net Banking,Delivered,5.0
+ORD11793,CUST1738,2024-01-04,Pune,Home,3433.12,1,5.0,Debit Card,Delivered,3.0
+ORD11794,CUST1785,2024-07-21,Ahmedabad,Beauty,304.2,4,10.0,Cash on Delivery,Returned,2.0
+ORD11795,CUST1675,2024-06-19,Ahmedabad,Electronics,515.48,4,10.0,UPI,Shipped,2.0
+ORD11796,CUST1697,2024-11-13,Hyderabad,Home,3609.98,3,,Net Banking,Cancelled,5.0
+ORD11797,CUST1858,2024-07-13,Surat,Sports,453.21,1,,UPI,Delivered,3.0
+ORD11798,CUST1140,2024-06-17,Hyderabad,Sports,449.16,1,15.0,Credit Card,Delivered,
+ORD11799,CUST1643,2024-08-13,Ahmedabad,Electronics,159.33,3,,Debit Card,Returned,5.0
+ORD11800,CUST1099,2024-06-20,Hyderabad,Home,4786.86,2,0.0,Net Banking,Shipped,4.0
+ORD11801,CUST1925,2024-08-08,Mumbai,Clothing,3713.79,1,5.0,Cash on Delivery,Cancelled,2.0
+ORD11802,CUST1642,2024-11-29,Mumbai,Beauty,1830.93,2,15.0,Debit Card,Shipped,5.0
+ORD11803,CUST1661,2024-10-31,Hyderabad,Books,1553.02,1,0.0,Credit Card,Cancelled,2.0
+ORD11804,CUST1040,2024-03-10,Bangalore,Clothing,1813.55,1,10.0,Cash on Delivery,Delivered,3.0
+ORD11805,CUST1316,2024-06-02,Mumbai,Clothing,3895.8,1,10.0,Debit Card,Delivered,1.0
+ORD11806,CUST1807,2024-06-13,Pune,Books,3340.72,1,15.0,Debit Card,Cancelled,5.0
+ORD11807,CUST1451,2024-11-04,Bangalore,Books,1007.46,4,,Net Banking,Shipped,
+ORD11808,CUST1034,2024-12-21,Ahmedabad,Home,953.14,2,10.0,Credit Card,Shipped,5.0
+ORD11809,CUST1593,2024-04-12,Ahmedabad,Books,582.14,2,20.0,Net Banking,Returned,2.0
+ORD11810,CUST1373,2024-09-02,Hyderabad,Sports,3335.48,1,15.0,UPI,Cancelled,3.0
+ORD11811,CUST1749,2024-06-09,Hyderabad,Books,3845.43,1,0.0,Cash on Delivery,Shipped,4.0
+ORD11812,CUST1134,2024-03-31,Ahmedabad,Beauty,1398.73,2,15.0,Credit Card,Delivered,
+ORD11813,CUST1092,2024-07-22,Ahmedabad,Clothing,202.63,4,5.0,Debit Card,Shipped,3.0
+ORD11814,CUST1931,2024-06-12,Hyderabad,Beauty,502.64,3,,Debit Card,Shipped,5.0
+ORD11815,CUST1302,2024-05-29,Surat,Beauty,4842.51,3,,UPI,Returned,4.0
+ORD11816,CUST1334,2024-12-21,Bangalore,Beauty,1547.68,2,15.0,Debit Card,Shipped,3.0
+ORD11817,CUST1765,2024-11-20,Bangalore,Electronics,3869.19,1,10.0,Cash on Delivery,Returned,1.0
+ORD11818,CUST1425,2024-09-08,Surat,Sports,3160.85,1,10.0,Net Banking,Delivered,
+ORD11819,CUST1179,2024-10-21,Mumbai,Books,1971.5,4,20.0,Credit Card,Delivered,2.0
+ORD11820,CUST1205,2024-05-04,Mumbai,Beauty,1107.87,3,20.0,Cash on Delivery,Delivered,3.0
+ORD11821,CUST1135,2024-06-15,Pune,Books,694.79,4,,UPI,Delivered,3.0
+ORD11822,CUST1805,2024-07-11,Delhi,Electronics,3113.56,3,20.0,Cash on Delivery,Delivered,1.0
+ORD11823,CUST1552,2024-05-23,Mumbai,Home,3895.71,2,0.0,UPI,Shipped,5.0
+ORD11824,CUST1897,2024-07-20,Bangalore,Clothing,3255.13,3,20.0,Cash on Delivery,Cancelled,
+ORD11825,CUST1994,2024-07-05,Ahmedabad,Electronics,2698.48,4,0.0,Debit Card,Delivered,
+ORD11826,CUST1374,2024-02-28,Mumbai,Home,305.56,4,20.0,Debit Card,Shipped,2.0
+ORD11827,CUST1543,2024-10-15,Hyderabad,Clothing,4845.6,4,,UPI,Returned,3.0
+ORD11828,CUST1513,2024-04-12,Mumbai,Beauty,4013.7,2,,Cash on Delivery,Delivered,4.0
+ORD11829,CUST1935,2024-10-30,Surat,Books,1534.83,3,0.0,Cash on Delivery,Cancelled,3.0
+ORD11830,CUST1279,2024-10-06,Ahmedabad,Home,4901.85,3,15.0,Net Banking,Shipped,2.0
+ORD11831,CUST1850,2024-04-02,,Electronics,3049.22,4,,Net Banking,Shipped,3.0
+ORD11832,CUST1168,2024-12-15,Pune,Sports,2953.87,3,15.0,Credit Card,Shipped,1.0
+ORD11833,CUST1263,2024-10-08,,Beauty,3765.56,1,10.0,Debit Card,Returned,3.0
+ORD11834,CUST1935,2024-01-14,Mumbai,Electronics,4077.67,1,0.0,UPI,Cancelled,3.0
+ORD11835,CUST1844,2024-08-24,Hyderabad,Electronics,3316.75,1,,Debit Card,Delivered,4.0
+ORD11836,CUST1966,2024-12-28,Pune,Sports,727.67,3,5.0,Cash on Delivery,Returned,1.0
+ORD11837,CUST1493,2024-04-17,Bangalore,Beauty,1757.51,2,10.0,Debit Card,Delivered,1.0
+ORD11838,CUST1990,2024-08-12,Hyderabad,Home,4647.61,2,15.0,Net Banking,Cancelled,3.0
+ORD11839,CUST1825,2024-05-29,Pune,Beauty,1200.62,2,,Cash on Delivery,Shipped,
+ORD11840,CUST1302,2024-12-20,,Beauty,1923.62,2,0.0,Debit Card,Delivered,4.0
+ORD11841,CUST1764,2024-02-05,Pune,Home,2217.18,1,20.0,Credit Card,Shipped,3.0
+ORD11842,CUST1891,2024-07-28,Bangalore,Electronics,2253.08,1,5.0,Net Banking,Shipped,3.0
+ORD11843,CUST1346,2024-12-10,Hyderabad,Electronics,3103.4,4,15.0,Net Banking,Delivered,2.0
+ORD11844,CUST1823,2024-09-12,Surat,Home,4721.07,3,10.0,Debit Card,Delivered,2.0
+ORD11845,CUST1117,2024-03-12,Ahmedabad,Beauty,1279.39,3,0.0,Cash on Delivery,Cancelled,
+ORD11846,CUST1479,2024-11-20,Surat,Sports,695.36,2,5.0,Cash on Delivery,Delivered,4.0
+ORD11847,CUST1986,2024-06-04,Bangalore,Clothing,1067.61,1,0.0,Net Banking,Cancelled,5.0
+ORD11848,CUST1077,2024-05-03,Bangalore,Sports,4445.93,2,,Cash on Delivery,Cancelled,2.0
+ORD11849,CUST1144,2024-05-09,Ahmedabad,Books,3264.47,4,20.0,Credit Card,Delivered,5.0
+ORD11850,CUST1772,2024-12-03,Hyderabad,Beauty,1500.94,3,10.0,UPI,Shipped,1.0
+ORD11851,CUST1989,2024-03-19,Surat,Electronics,4098.14,3,0.0,Cash on Delivery,Returned,2.0
+ORD11852,CUST1231,2024-08-04,Ahmedabad,Home,,2,15.0,Credit Card,Delivered,2.0
+ORD11853,CUST1880,2024-07-12,Pune,Sports,4247.92,4,,Cash on Delivery,Delivered,4.0
+ORD11854,CUST1692,2024-02-07,Delhi,Books,4602.74,3,,Net Banking,Cancelled,
+ORD11855,CUST1741,2024-08-17,Pune,Books,1335.98,4,10.0,Credit Card,Cancelled,5.0
+ORD11856,CUST1690,2024-11-02,Hyderabad,Electronics,3799.71,4,,Net Banking,Cancelled,2.0
+ORD11857,CUST1406,2024-09-02,Delhi,Clothing,,2,15.0,Debit Card,Delivered,2.0
+ORD11858,CUST1990,2024-10-25,Bangalore,Clothing,4225.79,1,0.0,Cash on Delivery,Returned,4.0
+ORD11859,CUST1866,2024-07-24,Pune,Books,3669.6,2,10.0,Cash on Delivery,Delivered,4.0
+ORD11860,CUST1823,2024-09-30,Surat,Sports,3904.59,1,,Net Banking,Delivered,
+ORD11861,CUST1570,2024-09-16,Delhi,Books,3315.19,4,,Cash on Delivery,Delivered,5.0
+ORD11862,CUST1374,2024-12-20,Pune,Beauty,969.4,1,15.0,UPI,Returned,1.0
+ORD11863,CUST1092,2024-08-02,Hyderabad,Electronics,2770.63,4,20.0,Cash on Delivery,Returned,
+ORD11864,CUST1809,2024-10-05,Mumbai,Electronics,4924.88,3,20.0,Credit Card,Cancelled,1.0
+ORD11865,CUST1404,2024-01-19,Delhi,Clothing,4693.2,3,,Debit Card,Shipped,3.0
+ORD11866,CUST1014,2024-07-03,,Books,311.55,3,0.0,Net Banking,Delivered,2.0
+ORD11867,CUST1270,2024-12-25,Hyderabad,Home,907.59,2,10.0,Credit Card,Cancelled,5.0
+ORD11868,CUST1549,2024-10-01,Bangalore,Home,745.47,2,,Credit Card,Returned,
+ORD11869,CUST1126,2024-10-31,Hyderabad,Sports,3657.3,4,5.0,Credit Card,Delivered,2.0
+ORD11870,CUST1465,2024-11-22,Bangalore,Sports,4107.15,3,10.0,Debit Card,Returned,5.0
+ORD11871,CUST1377,2024-02-13,Surat,Beauty,1146.21,2,20.0,Net Banking,Shipped,5.0
+ORD11872,CUST1688,2024-02-25,Pune,Clothing,2578.68,3,,Net Banking,Cancelled,5.0
+ORD11873,CUST1766,2024-05-07,Pune,Electronics,4219.44,2,15.0,Debit Card,Shipped,2.0
+ORD11874,CUST1688,2024-12-02,Ahmedabad,Home,3690.73,1,5.0,UPI,Returned,
+ORD11875,CUST1268,2024-12-06,Pune,Beauty,2756.96,1,,Credit Card,Returned,4.0
+ORD11876,CUST1598,2024-06-30,Pune,Home,2992.7,3,0.0,Net Banking,Cancelled,2.0
+ORD11877,CUST1390,2024-03-26,Ahmedabad,Home,2590.97,4,5.0,Debit Card,Delivered,5.0
+ORD11878,CUST1842,2024-11-27,Ahmedabad,Beauty,1557.99,2,,Debit Card,Delivered,
+ORD11879,CUST1653,2024-11-09,Mumbai,Home,2868.61,2,0.0,Credit Card,Cancelled,3.0
+ORD11880,CUST1962,2024-01-23,Bangalore,Clothing,3475.54,1,5.0,Debit Card,Delivered,1.0
+ORD11881,CUST1380,2024-10-15,Mumbai,Books,4379.28,1,0.0,Cash on Delivery,Cancelled,5.0
+ORD11882,CUST1110,2024-11-26,Ahmedabad,Home,3217.83,4,0.0,Credit Card,Cancelled,3.0
+ORD11883,CUST1691,2024-12-12,Bangalore,Electronics,3829.5,4,5.0,Net Banking,Returned,4.0
+ORD11884,CUST1239,2024-11-27,Hyderabad,Beauty,884.35,4,5.0,Credit Card,Cancelled,5.0
+ORD11885,CUST1482,2024-07-23,Bangalore,Home,2361.63,3,0.0,UPI,Cancelled,3.0
+ORD11886,CUST1025,2024-06-18,Delhi,Sports,145.72,1,20.0,Credit Card,Cancelled,5.0
+ORD11887,CUST1634,2024-08-08,Hyderabad,Electronics,1308.73,3,5.0,Credit Card,Returned,2.0
+ORD11888,CUST1905,2024-02-24,Bangalore,Books,3659.66,1,,UPI,Returned,
+ORD11889,CUST1965,2024-01-06,Delhi,Home,4959.87,1,10.0,Credit Card,Cancelled,3.0
+ORD11890,CUST1574,2024-02-20,Bangalore,Clothing,585.97,2,15.0,Debit Card,Shipped,
+ORD11891,CUST1335,2024-05-12,Delhi,Clothing,2067.32,1,0.0,Net Banking,Delivered,2.0
+ORD11892,CUST1937,2024-04-23,Surat,Home,4020.35,1,0.0,Net Banking,Returned,2.0
+ORD11893,CUST1624,2024-09-18,Bangalore,Sports,1099.77,3,15.0,Cash on Delivery,Returned,
+ORD11894,CUST1226,2024-09-22,Hyderabad,Beauty,2819.92,1,20.0,Net Banking,Shipped,3.0
+ORD11895,CUST1663,2024-10-12,Mumbai,Clothing,3692.05,3,15.0,Net Banking,Cancelled,
+ORD11896,CUST1064,2024-10-24,Delhi,Electronics,3118.33,4,5.0,UPI,Shipped,
+ORD11897,CUST1650,2024-12-18,Delhi,Beauty,1021.32,1,15.0,Credit Card,Shipped,1.0
+ORD11898,CUST1843,2024-10-21,Bangalore,Sports,1841.38,1,0.0,Credit Card,Delivered,3.0
+ORD11899,CUST1475,2024-04-23,Bangalore,Books,3940.58,3,15.0,Debit Card,Returned,1.0
+ORD11900,CUST1931,2024-08-16,Delhi,Beauty,2815.71,4,10.0,Credit Card,Shipped,5.0
+ORD11901,CUST1717,2024-07-10,Ahmedabad,Books,125.63,2,,UPI,Cancelled,
+ORD11902,CUST1309,2024-07-19,Pune,Beauty,3828.85,4,5.0,Debit Card,Cancelled,5.0
+ORD11903,CUST1664,2024-08-25,Bangalore,Beauty,273.03,3,15.0,Debit Card,Delivered,3.0
+ORD11904,CUST1418,2024-12-13,Bangalore,Clothing,3754.1,4,0.0,Cash on Delivery,Returned,
+ORD11905,CUST1119,2024-10-28,Surat,Sports,1092.15,3,,Credit Card,Cancelled,5.0
+ORD11906,CUST1143,2024-12-19,Pune,Clothing,4794.56,3,5.0,UPI,Returned,4.0
+ORD11907,CUST1046,2024-09-13,Mumbai,Books,1902.91,2,0.0,Net Banking,Cancelled,2.0
+ORD11908,CUST1968,2024-03-18,Bangalore,Clothing,1701.96,1,20.0,UPI,Shipped,
+ORD11909,CUST1038,2024-06-25,Bangalore,Sports,829.55,3,10.0,UPI,Cancelled,2.0
+ORD11910,CUST1311,2024-01-13,Bangalore,Home,1597.46,3,20.0,UPI,Returned,1.0
+ORD11911,CUST1504,2024-09-04,Pune,Books,4395.59,2,10.0,Debit Card,Shipped,5.0
+ORD11912,CUST1118,2024-02-23,Surat,Home,4982.04,3,15.0,Cash on Delivery,Shipped,1.0
+ORD11913,CUST1099,2024-05-31,Hyderabad,Sports,1904.72,1,5.0,Debit Card,Delivered,
+ORD11914,CUST1240,2024-07-31,Hyderabad,Books,2298.19,2,15.0,UPI,Cancelled,2.0
+ORD11915,CUST1908,2024-02-13,Delhi,Clothing,3638.15,1,10.0,Net Banking,Delivered,2.0
+ORD11916,CUST1550,2024-02-29,Delhi,Clothing,4442.36,1,10.0,Debit Card,Returned,5.0
+ORD11917,CUST1138,2024-03-13,Ahmedabad,Beauty,3005.92,2,10.0,UPI,Delivered,
+ORD11918,CUST1397,2024-06-27,Ahmedabad,Clothing,2018.48,3,,Net Banking,Delivered,4.0
+ORD11919,CUST1464,2024-06-08,Bangalore,Books,2121.85,1,0.0,Credit Card,Shipped,4.0
+ORD11920,CUST1379,2024-06-24,Surat,Books,3508.53,1,5.0,Credit Card,Delivered,5.0
+ORD11921,CUST1686,2024-08-21,Delhi,Beauty,115.77,1,15.0,UPI,Returned,
+ORD11922,CUST1972,2024-04-15,,Clothing,3135.99,1,15.0,Cash on Delivery,Delivered,5.0
+ORD11923,CUST1760,2024-09-23,Pune,Clothing,1841.92,2,20.0,Cash on Delivery,Returned,
+ORD11924,CUST1713,2024-09-04,Hyderabad,Home,3991.57,2,10.0,UPI,Returned,1.0
+ORD11925,CUST1968,2024-06-27,Pune,Beauty,555.65,4,10.0,Cash on Delivery,Returned,5.0
+ORD11926,CUST1553,2024-08-31,Hyderabad,Beauty,2982.19,4,10.0,Cash on Delivery,Cancelled,
+ORD11927,CUST1429,2024-02-19,Surat,Books,2456.77,1,15.0,Cash on Delivery,Cancelled,4.0
+ORD11928,CUST1601,2024-08-12,Ahmedabad,Clothing,3247.4,3,20.0,Debit Card,Returned,
+ORD11929,CUST1760,2024-12-22,Hyderabad,Sports,417.78,1,0.0,Net Banking,Delivered,
+ORD11930,CUST1744,2024-08-19,Pune,Clothing,2941.92,3,,UPI,Delivered,5.0
+ORD11931,CUST1158,2024-06-12,Mumbai,Beauty,2851.27,1,5.0,Credit Card,Shipped,1.0
+ORD11932,CUST1906,2024-02-04,,Books,2847.23,4,0.0,Cash on Delivery,Cancelled,1.0
+ORD11933,CUST1424,2024-06-02,Mumbai,Clothing,3057.09,4,15.0,UPI,Shipped,1.0
+ORD11934,CUST1670,2024-01-23,Mumbai,Home,3414.69,3,,Debit Card,Delivered,1.0
+ORD11935,CUST1101,2024-12-29,Ahmedabad,Electronics,4044.45,1,,Debit Card,Delivered,3.0
+ORD11936,CUST1853,2024-02-28,Delhi,Books,1422.12,3,,Cash on Delivery,Cancelled,5.0
+ORD11937,CUST1501,2024-01-12,Surat,Books,4142.74,4,10.0,Net Banking,Returned,2.0
+ORD11938,CUST1630,2024-06-24,Delhi,Beauty,2541.45,1,5.0,Credit Card,Shipped,5.0
+ORD11939,CUST1417,2024-11-27,Bangalore,Electronics,477.59,1,15.0,Net Banking,Delivered,3.0
+ORD11940,CUST1961,2024-02-25,Pune,Clothing,386.9,3,15.0,Credit Card,Returned,1.0
+ORD11941,CUST1974,2024-12-12,Pune,Home,1737.77,2,,Credit Card,Returned,3.0
+ORD11942,CUST1286,2024-03-25,Hyderabad,Clothing,3946.0,3,15.0,UPI,Returned,4.0
+ORD11943,CUST1033,2024-05-04,Surat,Beauty,3567.64,4,5.0,Credit Card,Delivered,4.0
+ORD11944,CUST1706,2024-09-21,Ahmedabad,Electronics,3964.21,4,5.0,Credit Card,Delivered,5.0
+ORD11945,CUST1379,2024-03-30,Pune,Home,2634.62,4,20.0,Debit Card,Cancelled,5.0
+ORD11946,CUST1222,2024-10-09,Pune,Sports,2256.98,4,20.0,Net Banking,Returned,2.0
+ORD11947,CUST1454,2024-03-22,Hyderabad,Sports,822.52,4,0.0,Net Banking,Shipped,2.0
+ORD11948,CUST1455,2024-06-18,Delhi,Home,1708.14,2,5.0,Debit Card,Cancelled,4.0
+ORD11949,CUST1973,2024-10-13,Pune,Sports,2226.69,1,5.0,Cash on Delivery,Returned,1.0
+ORD11950,CUST1241,2024-08-06,Ahmedabad,Beauty,534.14,3,5.0,UPI,Shipped,3.0
+ORD11951,CUST1875,2024-08-24,Hyderabad,Beauty,1181.0,3,20.0,Net Banking,Shipped,2.0
+ORD11952,CUST1371,2024-04-28,Pune,Beauty,3031.3,4,,Cash on Delivery,Cancelled,
+ORD11953,CUST1101,2024-07-26,Pune,Home,3704.75,3,,Debit Card,Returned,2.0
+ORD11954,CUST1702,2024-11-18,Mumbai,Clothing,4991.9,4,15.0,UPI,Delivered,1.0
+ORD11955,CUST1376,2024-04-04,Ahmedabad,Clothing,4672.26,2,,Debit Card,Cancelled,1.0
+ORD11956,CUST1557,2024-04-05,Pune,Electronics,3248.57,2,10.0,Cash on Delivery,Cancelled,5.0
+ORD11957,CUST1923,2024-11-23,Bangalore,Clothing,2164.12,1,20.0,Net Banking,Cancelled,3.0
+ORD11958,CUST1660,2024-12-02,Bangalore,Clothing,3217.27,2,5.0,Net Banking,Shipped,1.0
+ORD11959,CUST1367,2024-08-09,Ahmedabad,Electronics,3949.69,2,,Credit Card,Returned,2.0
+ORD11960,CUST1062,2024-07-21,Ahmedabad,Books,679.85,1,20.0,Debit Card,Delivered,2.0
+ORD11961,CUST1407,2024-01-15,Pune,Books,2108.53,3,,Credit Card,Returned,4.0
+ORD11962,CUST1282,2024-11-10,Pune,Home,4215.03,4,0.0,Debit Card,Cancelled,1.0
+ORD11963,CUST1194,2024-04-11,Ahmedabad,Books,1980.78,4,5.0,Net Banking,Shipped,
+ORD11964,CUST1991,2024-08-18,Delhi,Books,2902.17,3,0.0,Debit Card,Shipped,5.0
+ORD11965,CUST1125,2024-10-30,Delhi,Books,2980.07,1,5.0,Debit Card,Cancelled,3.0
+ORD11966,CUST1971,2024-08-07,Ahmedabad,Clothing,1003.93,3,20.0,UPI,Shipped,
+ORD11967,CUST1868,2024-07-18,Hyderabad,Books,1874.95,2,15.0,Cash on Delivery,Returned,5.0
+ORD11968,CUST1843,2024-01-03,Ahmedabad,Clothing,1739.11,1,,UPI,Shipped,2.0
+ORD11969,CUST1465,2024-12-26,Hyderabad,Clothing,228.36,1,,UPI,Returned,
+ORD11970,CUST1093,2024-04-19,Delhi,Beauty,218.54,1,10.0,Credit Card,Returned,5.0
+ORD11971,CUST1678,2024-04-15,Delhi,Electronics,4175.32,4,0.0,Debit Card,Shipped,2.0
+ORD11972,CUST1217,2024-05-22,Bangalore,Home,1438.05,3,,Cash on Delivery,Cancelled,2.0
+ORD11973,CUST1657,2024-12-26,Mumbai,Electronics,2638.59,1,20.0,Net Banking,Returned,2.0
+ORD11974,CUST1654,2024-02-02,Delhi,Beauty,1563.76,1,15.0,Debit Card,Delivered,2.0
+ORD11975,CUST1611,2024-10-22,Delhi,Sports,4709.33,1,20.0,Debit Card,Returned,2.0
+ORD11976,CUST1994,2024-02-22,Surat,Clothing,1370.55,3,0.0,UPI,Shipped,4.0
+ORD11977,CUST1021,2024-10-01,Bangalore,Books,2205.32,4,10.0,Cash on Delivery,Returned,
+ORD11978,CUST1051,2024-04-05,,Books,4376.38,2,,Credit Card,Delivered,5.0
+ORD11979,CUST1805,2024-07-06,Pune,Sports,4225.47,4,20.0,Net Banking,Delivered,4.0
+ORD11980,CUST1341,2024-06-15,Mumbai,Beauty,1011.9,1,5.0,Net Banking,Delivered,4.0
+ORD11981,CUST1249,2024-04-10,,Beauty,4032.95,4,15.0,UPI,Cancelled,1.0
+ORD11982,CUST1128,2024-08-22,Hyderabad,Home,2345.12,4,20.0,Net Banking,Delivered,1.0
+ORD11983,CUST1805,2024-02-28,Ahmedabad,Clothing,2466.55,2,15.0,Debit Card,Cancelled,1.0
+ORD11984,CUST1578,2024-05-14,Hyderabad,Sports,754.05,3,,Debit Card,Delivered,3.0
+ORD11985,CUST1210,2024-12-09,Surat,Sports,494.95,3,5.0,UPI,Delivered,1.0
+ORD11986,CUST1070,2024-09-07,Hyderabad,Sports,3666.9,4,10.0,Credit Card,Returned,5.0
+ORD11987,CUST1849,2024-09-27,Pune,Clothing,2532.66,4,10.0,Debit Card,Shipped,4.0
+ORD11988,CUST1783,2024-11-23,Mumbai,Clothing,2240.57,3,5.0,Credit Card,Delivered,5.0
+ORD11989,CUST1567,2024-06-09,Delhi,Clothing,3674.59,3,15.0,Credit Card,Shipped,
+ORD11990,CUST1212,2024-11-01,Hyderabad,Clothing,3851.01,2,,Net Banking,Cancelled,1.0
+ORD11991,CUST1600,2024-07-17,Delhi,Electronics,878.65,1,20.0,Debit Card,Shipped,3.0
+ORD11992,CUST1221,2024-11-08,Delhi,Sports,3090.1,4,5.0,Net Banking,Shipped,
+ORD11993,CUST1832,2024-07-19,Pune,Electronics,763.24,3,0.0,UPI,Delivered,3.0
+ORD11994,CUST1890,2024-10-27,Bangalore,Home,3781.74,4,15.0,Debit Card,Shipped,
+ORD11995,CUST1238,2024-02-28,Bangalore,Sports,3319.08,4,10.0,UPI,Delivered,4.0
+ORD11996,CUST1336,2024-06-27,Mumbai,Clothing,4787.41,3,5.0,Net Banking,Cancelled,5.0
+ORD11997,CUST1792,2024-06-29,Bangalore,Beauty,437.89,2,10.0,Net Banking,Delivered,2.0
+ORD11998,CUST1151,2024-08-22,,Beauty,379.57,4,15.0,Net Banking,Shipped,5.0
+ORD11999,CUST1807,2024-11-12,Ahmedabad,Clothing,1482.72,2,10.0,Debit Card,Returned,1.0
