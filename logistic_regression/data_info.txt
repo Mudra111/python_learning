@@ -1,0 +1,29 @@
+survived (output) -> 0 or 1 
+
+pclass (Passenger Class) -> 1 (first class- rich), 2 (middle class), 3 (lower class) 
+
+sex -> male, female
+
+age -> age as float values
+
+sibsp (Siblings/Spouses aboard or on the ship) -> number
+
+parch (Parents/Children aboard or on the ship) -> number
+
+fare (ticket price paid) -> float number
+
+embarked (Port where passenger boarded) -> S(Southampton), C(Cherbourg) , Q(Queenstown) 
+
+class (same as pclass - in text) -> First, Second, Third
+
+who (age + sex) -> man, woman, child
+
+adult_male (man and adult) -> true(for adult and man) , false (for not man and adult)
+
+deck (represents cabin location)(higher decks -> closer to lifeboats) -> A,B,C,D,E,F,G
+
+embark_town (full name of port) -> Southampton, Cherbourg , Queenstown
+
+alive (same as survived, but in text) -> true, false
+
+alone (whether passenger was travelling alone or not) -> true, false
