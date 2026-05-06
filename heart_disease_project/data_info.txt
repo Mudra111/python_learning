@@ -1,0 +1,22 @@
+Age : Age of the patient (in years)
+Sex : M → Male , F → Female (Males generally have higher heart disease risk (statistically))
+ChestPainType : TA (Typical Angina) -> Classic heart pain (due to blocked arteries)
+                ATA (Atypical Angina) -> Not typical, but still may indicate heart issue
+                NAP (Non-Anginal Pain) -> Chest pain NOT related to heart
+                ASY (Asymptomatic) -> No chest pain at all (dangerous because silent)
+RestingBP (Resting Blood Pressure) : Blood pressure when patient is at rest, Unit: mm Hg
+                                     High BP = higher risk
+Cholesterol : Cholesterol level in blood , Unit: mg/dL
+              High cholesterol = fat buildup in arteries → heart risk
+FastingBS (Fasting Blood Sugar) : 1 → >120 mg/dL (High), 0 → Normal
+                                  High sugar may indicate diabetes → increases heart risk
+RestingECG (Electrocardiogram) : Measures electrical activity of heart , Helps detect heart abnormalities
+                                 Normal
+                                 ST → abnormal heart activity
+                                 LVH (Left Ventricular Hypertrophy) → thickened heart wall (bad sign) 
+MaxHR (Maximum Heart Rate) : Max heart rate achieved during exercise , Lower-than-expected values may indicate heart issues
+ExerciseAngina : Y → Yes (pain during exercise) , N → No (Pain during exercise = strong indicator of heart disease)
+Oldpeak : ST depression (difference in ECG before & after exercise) , Higher value = more abnormal heart response
+ST_Slope : Slope of ECG signal during exercise
+           Up → Normal , Flat → Risk , Down → High risk
+HeartDisease (target) : 0 → No heart disease , 1 → Has heart disease 
