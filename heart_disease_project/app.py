@@ -10,6 +10,7 @@ st.title('Heart Stroke Prediction')
 
 st.markdown('Please Provide Following Details : ')
 
+# take inputs from user
 age = st.slider('Age',18,100,40)
 sex = st.selectbox('Sex',['M','F'])
 chest_pain = st.selectbox('Chest Pain Type',['ATA','TA','NAP','ASY'])
@@ -22,6 +23,7 @@ exercise_angina = st.selectbox('Exercise-Induced Angina',['Y','N'])
 oldpeak = st.slider('Oldpeak (ST Depression)',0.0, 6.0, 1.0)
 st_slope = st.selectbox('ST Slope',['Up','Flat','Down'])
 
+#add function on button click
 if st.button('Predict'):
     raw_input = {
         'Age':age,
