@@ -25,6 +25,7 @@ st_slope = st.selectbox('ST Slope',['Up','Flat','Down'])
 
 #add function on button click
 if st.button('Predict'):
+    # create an object for the inputs
     raw_input = {
         'Age':age,
         'RestingBP':restingBp,
