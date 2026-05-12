@@ -38,7 +38,7 @@ if st.button('Predict'):
         'ST_Slope_' + st_slope : 1
     }
 
-    # create dataframe from all inputs
+    # create dataframe from all the inputs
     input_df = pd.DataFrame([raw_input])
 
     for col in expected_columns:
