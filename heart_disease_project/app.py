@@ -38,6 +38,7 @@ if st.button('Predict'):
         'ST_Slope_' + st_slope : 1
     }
 
+    # create dataframe from all inputs
     input_df = pd.DataFrame([raw_input])
 
     for col in expected_columns:
@@ -46,9 +47,11 @@ if st.button('Predict'):
 
     input_df = input_df[expected_columns]
 
+    # use scaler to scale inputs and predict the output with our model
     scaled_input = scaler.transform(input_df)
     prediction = model.predict(scaled_input)[0]
 
+    # show warning according to prediction
     if prediction == 1:
         st.error('High Risk of Heart Disease')
     else:
