@@ -1,4 +1,5 @@
 numpy
+pytorch
 pandas
 seaborn
 scikit-learn
